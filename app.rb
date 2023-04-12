@@ -6,16 +6,12 @@ require 'icalendar/tzinfo'
 
 browser = Mechanize.new
 page = browser.get("https://montreal.ca/en/places/piscine-quintal")
-puts page.title
+header_image = page.at('meta[property="og:image"]')['content']
 
-message_bar = page.at('div.message-bar-container')
+message_bar = page.at('div.alert div.message-bar-container')
 if message_bar
   notice_title = message_bar.at('div.message-bar-heading').text.strip
   notice_contents = message_bar.at('p').text.strip
-
-  puts "Notice:"
-  puts "\tTitle: #{notice_title}"
-  puts "\tContents: #{notice_contents}"
 end
 
 contents = page.at('div.content-modules')
@@ -23,9 +19,6 @@ contents = page.at('div.content-modules')
 season_from, season_to = contents.search('time').map do |time|
   DateTime.parse(time.attributes['datetime'].value)
 end
-
-puts "From: #{season_from}"
-puts "To: #{season_to}"
 
 calendar = {}
 
@@ -70,7 +63,15 @@ calendar.sort.each do |day, periods|
       e.dtstart     = Icalendar::Values::DateTime.new(event_start, 'tzid' => tzid)
       e.dtend       = Icalendar::Values::DateTime.new(event_end, 'tzid' => tzid)
       e.summary     = "Open swim #{period[:section].downcase}"
-      # e.description = "Have a long lunch meeting and decide nothing..."
+
+      if notice_title
+        e.summary = "#{notice_title} - #{e.summary}"
+        e.description = "#{notice_title} - #{notice_contents}"
+        e.color = "#ffb833"
+      else
+        e.color = "#00a0e9"
+      end
+
       # e.ip_class    = "PRIVATE"
       e.location    = "Piscine Quintal, 1550 rue Dufresne, Montréal (Québec) H2K 3J5"
       e.url         = "https://montreal.ca/places/piscine-quintal"
@@ -78,7 +79,7 @@ calendar.sort.each do |day, periods|
       e.last_modified = DateTime.now
       e.organizer   = page.title
       e.rrule       = "FREQ=WEEKLY;UNTIL=#{season_to.strftime('%Y%m%d')}"
-      e.freebusy    = "FREE"
+      e.image       = header_image
     end
 
   end
