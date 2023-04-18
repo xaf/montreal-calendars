@@ -17,6 +17,7 @@ X-WR-CALACCESS:PUBLIC
 X-WR-CALOWNER:Ville de Montréal
 X-WR-CALSCALE:GREGORIAN
 X-WR-CALCLASS:PUBLIC
+X-WR-CALCOLOR:#9fc6e7
 BEGIN:VTIMEZONE
 TZID:America/Montreal
 BEGIN:DAYLIGHT
@@ -35,11 +36,11 @@ TZNAME:EST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20230418T004121Z
+DTSTAMP:20230418T004629Z
 UID:d1ecae7e9100c131b3cbfa6f63420d85eb871d1f0d25ca5b6c3f0c78c4fd1d9e
 DTSTART;TZID=America/Montreal:20230309T130000
 DTEND;TZID=America/Montreal:20230309T170000
-COLOR:#ffb833
+COLOR:#f9c25c
 CREATED:20230417T004634
 DESCRIPTION:Fermeture exceptionnelle - Ce lieu est temporairement fermé à
   cause d'un bris mécanique.
@@ -54,11 +55,11 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T004121Z
+DTSTAMP:20230418T004629Z
 UID:ab59ed83fe30c49610193d01383f71843fade9be0b9b33ed1a47cd777897b359
 DTSTART;TZID=America/Montreal:20230310T110000
 DTEND;TZID=America/Montreal:20230310T160000
-COLOR:#ffb833
+COLOR:#f9c25c
 CREATED:20230417T004634
 DESCRIPTION:Fermeture exceptionnelle - Ce lieu est temporairement fermé à
   cause d'un bris mécanique.
@@ -73,11 +74,11 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T004121Z
+DTSTAMP:20230418T004629Z
 UID:c5ccd398d12d49fe7abc856935e33b4ef5343179fc970c012f9f66e6bbba458d
 DTSTART;TZID=America/Montreal:20230310T170000
 DTEND;TZID=America/Montreal:20230310T200000
-COLOR:#ffb833
+COLOR:#f9c25c
 CREATED:20230417T004634
 DESCRIPTION:Fermeture exceptionnelle - Ce lieu est temporairement fermé à
   cause d'un bris mécanique.
@@ -92,11 +93,11 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T004121Z
+DTSTAMP:20230418T004629Z
 UID:dfd0b5a84d4064627bfad9c6c366aefed43bacf2d43d3e830f4f6e9a8e0f6106
 DTSTART;TZID=America/Montreal:20230311T100000
 DTEND;TZID=America/Montreal:20230311T120000
-COLOR:#ffb833
+COLOR:#f9c25c
 CREATED:20230417T004634
 DESCRIPTION:Fermeture exceptionnelle - Ce lieu est temporairement fermé à
   cause d'un bris mécanique.
@@ -111,11 +112,11 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T004121Z
+DTSTAMP:20230418T004629Z
 UID:119bd48c01abe79e9439d623d72008b2302422692e7c7b75a8eb7c04dc44423c
 DTSTART;TZID=America/Montreal:20230311T130000
 DTEND;TZID=America/Montreal:20230311T140000
-COLOR:#ffb833
+COLOR:#f9c25c
 CREATED:20230417T004634
 DESCRIPTION:Fermeture exceptionnelle - Ce lieu est temporairement fermé à
   cause d'un bris mécanique.
@@ -130,11 +131,11 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T004121Z
+DTSTAMP:20230418T004629Z
 UID:65f64599b533be2353cbd868ffdc87347f3ad86a08c988b57255df3f69535c38
 DTSTART;TZID=America/Montreal:20230313T160000
 DTEND;TZID=America/Montreal:20230313T200000
-COLOR:#ffb833
+COLOR:#f9c25c
 CREATED:20230417T004634
 DESCRIPTION:Fermeture exceptionnelle - Ce lieu est temporairement fermé à
   cause d'un bris mécanique.
@@ -149,11 +150,11 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T004121Z
+DTSTAMP:20230418T004629Z
 UID:a27f4e1e4f89ec3e9a38edf4bba61324df988228507556b19ffe0bedafda0eaf
 DTSTART;TZID=America/Montreal:20230314T130000
 DTEND;TZID=America/Montreal:20230314T160000
-COLOR:#ffb833
+COLOR:#f9c25c
 CREATED:20230417T004634
 DESCRIPTION:Fermeture exceptionnelle - Ce lieu est temporairement fermé à
   cause d'un bris mécanique.
@@ -168,11 +169,11 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T004121Z
+DTSTAMP:20230418T004629Z
 UID:250d7bab6bf7198d0c3ba4b36e4acfadccb85feda7884349c65dea62ac61c99a
 DTSTART;TZID=America/Montreal:20230314T180000
 DTEND;TZID=America/Montreal:20230314T200000
-COLOR:#ffb833
+COLOR:#f9c25c
 CREATED:20230417T004634
 DESCRIPTION:Fermeture exceptionnelle - Ce lieu est temporairement fermé à
   cause d'un bris mécanique.
@@ -187,11 +188,11 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T004121Z
+DTSTAMP:20230418T004629Z
 UID:812d8fff0940949410d527f8d8cd21f2224fc64aefd900a952c563b0df2036b2
 DTSTART;TZID=America/Montreal:20230315T110000
 DTEND;TZID=America/Montreal:20230315T160000
-COLOR:#ffb833
+COLOR:#f9c25c
 CREATED:20230417T004634
 DESCRIPTION:Fermeture exceptionnelle - Ce lieu est temporairement fermé à
   cause d'un bris mécanique.
@@ -206,11 +207,11 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230418T004121Z
+DTSTAMP:20230418T004629Z
 UID:ed572a532c1aca7efb8593b18d89215c278558deec0ebe9edb684b4f26a1f0ea
 DTSTART;TZID=America/Montreal:20230315T170000
 DTEND;TZID=America/Montreal:20230315T200000
-COLOR:#ffb833
+COLOR:#f9c25c
 CREATED:20230417T004634
 DESCRIPTION:Fermeture exceptionnelle - Ce lieu est temporairement fermé à
   cause d'un bris mécanique.

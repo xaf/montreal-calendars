@@ -107,6 +107,7 @@ class MontrealPlace
     cal.x_wr_calowner = author
     cal.x_wr_calscale = "GREGORIAN"
     cal.x_wr_calclass = "PUBLIC"
+    cal.x_wr_calcolor = "#9fc6e7"
 
     tz = TZInfo::Timezone.get(timezone_id)
     timezone = tz.ical_timezone(season_from)
@@ -123,9 +124,9 @@ class MontrealPlace
         if notice
           e.summary = "#{event.notice} - #{e.summary}"
           e.description = "#{event.notice} - #{event.notice_details}"
-          e.color = "#ffb833"
+          e.color = "#f9c25c"
         else
-          e.color = "#00a0e9"
+          e.color = "#9fc6e7"
         end
 
         # e.ip_class    = "PRIVATE"
