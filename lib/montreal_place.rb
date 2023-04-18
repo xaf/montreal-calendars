@@ -94,8 +94,9 @@ class MontrealPlace
     cal = Icalendar::Calendar.new
     cal.prodid = "-//#{place_name} (github.com/XaF/montreal-calendars)//iCal 2.0//EN"
 
-    cal.x_wr_calname = "#{place_name}"
-    cal.x_wr_caldesc = "#{place_name}"
+    cal.x_wr_calname = place_name
+    cal.x_wr_timezone = timezone_id
+    cal.x_wr_caldesc = place_name
     cal.x_wr_calurl = url
     cal.x_wr_relcalid = "montreal-#{@place}-#{@language}"
     cal.x_wr_relscale = "GREGORIAN"
