@@ -1,0 +1,55 @@
+name: Update Calendars
+
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+   - cron: "0 0 * * *"
+
+
+permissions:
+  contents: write
+
+
+concurrency:
+  group: '${{ github.workflow }} @ ${{ github.event.pull_request.head.label || github.head_ref || github.ref }}'
+
+
+jobs:
+  update_calendars:
+    name: Update calendars
+    runs-on: "ubuntu-latest"
+
+    steps:
+    - name: Checkout last commit
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 1
+
+    - name: Setup ruby and install dependencies
+      uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+
+    - name: Run calendar updates
+      run: |
+        bundle exec ./app.rb
+
+    - name: Make sure all calendar files are tracked
+      run: |
+        git add -N data/ calendars/
+
+    - name: Check if any actual change
+      run: |
+        ANY_CHANGES=$([[ $(git diff data/) ]] && echo "true" || echo "false")
+        echo "ANY_CHANGES=${ANY_CHANGES}" | tee -a "$GITHUB_ENV"
+
+    - name: Commit changes if any
+      uses: stefanzweifel/git-auto-commit-action@v4
+      if: env.ANY_CHANGES == 'true'
+      with:
+        commit_message: 📆 Updating calendars
+        file_pattern: "data/*.json calendars/*.ics"
+
