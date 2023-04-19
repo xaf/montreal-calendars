@@ -1,36 +1,41 @@
+require 'date'
 
 
 class CalendarEvent
   attr_reader :weekday, :start_time, :end_time, :section
 
-  def initialize(place, weekday, start_time, end_time, section)
+  def initialize(place, weekday, start_time, end_time, section, **override)
     @place = place
     @weekday = weekday
     @start_time = start_time
     @end_time = end_time
     @section = section
 
+    override.each do |key, value|
+      instance_variable_set("@#{key}", value)
+    end
+
     @created_at = DateTime.now
     @updated_at = DateTime.now
   end
 
   def first_day
-    @first_day ||= @place.season_from + (@weekday - @place.season_from.wday) % 7
+    @first_day ||= period_start + (@weekday - period_start.wday) % 7
   end
 
   def last_day
     @last_day ||= period_end
   end
 
-  def end_after(datetime)
-    date = DateTime.new(datetime.year, datetime.month, datetime.day, 0, 0, 0)
+  def end_before(datetime)
+    date = Date.new(datetime.year, datetime.month, datetime.day)
 
     @updated_at = datetime
     @last_day = date - 1
   end
 
   def start_after(datetime)
-    date = DateTime.new(datetime.year, datetime.month, datetime.day, 0, 0, 0)
+    date = Date.new(datetime.year, datetime.month, datetime.day)
     next_occurrence = date + (weekday - date.wday) % 7
 
     @first_day = next_occurrence
@@ -52,7 +57,11 @@ class CalendarEvent
     start_t = start_time.map { |t| t.to_s.rjust(2, '0') }.join('h')
     end_t = end_time.map { |t| t.to_s.rjust(2, '0') }.join('h')
 
-    "#{title} (#{ Date::DAYNAMES[@weekday]}, #{start_t}-#{end_t})"
+    event_desc = "#{title} (#{ Date::DAYNAMES[@weekday]}, #{start_t}-#{end_t}, "\
+      "from #{first_day.strftime('%d/%m/%Y')} to #{last_day.strftime('%d/%m/%Y')})"
+    event_desc += " - #{notice}" if notice
+
+    event_desc
   end
 
   def period_start
@@ -93,7 +102,47 @@ class CalendarEvent
     CalendarEvent.hash_of(dynamic_data)
   end
 
-  def to_json(options)
+  def dynamic_active_hash
+    CalendarEvent.hash_of(dynamic_active_data)
+  end
+
+  def without_period(exclude_period_start, exclude_period_end)
+    return [copy] if exclude_period_start > last_day || exclude_period_end < first_day
+
+    new_events = []
+
+    if exclude_period_start > first_day
+      event_before = copy
+      event_before.end_before(exclude_period_start)
+      new_events << event_before
+    end
+
+    if exclude_period_end < last_day
+      event_after = copy
+      event_after.start_after(exclude_period_end)
+      new_events << event_after
+    end
+
+    new_events
+  end
+
+  def overlap(other)
+    !(other.last_day < first_day || other.first_day > last_day)
+  end
+
+  def seen!
+    @seen = true
+  end
+
+  def seen?
+    @seen
+  end
+
+  def copy
+    CalendarEvent.from_json(to_json)
+  end
+
+  def to_json(options=nil)
     all_data.to_json(options)
   end
 
@@ -110,8 +159,12 @@ class CalendarEvent
 
     # Set the instance variables
     data.each do |key, value|
-      if value.is_a?(String) && value.match?(/\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}/)
-        value = DateTime.parse(value)
+      if value.is_a?(String)
+        if value.match?(/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}/)
+          value = DateTime.parse(value)
+        elsif value.match?(/^\d{4}-\d{2}-\d{2}$/)
+          value = Date.parse(value)
+        end
       end
 
       object.instance_variable_set("@#{key}", value)
@@ -125,7 +178,10 @@ class CalendarEvent
   end
 
   def <=>(other)
-    [first_day, start_time, end_time, section] <=> [other.first_day, other.start_time, other.end_time, other.section]
+    left = [first_day, start_time, end_time, section]
+    right = [other.first_day, other.start_time, other.end_time, other.section]
+
+    left <=> right
   end
 
   private
@@ -152,6 +208,13 @@ class CalendarEvent
     static_data.merge({
       notice: notice,
       notice_details: notice_details,
+    })
+  end
+
+  def dynamic_active_data
+    dynamic_data.merge({
+      first_day: first_day,
+      last_day: last_day,
     })
   end
 

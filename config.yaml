@@ -1,5 +1,6 @@
 languages:
-- fr
+#- fr
 - en
 places:
-- piscine-quintal
+#- piscine-quintal
+- bibliotheque-frontenac
