@@ -1,0 +1,39 @@
+name: Build
+
+on:
+  pull-request:
+
+
+permissions:
+  contents: write
+
+
+concurrency:
+  group: '${{ github.workflow }} @ ${{ github.event.pull_request.head.label || github.head_ref || github.ref }}'
+
+
+jobs:
+  build:
+    name: Update calendars for tests
+    runs-on: "ubuntu-latest"
+
+    steps:
+    - name: Checkout last commit
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 1
+
+    - name: Setup ruby and install dependencies
+      uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+
+    - name: Run calendar updates
+      run: |
+        bundle exec ./app.rb
+
+    - name: Automerge if Dependabot
+      uses: ahmadnassri/action-dependabot-auto-merge@v2
+      with:
+        target: minor
+        github-token: ${{ secrets.AUTOMERGE_TOKEN }}
