@@ -5,7 +5,7 @@ on:
 
 
 permissions:
-  contents: write
+  contents: read
 
 
 concurrency:
@@ -32,8 +32,22 @@ jobs:
       run: |
         bundle exec ./app.rb
 
+  auto-merge:
+    name: Auto-merge Dependabot pull-requests
+    runs-on: "ubuntu-latest"
+
+    if: github.actor == 'dependabot[bot]'
+
+    needs:
+      - build
+
+    permissions:
+      contents: none
+
+    steps:
     - name: Automerge if Dependabot
       uses: ahmadnassri/action-dependabot-auto-merge@v2
       with:
         target: minor
+        command: 'squash and merge'
         github-token: ${{ secrets.AUTOMERGE_TOKEN }}
