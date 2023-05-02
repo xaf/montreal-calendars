@@ -26,7 +26,7 @@ class CalendarEvent
     date = DateTime.new(datetime.year, datetime.month, datetime.day, 0, 0, 0)
 
     @updated_at = datetime
-    @last_day = date - 1
+    @last_day = date
   end
 
   def start_after(datetime)
