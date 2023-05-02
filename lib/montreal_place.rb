@@ -121,7 +121,7 @@ class MontrealPlace
         e.dtend       = Icalendar::Values::DateTime.new(event.end_datetime, 'tzid' => timezone_id)
         e.summary     = event.title
 
-        if notice
+        if event.notice
           e.summary = "#{event.notice} - #{e.summary}"
           e.description = "#{event.notice} - #{event.notice_details}"
           e.color = "#f9c25c"
