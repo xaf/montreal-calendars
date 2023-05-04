@@ -36,7 +36,7 @@ TZNAME:EST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20230502T231950Z
+DTSTAMP:20230504T004505Z
 UID:87cf8bd759d91ba9e8bc32da7f3614d8bb51892fd64a65a02f274200f5f55a9f
 DTSTART;TZID=America/Montreal:20230309T130000
 DTEND;TZID=America/Montreal:20230309T170000
@@ -49,12 +49,12 @@ LOCATION:Piscine Quintal\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J5
 ORGANIZER:Ville de Montréal
 SUMMARY:Exceptional closure - Open swim for adults
 URL:https://montreal.ca/en/places/piscine-quintal
-RRULE:FREQ=WEEKLY;UNTIL=20230502
+RRULE:FREQ=WEEKLY;UNTIL=20230501
 IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230502T231950Z
+DTSTAMP:20230504T004505Z
 UID:8360c918fe71c9adaba3b1fdee55ed65684dfbc0176b6ca4e66b7a5f7b3a3b98
 DTSTART;TZID=America/Montreal:20230310T110000
 DTEND;TZID=America/Montreal:20230310T160000
@@ -67,12 +67,12 @@ LOCATION:Piscine Quintal\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J5
 ORGANIZER:Ville de Montréal
 SUMMARY:Exceptional closure - Open swim for adults
 URL:https://montreal.ca/en/places/piscine-quintal
-RRULE:FREQ=WEEKLY;UNTIL=20230502
+RRULE:FREQ=WEEKLY;UNTIL=20230501
 IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230502T231950Z
+DTSTAMP:20230504T004505Z
 UID:3ed2c81854f56c7d5b751cfb02a9060c2febb3644fa09b7a0b7288caaad03fa7
 DTSTART;TZID=America/Montreal:20230310T170000
 DTEND;TZID=America/Montreal:20230310T200000
@@ -85,12 +85,12 @@ LOCATION:Piscine Quintal\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J5
 ORGANIZER:Ville de Montréal
 SUMMARY:Exceptional closure - Open swim for everyone
 URL:https://montreal.ca/en/places/piscine-quintal
-RRULE:FREQ=WEEKLY;UNTIL=20230502
+RRULE:FREQ=WEEKLY;UNTIL=20230501
 IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230502T231950Z
+DTSTAMP:20230504T004505Z
 UID:f3739a1b51eca493829314dc97f73d1e9ab0db58f43cf7ca73f60c86f849fb32
 DTSTART;TZID=America/Montreal:20230311T100000
 DTEND;TZID=America/Montreal:20230311T120000
@@ -103,12 +103,12 @@ LOCATION:Piscine Quintal\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J5
 ORGANIZER:Ville de Montréal
 SUMMARY:Exceptional closure - Open swim for everyone
 URL:https://montreal.ca/en/places/piscine-quintal
-RRULE:FREQ=WEEKLY;UNTIL=20230502
+RRULE:FREQ=WEEKLY;UNTIL=20230501
 IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230502T231950Z
+DTSTAMP:20230504T004505Z
 UID:dfb22617270dd835062c71053e9aa7ee09d8f1954fa68e1c2b007c66fc3aa675
 DTSTART;TZID=America/Montreal:20230311T130000
 DTEND;TZID=America/Montreal:20230311T140000
@@ -121,12 +121,12 @@ LOCATION:Piscine Quintal\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J5
 ORGANIZER:Ville de Montréal
 SUMMARY:Exceptional closure - Open swim for adults
 URL:https://montreal.ca/en/places/piscine-quintal
-RRULE:FREQ=WEEKLY;UNTIL=20230502
+RRULE:FREQ=WEEKLY;UNTIL=20230501
 IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230502T231950Z
+DTSTAMP:20230504T004505Z
 UID:853a92482d78dd7a68d1eb9fb8b8c156b1d266c1cdfdaa832eb404678b774c49
 DTSTART;TZID=America/Montreal:20230313T160000
 DTEND;TZID=America/Montreal:20230313T200000
@@ -139,12 +139,12 @@ LOCATION:Piscine Quintal\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J5
 ORGANIZER:Ville de Montréal
 SUMMARY:Exceptional closure - Open swim for adults
 URL:https://montreal.ca/en/places/piscine-quintal
-RRULE:FREQ=WEEKLY;UNTIL=20230502
+RRULE:FREQ=WEEKLY;UNTIL=20230501
 IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230502T231950Z
+DTSTAMP:20230504T004505Z
 UID:a9a8f74b873a53d63c16237e14c02f5eb29a8701fdae62ad59a815f1cd6638e6
 DTSTART;TZID=America/Montreal:20230314T130000
 DTEND;TZID=America/Montreal:20230314T160000
@@ -157,12 +157,28 @@ LOCATION:Piscine Quintal\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J5
 ORGANIZER:Ville de Montréal
 SUMMARY:Exceptional closure - Open swim for adults
 URL:https://montreal.ca/en/places/piscine-quintal
-RRULE:FREQ=WEEKLY;UNTIL=20230502
+RRULE:FREQ=WEEKLY;UNTIL=20230501
 IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230502T231950Z
+DTSTAMP:20230504T004505Z
+UID:e126a98f53a612dc67224e4557b0cec7cf996e98911a7b53e16c31f813954d2a
+DTSTART;TZID=America/Montreal:20230314T170000
+DTEND;TZID=America/Montreal:20230314T200000
+COLOR:#9fc6e7
+CREATED:20230504T004505
+LAST-MODIFIED:20230504T004505
+LOCATION:Piscine Quintal\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J5
+ORGANIZER:Ville de Montréal
+SUMMARY:Open swim for everyone
+URL:https://montreal.ca/en/places/piscine-quintal
+RRULE:FREQ=WEEKLY;UNTIL=20230617
+IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
+ 281199/portail/pstrrdiy9exazm5mvbat.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230504T004505Z
 UID:65633c72ae75bf9417a992daeac73dc34b202565c0281f8f2c0639f6f488ad35
 DTSTART;TZID=America/Montreal:20230314T180000
 DTEND;TZID=America/Montreal:20230314T200000
@@ -175,12 +191,12 @@ LOCATION:Piscine Quintal\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J5
 ORGANIZER:Ville de Montréal
 SUMMARY:Exceptional closure - Open swim for everyone
 URL:https://montreal.ca/en/places/piscine-quintal
-RRULE:FREQ=WEEKLY;UNTIL=20230502
+RRULE:FREQ=WEEKLY;UNTIL=20230501
 IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230502T231950Z
+DTSTAMP:20230504T004505Z
 UID:c00a15559277de2cbecef46f9aa644c9437b809af443bebc296e609427ad75ca
 DTSTART;TZID=America/Montreal:20230315T110000
 DTEND;TZID=America/Montreal:20230315T160000
@@ -193,12 +209,12 @@ LOCATION:Piscine Quintal\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J5
 ORGANIZER:Ville de Montréal
 SUMMARY:Exceptional closure - Open swim for adults
 URL:https://montreal.ca/en/places/piscine-quintal
-RRULE:FREQ=WEEKLY;UNTIL=20230502
+RRULE:FREQ=WEEKLY;UNTIL=20230501
 IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230502T231950Z
+DTSTAMP:20230504T004505Z
 UID:158a75a93ab69536d9a60fa61351c2a497ec2dd0333dd8bdedc9b31ad0758765
 DTSTART;TZID=America/Montreal:20230315T170000
 DTEND;TZID=America/Montreal:20230315T200000
@@ -211,12 +227,12 @@ LOCATION:Piscine Quintal\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J5
 ORGANIZER:Ville de Montréal
 SUMMARY:Exceptional closure - Open swim for everyone
 URL:https://montreal.ca/en/places/piscine-quintal
-RRULE:FREQ=WEEKLY;UNTIL=20230502
+RRULE:FREQ=WEEKLY;UNTIL=20230501
 IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230502T231950Z
+DTSTAMP:20230504T004505Z
 UID:205cae559def036f8bcd9c52fd8c986779d18237010e8fa99d0404f3caab0aeb
 DTSTART;TZID=America/Montreal:20230502T130000
 DTEND;TZID=America/Montreal:20230502T160000
@@ -232,7 +248,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230502T231950Z
+DTSTAMP:20230504T004505Z
 UID:d28d66769663418e87a92cb432aae1d649dcd5c201e5e8e37685926dbd62c391
 DTSTART;TZID=America/Montreal:20230502T180000
 DTEND;TZID=America/Montreal:20230502T200000
@@ -248,7 +264,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230502T231950Z
+DTSTAMP:20230504T004505Z
 UID:3e48469dbae15a2d09e902125b03548569df3a570be03685e9816456e1202f7f
 DTSTART;TZID=America/Montreal:20230503T110000
 DTEND;TZID=America/Montreal:20230503T160000
@@ -264,7 +280,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230502T231950Z
+DTSTAMP:20230504T004505Z
 UID:6527de57111ccf0f57d915d29a30229e6416b93cfc1657e4d5b9c4a30870444b
 DTSTART;TZID=America/Montreal:20230503T170000
 DTEND;TZID=America/Montreal:20230503T200000
@@ -280,7 +296,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230502T231950Z
+DTSTAMP:20230504T004505Z
 UID:585a042a95aec0c5a33a8e9a9dad66631f54792b7336b5e70902a9680f16f3f7
 DTSTART;TZID=America/Montreal:20230504T130000
 DTEND;TZID=America/Montreal:20230504T170000
@@ -296,7 +312,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230502T231950Z
+DTSTAMP:20230504T004505Z
 UID:2466867a72f3028847be07547ac553dcd7638ea1035c3646acd5ef2f6fda37a1
 DTSTART;TZID=America/Montreal:20230505T110000
 DTEND;TZID=America/Montreal:20230505T160000
@@ -312,7 +328,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230502T231950Z
+DTSTAMP:20230504T004505Z
 UID:a21de1d4b32e6fa9e5d4099937a66cb3fe0f4d5b3180904230efdf40e024f23f
 DTSTART;TZID=America/Montreal:20230505T170000
 DTEND;TZID=America/Montreal:20230505T200000
@@ -328,7 +344,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230502T231950Z
+DTSTAMP:20230504T004505Z
 UID:cb2f9118123c8b6578e048ec59d261b9f776bb5c1534225a27d308553053982d
 DTSTART;TZID=America/Montreal:20230506T100000
 DTEND;TZID=America/Montreal:20230506T120000
@@ -344,7 +360,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230502T231950Z
+DTSTAMP:20230504T004505Z
 UID:4e7d92c89460b741a190105e08b48002dc83c0f0d4d8ff893559545ed079ae29
 DTSTART;TZID=America/Montreal:20230506T130000
 DTEND;TZID=America/Montreal:20230506T140000
@@ -360,7 +376,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/v1598
  281199/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230502T231950Z
+DTSTAMP:20230504T004505Z
 UID:7377c90bd9d9ed9c5b62643aae65b17e6fb9db0c9ab3e3485b985fbdb11a0eea
 DTSTART;TZID=America/Montreal:20230508T160000
 DTEND;TZID=America/Montreal:20230508T200000
