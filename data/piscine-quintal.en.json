@@ -283,6 +283,29 @@
       0
     ],
     "end_time": [
+      12,
+      0
+    ],
+    "period_start": "2023-03-09T00:00:00+00:00",
+    "period_end": "2023-06-23T00:00:00+00:00",
+    "section": "For adults",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-03-11T00:00:00+00:00",
+    "start_datetime": "2023-03-11T11:00:00+00:00",
+    "end_datetime": "2023-03-11T12:00:00+00:00",
+    "created_at": "2023-06-16T00:53:02+00:00",
+    "updated_at": "2023-06-16T00:53:02+00:00",
+    "last_day": "2023-06-23T00:00:00+00:00"
+  },
+  {
+    "title": "Open swim for adults",
+    "weekday": 6,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
       13,
       0
     ],
@@ -296,6 +319,29 @@
     "end_datetime": "2023-03-11T13:00:00+00:00",
     "created_at": "2023-06-13T00:53:18+00:00",
     "updated_at": "2023-06-13T00:53:18+00:00",
+    "last_day": "2023-06-23T00:00:00+00:00"
+  },
+  {
+    "title": "Open swim for everyone",
+    "weekday": 6,
+    "start_time": [
+      12,
+      0
+    ],
+    "end_time": [
+      14,
+      0
+    ],
+    "period_start": "2023-03-09T00:00:00+00:00",
+    "period_end": "2023-06-23T00:00:00+00:00",
+    "section": "For everyone",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-03-11T00:00:00+00:00",
+    "start_datetime": "2023-03-11T12:00:00+00:00",
+    "end_datetime": "2023-03-11T14:00:00+00:00",
+    "created_at": "2023-06-16T00:53:02+00:00",
+    "updated_at": "2023-06-16T00:53:02+00:00",
     "last_day": "2023-06-23T00:00:00+00:00"
   },
   {
