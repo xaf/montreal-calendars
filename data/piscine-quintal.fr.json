@@ -1263,5 +1263,488 @@
     "created_at": "2023-05-08T00:44:33+00:00",
     "updated_at": "2023-05-08T00:44:33+00:00",
     "last_day": "2023-06-17T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes",
+    "weekday": 6,
+    "start_time": [
+      10,
+      0
+    ],
+    "end_time": [
+      12,
+      0
+    ],
+    "period_start": "2023-06-24T00:00:00+00:00",
+    "period_end": "2023-08-20T00:00:00+00:00",
+    "section": "Pour les adultes",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-06-24T00:00:00+00:00",
+    "start_datetime": "2023-06-24T10:00:00+00:00",
+    "end_datetime": "2023-06-24T12:00:00+00:00",
+    "created_at": "2023-08-10T00:48:38+00:00",
+    "updated_at": "2023-08-10T00:48:38+00:00",
+    "last_day": "2023-08-20T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes",
+    "weekday": 6,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      12,
+      0
+    ],
+    "period_start": "2023-06-24T00:00:00+00:00",
+    "period_end": "2023-08-20T00:00:00+00:00",
+    "section": "Pour les adultes",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-06-24T00:00:00+00:00",
+    "start_datetime": "2023-06-24T11:00:00+00:00",
+    "end_datetime": "2023-06-24T12:00:00+00:00",
+    "created_at": "2023-08-10T00:48:38+00:00",
+    "updated_at": "2023-08-10T00:48:38+00:00",
+    "last_day": "2023-08-20T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour tous",
+    "weekday": 6,
+    "start_time": [
+      12,
+      0
+    ],
+    "end_time": [
+      14,
+      0
+    ],
+    "period_start": "2023-06-24T00:00:00+00:00",
+    "period_end": "2023-08-20T00:00:00+00:00",
+    "section": "Pour tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-06-24T00:00:00+00:00",
+    "start_datetime": "2023-06-24T12:00:00+00:00",
+    "end_datetime": "2023-06-24T14:00:00+00:00",
+    "created_at": "2023-08-10T00:48:38+00:00",
+    "updated_at": "2023-08-10T00:48:38+00:00",
+    "last_day": "2023-08-20T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes",
+    "weekday": 1,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      13,
+      0
+    ],
+    "period_start": "2023-06-24T00:00:00+00:00",
+    "period_end": "2023-08-20T00:00:00+00:00",
+    "section": "Pour les adultes",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-06-26T00:00:00+00:00",
+    "start_datetime": "2023-06-26T11:00:00+00:00",
+    "end_datetime": "2023-06-26T13:00:00+00:00",
+    "created_at": "2023-08-10T00:48:38+00:00",
+    "updated_at": "2023-08-10T00:48:38+00:00",
+    "last_day": "2023-08-20T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour tous",
+    "weekday": 1,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2023-06-24T00:00:00+00:00",
+    "period_end": "2023-08-20T00:00:00+00:00",
+    "section": "Pour tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-06-26T00:00:00+00:00",
+    "start_datetime": "2023-06-26T13:00:00+00:00",
+    "end_datetime": "2023-06-26T16:00:00+00:00",
+    "created_at": "2023-08-10T00:48:38+00:00",
+    "updated_at": "2023-08-10T00:48:38+00:00",
+    "last_day": "2023-08-20T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes",
+    "weekday": 1,
+    "start_time": [
+      16,
+      0
+    ],
+    "end_time": [
+      20,
+      0
+    ],
+    "period_start": "2023-06-24T00:00:00+00:00",
+    "period_end": "2023-08-20T00:00:00+00:00",
+    "section": "Pour les adultes",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-06-26T00:00:00+00:00",
+    "start_datetime": "2023-06-26T16:00:00+00:00",
+    "end_datetime": "2023-06-26T20:00:00+00:00",
+    "created_at": "2023-08-10T00:48:38+00:00",
+    "updated_at": "2023-08-10T00:48:38+00:00",
+    "last_day": "2023-08-20T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes",
+    "weekday": 2,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      13,
+      0
+    ],
+    "period_start": "2023-06-24T00:00:00+00:00",
+    "period_end": "2023-08-20T00:00:00+00:00",
+    "section": "Pour les adultes",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-06-27T00:00:00+00:00",
+    "start_datetime": "2023-06-27T11:00:00+00:00",
+    "end_datetime": "2023-06-27T13:00:00+00:00",
+    "created_at": "2023-08-10T00:48:38+00:00",
+    "updated_at": "2023-08-10T00:48:38+00:00",
+    "last_day": "2023-08-20T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes",
+    "weekday": 2,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2023-06-24T00:00:00+00:00",
+    "period_end": "2023-08-20T00:00:00+00:00",
+    "section": "Pour les adultes",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-06-27T00:00:00+00:00",
+    "start_datetime": "2023-06-27T13:00:00+00:00",
+    "end_datetime": "2023-06-27T16:00:00+00:00",
+    "created_at": "2023-08-10T00:48:38+00:00",
+    "updated_at": "2023-08-10T00:48:38+00:00",
+    "last_day": "2023-08-20T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour tous",
+    "weekday": 2,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2023-06-24T00:00:00+00:00",
+    "period_end": "2023-08-20T00:00:00+00:00",
+    "section": "Pour tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-06-27T00:00:00+00:00",
+    "start_datetime": "2023-06-27T13:00:00+00:00",
+    "end_datetime": "2023-06-27T16:00:00+00:00",
+    "created_at": "2023-08-10T00:48:38+00:00",
+    "updated_at": "2023-08-10T00:48:38+00:00",
+    "last_day": "2023-08-20T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour tous",
+    "weekday": 2,
+    "start_time": [
+      17,
+      0
+    ],
+    "end_time": [
+      20,
+      0
+    ],
+    "period_start": "2023-06-24T00:00:00+00:00",
+    "period_end": "2023-08-20T00:00:00+00:00",
+    "section": "Pour tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-06-27T00:00:00+00:00",
+    "start_datetime": "2023-06-27T17:00:00+00:00",
+    "end_datetime": "2023-06-27T20:00:00+00:00",
+    "created_at": "2023-08-10T00:48:38+00:00",
+    "updated_at": "2023-08-10T00:48:38+00:00",
+    "last_day": "2023-08-20T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes",
+    "weekday": 3,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      13,
+      0
+    ],
+    "period_start": "2023-06-24T00:00:00+00:00",
+    "period_end": "2023-08-20T00:00:00+00:00",
+    "section": "Pour les adultes",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-06-28T00:00:00+00:00",
+    "start_datetime": "2023-06-28T11:00:00+00:00",
+    "end_datetime": "2023-06-28T13:00:00+00:00",
+    "created_at": "2023-08-10T00:48:38+00:00",
+    "updated_at": "2023-08-10T00:48:38+00:00",
+    "last_day": "2023-08-20T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes",
+    "weekday": 3,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2023-06-24T00:00:00+00:00",
+    "period_end": "2023-08-20T00:00:00+00:00",
+    "section": "Pour les adultes",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-06-28T00:00:00+00:00",
+    "start_datetime": "2023-06-28T11:00:00+00:00",
+    "end_datetime": "2023-06-28T16:00:00+00:00",
+    "created_at": "2023-08-10T00:48:38+00:00",
+    "updated_at": "2023-08-10T00:48:38+00:00",
+    "last_day": "2023-08-20T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour tous",
+    "weekday": 3,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2023-06-24T00:00:00+00:00",
+    "period_end": "2023-08-20T00:00:00+00:00",
+    "section": "Pour tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-06-28T00:00:00+00:00",
+    "start_datetime": "2023-06-28T13:00:00+00:00",
+    "end_datetime": "2023-06-28T16:00:00+00:00",
+    "created_at": "2023-08-10T00:48:38+00:00",
+    "updated_at": "2023-08-10T00:48:38+00:00",
+    "last_day": "2023-08-20T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour tous",
+    "weekday": 3,
+    "start_time": [
+      17,
+      0
+    ],
+    "end_time": [
+      20,
+      0
+    ],
+    "period_start": "2023-06-24T00:00:00+00:00",
+    "period_end": "2023-08-20T00:00:00+00:00",
+    "section": "Pour tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-06-28T00:00:00+00:00",
+    "start_datetime": "2023-06-28T17:00:00+00:00",
+    "end_datetime": "2023-06-28T20:00:00+00:00",
+    "created_at": "2023-08-10T00:48:38+00:00",
+    "updated_at": "2023-08-10T00:48:38+00:00",
+    "last_day": "2023-08-20T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes",
+    "weekday": 4,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      13,
+      0
+    ],
+    "period_start": "2023-06-24T00:00:00+00:00",
+    "period_end": "2023-08-20T00:00:00+00:00",
+    "section": "Pour les adultes",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-06-29T00:00:00+00:00",
+    "start_datetime": "2023-06-29T11:00:00+00:00",
+    "end_datetime": "2023-06-29T13:00:00+00:00",
+    "created_at": "2023-08-10T00:48:38+00:00",
+    "updated_at": "2023-08-10T00:48:38+00:00",
+    "last_day": "2023-08-20T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour tous",
+    "weekday": 4,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2023-06-24T00:00:00+00:00",
+    "period_end": "2023-08-20T00:00:00+00:00",
+    "section": "Pour tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-06-29T00:00:00+00:00",
+    "start_datetime": "2023-06-29T13:00:00+00:00",
+    "end_datetime": "2023-06-29T16:00:00+00:00",
+    "created_at": "2023-08-10T00:48:38+00:00",
+    "updated_at": "2023-08-10T00:48:38+00:00",
+    "last_day": "2023-08-20T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes",
+    "weekday": 4,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      17,
+      0
+    ],
+    "period_start": "2023-06-24T00:00:00+00:00",
+    "period_end": "2023-08-20T00:00:00+00:00",
+    "section": "Pour les adultes",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-06-29T00:00:00+00:00",
+    "start_datetime": "2023-06-29T13:00:00+00:00",
+    "end_datetime": "2023-06-29T17:00:00+00:00",
+    "created_at": "2023-08-10T00:48:38+00:00",
+    "updated_at": "2023-08-10T00:48:38+00:00",
+    "last_day": "2023-08-20T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes",
+    "weekday": 5,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      13,
+      0
+    ],
+    "period_start": "2023-06-24T00:00:00+00:00",
+    "period_end": "2023-08-20T00:00:00+00:00",
+    "section": "Pour les adultes",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-06-30T00:00:00+00:00",
+    "start_datetime": "2023-06-30T11:00:00+00:00",
+    "end_datetime": "2023-06-30T13:00:00+00:00",
+    "created_at": "2023-08-10T00:48:38+00:00",
+    "updated_at": "2023-08-10T00:48:38+00:00",
+    "last_day": "2023-08-20T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes",
+    "weekday": 5,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2023-06-24T00:00:00+00:00",
+    "period_end": "2023-08-20T00:00:00+00:00",
+    "section": "Pour les adultes",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-06-30T00:00:00+00:00",
+    "start_datetime": "2023-06-30T11:00:00+00:00",
+    "end_datetime": "2023-06-30T16:00:00+00:00",
+    "created_at": "2023-08-10T00:48:38+00:00",
+    "updated_at": "2023-08-10T00:48:38+00:00",
+    "last_day": "2023-08-20T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour tous",
+    "weekday": 5,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2023-06-24T00:00:00+00:00",
+    "period_end": "2023-08-20T00:00:00+00:00",
+    "section": "Pour tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-06-30T00:00:00+00:00",
+    "start_datetime": "2023-06-30T13:00:00+00:00",
+    "end_datetime": "2023-06-30T16:00:00+00:00",
+    "created_at": "2023-08-10T00:48:38+00:00",
+    "updated_at": "2023-08-10T00:48:38+00:00",
+    "last_day": "2023-08-20T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour tous",
+    "weekday": 5,
+    "start_time": [
+      17,
+      0
+    ],
+    "end_time": [
+      20,
+      0
+    ],
+    "period_start": "2023-06-24T00:00:00+00:00",
+    "period_end": "2023-08-20T00:00:00+00:00",
+    "section": "Pour tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-06-30T00:00:00+00:00",
+    "start_datetime": "2023-06-30T17:00:00+00:00",
+    "end_datetime": "2023-06-30T20:00:00+00:00",
+    "created_at": "2023-08-10T00:48:38+00:00",
+    "updated_at": "2023-08-10T00:48:38+00:00",
+    "last_day": "2023-08-20T00:00:00+00:00"
   }
 ]
