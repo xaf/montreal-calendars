@@ -1334,6 +1334,29 @@
     "last_day": "2023-08-20T00:00:00+00:00"
   },
   {
+    "title": "Baignade libre pour les personnes trans",
+    "weekday": 6,
+    "start_time": [
+      15,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2023-06-24T00:00:00+00:00",
+    "period_end": "2023-08-20T00:00:00+00:00",
+    "section": "Pour les personnes trans",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-06-24T00:00:00+00:00",
+    "start_datetime": "2023-06-24T15:00:00+00:00",
+    "end_datetime": "2023-06-24T16:00:00+00:00",
+    "created_at": "2023-08-15T00:38:16+00:00",
+    "updated_at": "2023-08-15T00:38:16+00:00",
+    "last_day": "2023-08-20T00:00:00+00:00"
+  },
+  {
     "title": "Baignade libre pour les adultes",
     "weekday": 1,
     "start_time": [
@@ -1653,6 +1676,52 @@
     "end_datetime": "2023-06-29T17:00:00+00:00",
     "created_at": "2023-08-10T00:48:38+00:00",
     "updated_at": "2023-08-10T00:48:38+00:00",
+    "last_day": "2023-08-20T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour les personnes trans",
+    "weekday": 4,
+    "start_time": [
+      17,
+      0
+    ],
+    "end_time": [
+      19,
+      0
+    ],
+    "period_start": "2023-06-24T00:00:00+00:00",
+    "period_end": "2023-08-20T00:00:00+00:00",
+    "section": "Pour les personnes trans",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-06-29T00:00:00+00:00",
+    "start_datetime": "2023-06-29T17:00:00+00:00",
+    "end_datetime": "2023-06-29T19:00:00+00:00",
+    "created_at": "2023-08-15T00:38:16+00:00",
+    "updated_at": "2023-08-15T00:38:16+00:00",
+    "last_day": "2023-08-20T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour les personnes trans",
+    "weekday": 4,
+    "start_time": [
+      18,
+      0
+    ],
+    "end_time": [
+      20,
+      0
+    ],
+    "period_start": "2023-06-24T00:00:00+00:00",
+    "period_end": "2023-08-20T00:00:00+00:00",
+    "section": "Pour les personnes trans",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2023-06-29T00:00:00+00:00",
+    "start_datetime": "2023-06-29T18:00:00+00:00",
+    "end_datetime": "2023-06-29T20:00:00+00:00",
+    "created_at": "2023-08-15T00:38:16+00:00",
+    "updated_at": "2023-08-15T00:38:16+00:00",
     "last_day": "2023-08-20T00:00:00+00:00"
   },
   {
