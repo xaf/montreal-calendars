@@ -2438,6 +2438,29 @@
     "last_day": "2024-06-21T00:00:00+00:00"
   },
   {
+    "title": "Baignade libre pour la communauté transgenre",
+    "weekday": 6,
+    "start_time": [
+      15,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-21T00:00:00+00:00",
+    "section": "Pour la communauté transgenre",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-06T00:00:00+00:00",
+    "start_datetime": "2024-01-06T15:00:00+00:00",
+    "end_datetime": "2024-01-06T16:00:00+00:00",
+    "created_at": "2024-01-18T00:43:09+00:00",
+    "updated_at": "2024-01-18T00:43:09+00:00",
+    "last_day": "2024-06-21T00:00:00+00:00"
+  },
+  {
     "title": "Baignade libre pour les personnes trans",
     "weekday": 6,
     "start_time": [
@@ -2596,6 +2619,29 @@
     "end_datetime": "2024-01-11T17:00:00+00:00",
     "created_at": "2024-01-07T00:47:29+00:00",
     "updated_at": "2024-01-07T00:47:29+00:00",
+    "last_day": "2024-06-21T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour la communauté transgenre",
+    "weekday": 4,
+    "start_time": [
+      18,
+      0
+    ],
+    "end_time": [
+      20,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-21T00:00:00+00:00",
+    "section": "Pour la communauté transgenre",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-11T00:00:00+00:00",
+    "start_datetime": "2024-01-11T18:00:00+00:00",
+    "end_datetime": "2024-01-11T20:00:00+00:00",
+    "created_at": "2024-01-18T00:43:09+00:00",
+    "updated_at": "2024-01-18T00:43:09+00:00",
     "last_day": "2024-06-21T00:00:00+00:00"
   },
   {
