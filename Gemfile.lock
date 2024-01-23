@@ -3,6 +3,7 @@ GEM
   specs:
     addressable (2.8.6)
       public_suffix (>= 2.0.2, < 6.0)
+    base64 (0.2.0)
     concurrent-ruby (1.2.2)
     connection_pool (2.4.1)
     domain_name (0.6.20240107)
@@ -11,13 +12,15 @@ GEM
     icalendar (2.10.1)
       ice_cube (~> 0.16)
     ice_cube (0.16.4)
-    mechanize (2.9.2)
+    mechanize (2.10.0)
       addressable (~> 2.8)
+      base64
       domain_name (~> 0.5, >= 0.5.20190701)
       http-cookie (~> 1.0, >= 1.0.3)
       mime-types (~> 3.0)
       net-http-digest_auth (~> 1.4, >= 1.4.1)
       net-http-persistent (>= 2.5.2, < 5.0.dev)
+      nkf
       nokogiri (~> 1.11, >= 1.11.2)
       rubyntlm (~> 0.6, >= 0.6.3)
       webrick (~> 1.7)
@@ -29,6 +32,7 @@ GEM
     net-http-digest_auth (1.4.1)
     net-http-persistent (4.0.2)
       connection_pool (~> 2.2)
+    nkf (0.2.0)
     nokogiri (1.16.0)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
