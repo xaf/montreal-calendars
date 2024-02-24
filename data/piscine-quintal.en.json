@@ -2441,6 +2441,29 @@
     "title": "Open swim for the day camps",
     "weekday": 1,
     "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-21T00:00:00+00:00",
+    "section": "For the day camps",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-08T00:00:00+00:00",
+    "start_datetime": "2024-01-08T13:00:00+00:00",
+    "end_datetime": "2024-01-08T16:00:00+00:00",
+    "created_at": "2024-02-24T00:38:12+00:00",
+    "updated_at": "2024-02-24T00:38:12+00:00",
+    "last_day": "2024-06-21T00:00:00+00:00"
+  },
+  {
+    "title": "Open swim for the day camps",
+    "weekday": 1,
+    "start_time": [
       14,
       0
     ],
@@ -2481,6 +2504,29 @@
     "end_datetime": "2024-01-08T20:00:00+00:00",
     "created_at": "2024-01-07T00:47:30+00:00",
     "updated_at": "2024-01-07T00:47:30+00:00",
+    "last_day": "2024-06-21T00:00:00+00:00"
+  },
+  {
+    "title": "Open swim for the day camps",
+    "weekday": 2,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      13,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-21T00:00:00+00:00",
+    "section": "For the day camps",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-09T00:00:00+00:00",
+    "start_datetime": "2024-01-09T13:00:00+00:00",
+    "end_datetime": "2024-01-09T13:00:00+00:00",
+    "created_at": "2024-02-24T00:38:12+00:00",
+    "updated_at": "2024-02-24T00:38:12+00:00",
     "last_day": "2024-06-21T00:00:00+00:00"
   },
   {
@@ -2671,6 +2717,29 @@
     "title": "Open swim for the day camps",
     "weekday": 3,
     "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-21T00:00:00+00:00",
+    "section": "For the day camps",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-10T00:00:00+00:00",
+    "start_datetime": "2024-01-10T13:00:00+00:00",
+    "end_datetime": "2024-01-10T16:00:00+00:00",
+    "created_at": "2024-02-24T00:38:12+00:00",
+    "updated_at": "2024-02-24T00:38:12+00:00",
+    "last_day": "2024-06-21T00:00:00+00:00"
+  },
+  {
+    "title": "Open swim for the day camps",
+    "weekday": 3,
+    "start_time": [
       14,
       0
     ],
@@ -2744,6 +2813,29 @@
       0
     ],
     "end_time": [
+      15,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-21T00:00:00+00:00",
+    "section": "For adults",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-11T00:00:00+00:00",
+    "start_datetime": "2024-01-11T13:00:00+00:00",
+    "end_datetime": "2024-01-11T15:00:00+00:00",
+    "created_at": "2024-02-24T00:38:12+00:00",
+    "updated_at": "2024-02-24T00:38:12+00:00",
+    "last_day": "2024-06-21T00:00:00+00:00"
+  },
+  {
+    "title": "Open swim for adults",
+    "weekday": 4,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
       17,
       0
     ],
@@ -2780,6 +2872,29 @@
     "end_datetime": "2024-01-11T17:00:00+00:00",
     "created_at": "2024-02-23T00:39:47+00:00",
     "updated_at": "2024-02-23T00:39:47+00:00",
+    "last_day": "2024-06-21T00:00:00+00:00"
+  },
+  {
+    "title": "Open swim for everyone",
+    "weekday": 4,
+    "start_time": [
+      15,
+      0
+    ],
+    "end_time": [
+      17,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-21T00:00:00+00:00",
+    "section": "For everyone",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-11T00:00:00+00:00",
+    "start_datetime": "2024-01-11T15:00:00+00:00",
+    "end_datetime": "2024-01-11T17:00:00+00:00",
+    "created_at": "2024-02-24T00:38:12+00:00",
+    "updated_at": "2024-02-24T00:38:12+00:00",
     "last_day": "2024-06-21T00:00:00+00:00"
   },
   {
@@ -2895,6 +3010,29 @@
     "end_datetime": "2024-01-12T16:00:00+00:00",
     "created_at": "2024-02-23T00:39:47+00:00",
     "updated_at": "2024-02-23T00:39:47+00:00",
+    "last_day": "2024-06-21T00:00:00+00:00"
+  },
+  {
+    "title": "Open swim for the day camps",
+    "weekday": 5,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-21T00:00:00+00:00",
+    "section": "For the day camps",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-12T00:00:00+00:00",
+    "start_datetime": "2024-01-12T13:00:00+00:00",
+    "end_datetime": "2024-01-12T16:00:00+00:00",
+    "created_at": "2024-02-24T00:38:12+00:00",
+    "updated_at": "2024-02-24T00:38:12+00:00",
     "last_day": "2024-06-21T00:00:00+00:00"
   },
   {

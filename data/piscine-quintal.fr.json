@@ -2507,6 +2507,29 @@
     "last_day": "2024-06-21T00:00:00+00:00"
   },
   {
+    "title": "Baignade libre pour les camps de jour",
+    "weekday": 1,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-21T00:00:00+00:00",
+    "section": "Pour les camps de jour",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-08T00:00:00+00:00",
+    "start_datetime": "2024-01-08T13:00:00+00:00",
+    "end_datetime": "2024-01-08T16:00:00+00:00",
+    "created_at": "2024-02-24T00:38:11+00:00",
+    "updated_at": "2024-02-24T00:38:11+00:00",
+    "last_day": "2024-06-21T00:00:00+00:00"
+  },
+  {
     "title": "Baignade libre pour toutes et tous",
     "weekday": 1,
     "start_time": [
@@ -2573,6 +2596,29 @@
     "end_datetime": "2024-01-08T20:00:00+00:00",
     "created_at": "2024-01-07T00:47:29+00:00",
     "updated_at": "2024-01-07T00:47:29+00:00",
+    "last_day": "2024-06-21T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour les camps de jour",
+    "weekday": 2,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      13,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-21T00:00:00+00:00",
+    "section": "Pour les camps de jour",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-09T00:00:00+00:00",
+    "start_datetime": "2024-01-09T13:00:00+00:00",
+    "end_datetime": "2024-01-09T13:00:00+00:00",
+    "created_at": "2024-02-24T00:38:11+00:00",
+    "updated_at": "2024-02-24T00:38:11+00:00",
     "last_day": "2024-06-21T00:00:00+00:00"
   },
   {
@@ -2737,6 +2783,29 @@
     "last_day": "2024-06-21T00:00:00+00:00"
   },
   {
+    "title": "Baignade libre pour les camps de jour",
+    "weekday": 3,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-21T00:00:00+00:00",
+    "section": "Pour les camps de jour",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-10T00:00:00+00:00",
+    "start_datetime": "2024-01-10T13:00:00+00:00",
+    "end_datetime": "2024-01-10T16:00:00+00:00",
+    "created_at": "2024-02-24T00:38:11+00:00",
+    "updated_at": "2024-02-24T00:38:11+00:00",
+    "last_day": "2024-06-21T00:00:00+00:00"
+  },
+  {
     "title": "Baignade libre pour toutes et tous",
     "weekday": 3,
     "start_time": [
@@ -2836,6 +2905,29 @@
       0
     ],
     "end_time": [
+      15,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-21T00:00:00+00:00",
+    "section": "Pour les adultes",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-11T00:00:00+00:00",
+    "start_datetime": "2024-01-11T13:00:00+00:00",
+    "end_datetime": "2024-01-11T15:00:00+00:00",
+    "created_at": "2024-02-24T00:38:11+00:00",
+    "updated_at": "2024-02-24T00:38:11+00:00",
+    "last_day": "2024-06-21T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes",
+    "weekday": 4,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
       17,
       0
     ],
@@ -2872,6 +2964,29 @@
     "end_datetime": "2024-01-11T17:00:00+00:00",
     "created_at": "2024-02-23T00:39:46+00:00",
     "updated_at": "2024-02-23T00:39:46+00:00",
+    "last_day": "2024-06-21T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour toutes et tous",
+    "weekday": 4,
+    "start_time": [
+      15,
+      0
+    ],
+    "end_time": [
+      17,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-21T00:00:00+00:00",
+    "section": "Pour toutes et tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-11T00:00:00+00:00",
+    "start_datetime": "2024-01-11T15:00:00+00:00",
+    "end_datetime": "2024-01-11T17:00:00+00:00",
+    "created_at": "2024-02-24T00:38:11+00:00",
+    "updated_at": "2024-02-24T00:38:11+00:00",
     "last_day": "2024-06-21T00:00:00+00:00"
   },
   {
@@ -2964,6 +3079,29 @@
     "end_datetime": "2024-01-12T16:00:00+00:00",
     "created_at": "2024-01-07T00:47:29+00:00",
     "updated_at": "2024-01-07T00:47:29+00:00",
+    "last_day": "2024-06-21T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour les camps de jour",
+    "weekday": 5,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-21T00:00:00+00:00",
+    "section": "Pour les camps de jour",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-12T00:00:00+00:00",
+    "start_datetime": "2024-01-12T13:00:00+00:00",
+    "end_datetime": "2024-01-12T16:00:00+00:00",
+    "created_at": "2024-02-24T00:38:11+00:00",
+    "updated_at": "2024-02-24T00:38:11+00:00",
     "last_day": "2024-06-21T00:00:00+00:00"
   },
   {
