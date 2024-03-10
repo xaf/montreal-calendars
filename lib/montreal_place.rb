@@ -85,6 +85,8 @@ class MontrealPlace
   def events
     @events ||= begin
       events = load_data
+      # puts JSON.pretty_generate(scrapped_events)
+      # raise "BLAH"
       events.upsert_all(scrapped_events)
       events
     end
@@ -237,25 +239,84 @@ class MontrealPlace
 
   def scrapped_events
     @scrapped_events ||= begin
+      periods = []
+
+      contents.search('div.wrapper-complex').each do |period|
+        period_header = period.at('div.wrapper-header').at('div')
+
+        times = period_header.search('time')
+        period_start = DateTime.parse(times[0].attributes['datetime'].value)
+        period_end = DateTime.parse(times[1].attributes['datetime'].value) + 1
+
+        # puts "Found period from #{period_start} to #{period_end}"
+        period_data = {
+          start: period_start,
+          end: period_end,
+          events: []
+        }
+
+        period.search('div.wrapper-body div.content-module-stacked').each do |section|
+          section_header = section.at('h3').text.strip
+          # puts "Found section #{section_header}"
+
+          section.at('tbody').search('tr').each do |row|
+            day, hours = row.search('td')
+            day = DateTime.parse(day.text.strip.downcase.gsub(/^.*$/, weekdays_map))
+
+            hour_start, hour_end = hours.search('span').map(&:text).map(&:strip).map do |hour|
+              DateTime.parse(hour)
+            end
+
+            weekday = day.strftime('%w').to_i
+
+            from_time = hour_start.strftime('%H:%M').split(':').map(&:to_i)
+            to_time = hour_end.strftime('%H:%M').split(':').map(&:to_i)
+
+            event = CalendarEvent.new(self, weekday, from_time, to_time, section_header, true)
+            # event.set_period(period_start, period_end)
+
+            period_data[:events].push(event)
+          end
+        end
+
+        periods.push(period_data)
+      end
+
+      # Prepare final list of events
       events = []
 
-      contents.search('div.wrapper-body div.content-module-stacked').each do |section|
-        section_header = section.at('h3').text.strip
+      # Sort periods by period_start
+      periods.sort_by! { |period| period[:start] }
 
-        section.at('tbody').search('tr').each do |row|
-          day, hours = row.search('td')
-          day = DateTime.parse(day.text.strip.downcase.gsub(/^.*$/, weekdays_map))
+      # While periods is not empty
+      while !periods.empty?
+        # Take the first period
+        period = periods.shift
 
-          hour_start, hour_end = hours.search('span').map(&:text).map(&:strip).map do |hour|
-            DateTime.parse(hour)
+        # Check if we need to override the period end of the events
+        if periods.first && periods.first[:start] < period[:end]
+          if periods.first[:end] < period[:end]
+            periods.push({
+              start: periods.first[:end],
+              end: period[:end],
+              events: period[:events].map { |event| event.clone },
+            })
           end
 
-          weekday = day.strftime('%w').to_i
+          # Override the period end of the events
+          period[:end] = periods.first[:start]
 
-          from_time = hour_start.strftime('%H:%M').split(':').map(&:to_i)
-          to_time = hour_end.strftime('%H:%M').split(':').map(&:to_i)
+          # Skip the period if it is empty
+          next if period[:end] <= period[:start]
+        end
 
-          events.push(CalendarEvent.new(self, weekday, from_time, to_time, section_header, true))
+        # puts "Period from #{period[:start]} to #{period[:end]}"
+
+        # For each event in the period
+        period[:events].each do |event|
+          event.set_period(period[:start], period[:end])
+          events.push(event)
+          # puts "Event #{event.desc} from #{event.first_day} to #{event.last_day}"
         end
       end
 

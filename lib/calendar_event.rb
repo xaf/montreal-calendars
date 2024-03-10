@@ -16,7 +16,7 @@ class CalendarEvent
   end
 
   def first_day
-    @first_day ||= @place.season_from + (@weekday - @place.season_from.wday) % 7
+    @first_day ||= @period_start + (@weekday - @period_start.wday) % 7
   end
 
   def last_day
@@ -54,6 +54,11 @@ class CalendarEvent
     end_t = end_time.map { |t| t.to_s.rjust(2, '0') }.join('h')
 
     "#{title} (#{ Date::DAYNAMES[@weekday]}, #{start_t}-#{end_t})"
+  end
+
+  def set_period(start_date, end_date)
+    @period_start = start_date
+    @period_end = end_date
   end
 
   def period_start
@@ -102,7 +107,7 @@ class CalendarEvent
     CalendarEvent.hash_of(dynamic_data)
   end
 
-  def to_json(options)
+  def to_json(options = {})
     all_data.to_json(options)
   end
 
