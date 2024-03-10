@@ -47,7 +47,7 @@ jobs:
         echo "ANY_CHANGES=${ANY_CHANGES}" | tee -a "$GITHUB_ENV"
 
     - name: Commit changes if any
-      uses: stefanzweifel/git-auto-commit-action@v4
+      uses: stefanzweifel/git-auto-commit-action@v5
       if: env.ANY_CHANGES == 'true'
       with:
         commit_message: 📆 Updating calendars
