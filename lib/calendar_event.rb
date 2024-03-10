@@ -3,12 +3,13 @@
 class CalendarEvent
   attr_reader :weekday, :start_time, :end_time, :section
 
-  def initialize(place, weekday, start_time, end_time, section)
+  def initialize(place, weekday, start_time, end_time, section, seen=false)
     @place = place
     @weekday = weekday
     @start_time = start_time
     @end_time = end_time
     @section = section
+    @seen = seen
 
     @created_at = DateTime.now
     @updated_at = DateTime.now
@@ -83,6 +84,14 @@ class CalendarEvent
 
   def updated_at
     @updated_at
+  end
+
+  def seen?
+    @seen
+  end
+
+  def seen!
+    @seen = true
   end
 
   def static_hash

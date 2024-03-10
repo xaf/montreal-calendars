@@ -255,7 +255,7 @@ class MontrealPlace
           from_time = hour_start.strftime('%H:%M').split(':').map(&:to_i)
           to_time = hour_end.strftime('%H:%M').split(':').map(&:to_i)
 
-          events.push(CalendarEvent.new(self, weekday, from_time, to_time, section_header))
+          events.push(CalendarEvent.new(self, weekday, from_time, to_time, section_header, true))
         end
       end
 

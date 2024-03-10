@@ -6,7 +6,8 @@ class CalendarEventList < Array
       upsert(event, false)
     end
 
-    cleanup
+    end_unseen!
+    cleanup!
   end
 
   def upsert(event, cleanup=true)
@@ -16,6 +17,7 @@ class CalendarEventList < Array
 
     unless index.nil?
       match = self[index]
+      match.seen!
       if event.dynamic_hash == match.dynamic_hash
         # puts "No change for #{match.desc} (sta: #{match.static_hash}, dyn: #{match.dynamic_hash})"
         return
@@ -28,7 +30,18 @@ class CalendarEventList < Array
     end
 
     push(event)
-    cleanup if cleanup
+    cleanup! if cleanup
+  end
+
+  def new_or_updated?(event)
+    index = self.rindex do |e|
+      e.static_hash == event.static_hash
+    end
+
+    return true if index.nil?
+
+    match = self[index]
+    event.dynamic_hash != match.dynamic_hash
   end
 
   def expire_date
@@ -38,7 +51,13 @@ class CalendarEventList < Array
     end
   end
 
-  def cleanup
+  def end_unseen!
+    self.select { |event| !event.seen? && event.last_day > DateTime.now }.each do |event|
+      event.end_after(DateTime.now)
+    end
+  end
+
+  def cleanup!
     self.reject! do |event|
       event.last_day < event.first_day || event.last_day < expire_date
     end
