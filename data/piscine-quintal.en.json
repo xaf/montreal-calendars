@@ -2346,6 +2346,29 @@
     "last_day": "2024-03-04T00:00:00+00:00"
   },
   {
+    "title": "Open swim for adults",
+    "weekday": 6,
+    "start_time": [
+      10,
+      0
+    ],
+    "end_time": [
+      12,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-22T00:00:00+00:00",
+    "section": "For adults",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-06T00:00:00+00:00",
+    "start_datetime": "2024-01-06T10:00:00+00:00",
+    "end_datetime": "2024-01-06T12:00:00+00:00",
+    "created_at": "2024-03-14T00:39:50+00:00",
+    "updated_at": "2024-03-14T00:39:50+00:00",
+    "last_day": "2024-06-22T00:00:00+00:00"
+  },
+  {
     "title": "Open swim for everyone",
     "weekday": 6,
     "start_time": [
@@ -2392,6 +2415,29 @@
     "last_day": "2024-03-04T00:00:00+00:00"
   },
   {
+    "title": "Open swim for everyone",
+    "weekday": 6,
+    "start_time": [
+      12,
+      0
+    ],
+    "end_time": [
+      14,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-22T00:00:00+00:00",
+    "section": "For everyone",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-06T00:00:00+00:00",
+    "start_datetime": "2024-01-06T12:00:00+00:00",
+    "end_datetime": "2024-01-06T14:00:00+00:00",
+    "created_at": "2024-03-14T00:39:50+00:00",
+    "updated_at": "2024-03-14T00:39:50+00:00",
+    "last_day": "2024-06-22T00:00:00+00:00"
+  },
+  {
     "title": "Open swim for the transgender community",
     "weekday": 6,
     "start_time": [
@@ -2436,6 +2482,29 @@
     "created_at": "2024-03-10T05:13:55+00:00",
     "updated_at": "2024-03-10T05:13:55+00:00",
     "last_day": "2024-03-04T00:00:00+00:00"
+  },
+  {
+    "title": "Open swim for the transgender community",
+    "weekday": 6,
+    "start_time": [
+      15,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-22T00:00:00+00:00",
+    "section": "For the transgender community",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-06T00:00:00+00:00",
+    "start_datetime": "2024-01-06T15:00:00+00:00",
+    "end_datetime": "2024-01-06T16:00:00+00:00",
+    "created_at": "2024-03-14T00:39:50+00:00",
+    "updated_at": "2024-03-14T00:39:50+00:00",
+    "last_day": "2024-06-22T00:00:00+00:00"
   },
   {
     "title": "Open swim for transgender people",
@@ -2599,6 +2668,29 @@
     "last_day": "2024-03-04T00:00:00+00:00"
   },
   {
+    "title": "Open swim for adults",
+    "weekday": 1,
+    "start_time": [
+      16,
+      0
+    ],
+    "end_time": [
+      20,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-22T00:00:00+00:00",
+    "section": "For adults",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-08T00:00:00+00:00",
+    "start_datetime": "2024-01-08T16:00:00+00:00",
+    "end_datetime": "2024-01-08T20:00:00+00:00",
+    "created_at": "2024-03-14T00:39:50+00:00",
+    "updated_at": "2024-03-14T00:39:50+00:00",
+    "last_day": "2024-06-22T00:00:00+00:00"
+  },
+  {
     "title": "Open swim for the day camps",
     "weekday": 2,
     "start_time": [
@@ -2666,6 +2758,29 @@
     "created_at": "2024-03-10T05:13:55+00:00",
     "updated_at": "2024-03-10T05:13:55+00:00",
     "last_day": "2024-03-04T00:00:00+00:00"
+  },
+  {
+    "title": "Open swim for adults",
+    "weekday": 2,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-22T00:00:00+00:00",
+    "section": "For adults",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-09T00:00:00+00:00",
+    "start_datetime": "2024-01-09T13:00:00+00:00",
+    "end_datetime": "2024-01-09T16:00:00+00:00",
+    "created_at": "2024-03-14T00:39:50+00:00",
+    "updated_at": "2024-03-14T00:39:50+00:00",
+    "last_day": "2024-06-22T00:00:00+00:00"
   },
   {
     "title": "Open swim for everyone",
@@ -2783,6 +2898,29 @@
     "last_day": "2024-03-04T00:00:00+00:00"
   },
   {
+    "title": "Open swim for everyone",
+    "weekday": 2,
+    "start_time": [
+      17,
+      0
+    ],
+    "end_time": [
+      20,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-22T00:00:00+00:00",
+    "section": "For everyone",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-09T00:00:00+00:00",
+    "start_datetime": "2024-01-09T17:00:00+00:00",
+    "end_datetime": "2024-01-09T20:00:00+00:00",
+    "created_at": "2024-03-14T00:39:50+00:00",
+    "updated_at": "2024-03-14T00:39:50+00:00",
+    "last_day": "2024-06-22T00:00:00+00:00"
+  },
+  {
     "title": "Open swim for adults",
     "weekday": 3,
     "start_time": [
@@ -2850,6 +2988,29 @@
     "created_at": "2024-03-10T05:13:55+00:00",
     "updated_at": "2024-03-10T05:13:55+00:00",
     "last_day": "2024-03-04T00:00:00+00:00"
+  },
+  {
+    "title": "Open swim for adults",
+    "weekday": 3,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-22T00:00:00+00:00",
+    "section": "For adults",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-10T00:00:00+00:00",
+    "start_datetime": "2024-01-10T11:00:00+00:00",
+    "end_datetime": "2024-01-10T16:00:00+00:00",
+    "created_at": "2024-03-14T00:39:50+00:00",
+    "updated_at": "2024-03-14T00:39:50+00:00",
+    "last_day": "2024-06-22T00:00:00+00:00"
   },
   {
     "title": "Open swim for everyone",
@@ -2967,6 +3128,29 @@
     "last_day": "2024-03-04T00:00:00+00:00"
   },
   {
+    "title": "Open swim for everyone",
+    "weekday": 3,
+    "start_time": [
+      18,
+      0
+    ],
+    "end_time": [
+      20,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-22T00:00:00+00:00",
+    "section": "For everyone",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-10T00:00:00+00:00",
+    "start_datetime": "2024-01-10T18:00:00+00:00",
+    "end_datetime": "2024-01-10T20:00:00+00:00",
+    "created_at": "2024-03-14T00:39:50+00:00",
+    "updated_at": "2024-03-14T00:39:50+00:00",
+    "last_day": "2024-06-22T00:00:00+00:00"
+  },
+  {
     "title": "Open swim for adults",
     "weekday": 4,
     "start_time": [
@@ -3057,6 +3241,29 @@
     "created_at": "2024-03-10T05:13:55+00:00",
     "updated_at": "2024-03-10T05:13:55+00:00",
     "last_day": "2024-03-04T00:00:00+00:00"
+  },
+  {
+    "title": "Open swim for adults",
+    "weekday": 4,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      17,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-22T00:00:00+00:00",
+    "section": "For adults",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-11T00:00:00+00:00",
+    "start_datetime": "2024-01-11T13:00:00+00:00",
+    "end_datetime": "2024-01-11T17:00:00+00:00",
+    "created_at": "2024-03-14T00:39:50+00:00",
+    "updated_at": "2024-03-14T00:39:50+00:00",
+    "last_day": "2024-06-22T00:00:00+00:00"
   },
   {
     "title": "Open swim for everyone",
@@ -3151,6 +3358,29 @@
     "last_day": "2024-03-04T00:00:00+00:00"
   },
   {
+    "title": "Open swim for the transgender community",
+    "weekday": 4,
+    "start_time": [
+      18,
+      0
+    ],
+    "end_time": [
+      20,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-22T00:00:00+00:00",
+    "section": "For the transgender community",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-11T00:00:00+00:00",
+    "start_datetime": "2024-01-11T18:00:00+00:00",
+    "end_datetime": "2024-01-11T20:00:00+00:00",
+    "created_at": "2024-03-14T00:39:50+00:00",
+    "updated_at": "2024-03-14T00:39:50+00:00",
+    "last_day": "2024-06-22T00:00:00+00:00"
+  },
+  {
     "title": "Open swim for transgender people",
     "weekday": 4,
     "start_time": [
@@ -3241,6 +3471,29 @@
     "created_at": "2024-03-10T05:13:55+00:00",
     "updated_at": "2024-03-10T05:13:55+00:00",
     "last_day": "2024-03-04T00:00:00+00:00"
+  },
+  {
+    "title": "Open swim for adults",
+    "weekday": 5,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-22T00:00:00+00:00",
+    "section": "For adults",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-12T00:00:00+00:00",
+    "start_datetime": "2024-01-12T11:00:00+00:00",
+    "end_datetime": "2024-01-12T16:00:00+00:00",
+    "created_at": "2024-03-14T00:39:50+00:00",
+    "updated_at": "2024-03-14T00:39:50+00:00",
+    "last_day": "2024-06-22T00:00:00+00:00"
   },
   {
     "title": "Open swim for everyone",
@@ -3356,6 +3609,29 @@
     "created_at": "2024-03-10T05:13:55+00:00",
     "updated_at": "2024-03-10T05:13:55+00:00",
     "last_day": "2024-03-04T00:00:00+00:00"
+  },
+  {
+    "title": "Open swim for everyone",
+    "weekday": 5,
+    "start_time": [
+      17,
+      0
+    ],
+    "end_time": [
+      20,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00+00:00",
+    "period_end": "2024-06-22T00:00:00+00:00",
+    "section": "For everyone",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-01-12T00:00:00+00:00",
+    "start_datetime": "2024-01-12T17:00:00+00:00",
+    "end_datetime": "2024-01-12T20:00:00+00:00",
+    "created_at": "2024-03-14T00:39:50+00:00",
+    "updated_at": "2024-03-14T00:39:50+00:00",
+    "last_day": "2024-06-22T00:00:00+00:00"
   },
   {
     "title": "Open swim for adults",
@@ -3745,8 +4021,8 @@
     "start_datetime": "2024-03-09T10:00:00+00:00",
     "end_datetime": "2024-03-09T12:00:00+00:00",
     "created_at": "2024-03-10T05:13:55+00:00",
-    "updated_at": "2024-03-10T05:13:55+00:00",
-    "last_day": "2024-06-22T00:00:00+00:00"
+    "updated_at": "2024-03-14T00:39:50+00:00",
+    "last_day": "2024-03-14T00:00:00+00:00"
   },
   {
     "title": "Open swim for everyone",
@@ -3791,8 +4067,8 @@
     "start_datetime": "2024-03-09T12:00:00+00:00",
     "end_datetime": "2024-03-09T14:00:00+00:00",
     "created_at": "2024-03-10T05:13:55+00:00",
-    "updated_at": "2024-03-10T05:13:55+00:00",
-    "last_day": "2024-06-22T00:00:00+00:00"
+    "updated_at": "2024-03-14T00:39:50+00:00",
+    "last_day": "2024-03-14T00:00:00+00:00"
   },
   {
     "title": "Open swim for the transgender community",
@@ -3837,8 +4113,8 @@
     "start_datetime": "2024-03-09T15:00:00+00:00",
     "end_datetime": "2024-03-09T16:00:00+00:00",
     "created_at": "2024-03-10T05:13:55+00:00",
-    "updated_at": "2024-03-10T05:13:55+00:00",
-    "last_day": "2024-06-22T00:00:00+00:00"
+    "updated_at": "2024-03-14T00:39:50+00:00",
+    "last_day": "2024-03-14T00:00:00+00:00"
   },
   {
     "title": "Open swim for adults",
@@ -3860,8 +4136,8 @@
     "start_datetime": "2024-03-11T16:00:00+00:00",
     "end_datetime": "2024-03-11T20:00:00+00:00",
     "created_at": "2024-03-10T05:13:55+00:00",
-    "updated_at": "2024-03-10T05:13:55+00:00",
-    "last_day": "2024-06-22T00:00:00+00:00"
+    "updated_at": "2024-03-14T00:39:50+00:00",
+    "last_day": "2024-03-14T00:00:00+00:00"
   },
   {
     "title": "Open swim for adults",
@@ -3883,8 +4159,8 @@
     "start_datetime": "2024-03-12T13:00:00+00:00",
     "end_datetime": "2024-03-12T16:00:00+00:00",
     "created_at": "2024-03-10T05:13:55+00:00",
-    "updated_at": "2024-03-10T05:13:55+00:00",
-    "last_day": "2024-06-22T00:00:00+00:00"
+    "updated_at": "2024-03-14T00:39:50+00:00",
+    "last_day": "2024-03-14T00:00:00+00:00"
   },
   {
     "title": "Open swim for everyone",
@@ -3906,8 +4182,8 @@
     "start_datetime": "2024-03-12T17:00:00+00:00",
     "end_datetime": "2024-03-12T20:00:00+00:00",
     "created_at": "2024-03-10T05:13:55+00:00",
-    "updated_at": "2024-03-10T05:13:55+00:00",
-    "last_day": "2024-06-22T00:00:00+00:00"
+    "updated_at": "2024-03-14T00:39:50+00:00",
+    "last_day": "2024-03-14T00:00:00+00:00"
   },
   {
     "title": "Open swim for adults",
@@ -3929,8 +4205,8 @@
     "start_datetime": "2024-03-13T11:00:00+00:00",
     "end_datetime": "2024-03-13T16:00:00+00:00",
     "created_at": "2024-03-10T05:13:55+00:00",
-    "updated_at": "2024-03-10T05:13:55+00:00",
-    "last_day": "2024-06-22T00:00:00+00:00"
+    "updated_at": "2024-03-14T00:39:50+00:00",
+    "last_day": "2024-03-14T00:00:00+00:00"
   },
   {
     "title": "Open swim for everyone",
@@ -3952,8 +4228,8 @@
     "start_datetime": "2024-03-13T18:00:00+00:00",
     "end_datetime": "2024-03-13T20:00:00+00:00",
     "created_at": "2024-03-10T05:13:55+00:00",
-    "updated_at": "2024-03-10T05:13:55+00:00",
-    "last_day": "2024-06-22T00:00:00+00:00"
+    "updated_at": "2024-03-14T00:39:50+00:00",
+    "last_day": "2024-03-14T00:00:00+00:00"
   },
   {
     "title": "Open swim for adults",
@@ -3975,8 +4251,8 @@
     "start_datetime": "2024-03-14T13:00:00+00:00",
     "end_datetime": "2024-03-14T17:00:00+00:00",
     "created_at": "2024-03-10T05:13:55+00:00",
-    "updated_at": "2024-03-10T05:13:55+00:00",
-    "last_day": "2024-06-22T00:00:00+00:00"
+    "updated_at": "2024-03-14T00:39:50+00:00",
+    "last_day": "2024-03-14T00:00:00+00:00"
   },
   {
     "title": "Open swim for the transgender community",
@@ -3998,53 +4274,7 @@
     "start_datetime": "2024-03-14T18:00:00+00:00",
     "end_datetime": "2024-03-14T20:00:00+00:00",
     "created_at": "2024-03-10T05:13:55+00:00",
-    "updated_at": "2024-03-10T05:13:55+00:00",
-    "last_day": "2024-06-22T00:00:00+00:00"
-  },
-  {
-    "title": "Open swim for adults",
-    "weekday": 5,
-    "start_time": [
-      11,
-      0
-    ],
-    "end_time": [
-      16,
-      0
-    ],
-    "period_start": "2024-03-09T00:00:00+00:00",
-    "period_end": "2024-06-22T00:00:00+00:00",
-    "section": "For adults",
-    "notice": null,
-    "notice_details": null,
-    "first_day": "2024-03-15T00:00:00+00:00",
-    "start_datetime": "2024-03-15T11:00:00+00:00",
-    "end_datetime": "2024-03-15T16:00:00+00:00",
-    "created_at": "2024-03-10T05:13:55+00:00",
-    "updated_at": "2024-03-10T05:13:55+00:00",
-    "last_day": "2024-06-22T00:00:00+00:00"
-  },
-  {
-    "title": "Open swim for everyone",
-    "weekday": 5,
-    "start_time": [
-      17,
-      0
-    ],
-    "end_time": [
-      20,
-      0
-    ],
-    "period_start": "2024-03-09T00:00:00+00:00",
-    "period_end": "2024-06-22T00:00:00+00:00",
-    "section": "For everyone",
-    "notice": null,
-    "notice_details": null,
-    "first_day": "2024-03-15T00:00:00+00:00",
-    "start_datetime": "2024-03-15T17:00:00+00:00",
-    "end_datetime": "2024-03-15T20:00:00+00:00",
-    "created_at": "2024-03-10T05:13:55+00:00",
-    "updated_at": "2024-03-10T05:13:55+00:00",
-    "last_day": "2024-06-22T00:00:00+00:00"
+    "updated_at": "2024-03-14T00:39:50+00:00",
+    "last_day": "2024-03-14T00:00:00+00:00"
   }
 ]
