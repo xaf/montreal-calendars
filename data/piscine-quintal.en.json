@@ -5056,8 +5056,8 @@
     "start_datetime": "2024-05-21T13:00:00+00:00",
     "end_datetime": "2024-05-21T16:00:00+00:00",
     "created_at": "2024-05-21T00:43:39+00:00",
-    "updated_at": "2024-05-21T00:43:39+00:00",
-    "last_day": "2024-06-22T00:00:00-04:00"
+    "updated_at": "2024-05-22T00:43:40+00:00",
+    "last_day": "2024-05-22T00:00:00+00:00"
   },
   {
     "title": "Open swim for everyone",
@@ -5079,8 +5079,8 @@
     "start_datetime": "2024-05-21T17:00:00+00:00",
     "end_datetime": "2024-05-21T20:00:00+00:00",
     "created_at": "2024-05-21T00:43:39+00:00",
-    "updated_at": "2024-05-21T00:43:39+00:00",
-    "last_day": "2024-06-22T00:00:00-04:00"
+    "updated_at": "2024-05-22T00:43:40+00:00",
+    "last_day": "2024-05-22T00:00:00+00:00"
   },
   {
     "title": "Open swim for adults",
@@ -5102,7 +5102,30 @@
     "start_datetime": "2024-05-22T11:00:00+00:00",
     "end_datetime": "2024-05-22T16:00:00+00:00",
     "created_at": "2024-05-21T00:43:39+00:00",
-    "updated_at": "2024-05-21T00:43:39+00:00",
+    "updated_at": "2024-05-22T00:43:40+00:00",
+    "last_day": "2024-05-22T00:00:00+00:00"
+  },
+  {
+    "title": "Open swim for adults",
+    "weekday": 3,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00-05:00",
+    "period_end": "2024-06-22T00:00:00-04:00",
+    "section": "For adults",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-05-22T00:00:00+00:00",
+    "start_datetime": "2024-05-22T11:00:00+00:00",
+    "end_datetime": "2024-05-22T16:00:00+00:00",
+    "created_at": "2024-05-22T00:43:40+00:00",
+    "updated_at": "2024-05-22T00:43:40+00:00",
     "last_day": "2024-06-22T00:00:00-04:00"
   },
   {
@@ -5125,7 +5148,30 @@
     "start_datetime": "2024-05-22T18:00:00+00:00",
     "end_datetime": "2024-05-22T20:00:00+00:00",
     "created_at": "2024-05-21T00:43:39+00:00",
-    "updated_at": "2024-05-21T00:43:39+00:00",
+    "updated_at": "2024-05-22T00:43:40+00:00",
+    "last_day": "2024-05-22T00:00:00+00:00"
+  },
+  {
+    "title": "Open swim for everyone",
+    "weekday": 3,
+    "start_time": [
+      18,
+      0
+    ],
+    "end_time": [
+      20,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00-05:00",
+    "period_end": "2024-06-22T00:00:00-04:00",
+    "section": "For everyone",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-05-22T00:00:00+00:00",
+    "start_datetime": "2024-05-22T18:00:00+00:00",
+    "end_datetime": "2024-05-22T20:00:00+00:00",
+    "created_at": "2024-05-22T00:43:40+00:00",
+    "updated_at": "2024-05-22T00:43:40+00:00",
     "last_day": "2024-06-22T00:00:00-04:00"
   },
   {
@@ -5142,13 +5188,13 @@
     "period_start": "2024-01-06T00:00:00-05:00",
     "period_end": "2024-06-22T00:00:00-04:00",
     "section": "For adults",
-    "notice": "Temporary closing",
-    "notice_details": "Closed until further notice.",
+    "notice": null,
+    "notice_details": null,
     "first_day": "2024-05-23T00:00:00+00:00",
     "start_datetime": "2024-05-23T13:00:00+00:00",
     "end_datetime": "2024-05-23T17:00:00+00:00",
-    "created_at": "2024-05-21T00:43:39+00:00",
-    "updated_at": "2024-05-21T00:43:39+00:00",
+    "created_at": "2024-05-22T00:43:40+00:00",
+    "updated_at": "2024-05-22T00:43:40+00:00",
     "last_day": "2024-06-22T00:00:00-04:00"
   },
   {
@@ -5165,13 +5211,13 @@
     "period_start": "2024-01-06T00:00:00-05:00",
     "period_end": "2024-06-22T00:00:00-04:00",
     "section": "For the transgender community",
-    "notice": "Temporary closing",
-    "notice_details": "Closed until further notice.",
+    "notice": null,
+    "notice_details": null,
     "first_day": "2024-05-23T00:00:00+00:00",
     "start_datetime": "2024-05-23T18:00:00+00:00",
     "end_datetime": "2024-05-23T20:00:00+00:00",
-    "created_at": "2024-05-21T00:43:39+00:00",
-    "updated_at": "2024-05-21T00:43:39+00:00",
+    "created_at": "2024-05-22T00:43:40+00:00",
+    "updated_at": "2024-05-22T00:43:40+00:00",
     "last_day": "2024-06-22T00:00:00-04:00"
   },
   {
@@ -5188,13 +5234,13 @@
     "period_start": "2024-01-06T00:00:00-05:00",
     "period_end": "2024-06-22T00:00:00-04:00",
     "section": "For adults",
-    "notice": "Temporary closing",
-    "notice_details": "Closed until further notice.",
+    "notice": null,
+    "notice_details": null,
     "first_day": "2024-05-24T00:00:00+00:00",
     "start_datetime": "2024-05-24T11:00:00+00:00",
     "end_datetime": "2024-05-24T16:00:00+00:00",
-    "created_at": "2024-05-21T00:43:39+00:00",
-    "updated_at": "2024-05-21T00:43:39+00:00",
+    "created_at": "2024-05-22T00:43:40+00:00",
+    "updated_at": "2024-05-22T00:43:40+00:00",
     "last_day": "2024-06-22T00:00:00-04:00"
   },
   {
@@ -5211,13 +5257,13 @@
     "period_start": "2024-01-06T00:00:00-05:00",
     "period_end": "2024-06-22T00:00:00-04:00",
     "section": "For everyone",
-    "notice": "Temporary closing",
-    "notice_details": "Closed until further notice.",
+    "notice": null,
+    "notice_details": null,
     "first_day": "2024-05-24T00:00:00+00:00",
     "start_datetime": "2024-05-24T17:00:00+00:00",
     "end_datetime": "2024-05-24T20:00:00+00:00",
-    "created_at": "2024-05-21T00:43:39+00:00",
-    "updated_at": "2024-05-21T00:43:39+00:00",
+    "created_at": "2024-05-22T00:43:40+00:00",
+    "updated_at": "2024-05-22T00:43:40+00:00",
     "last_day": "2024-06-22T00:00:00-04:00"
   },
   {
@@ -5234,13 +5280,13 @@
     "period_start": "2024-01-06T00:00:00-05:00",
     "period_end": "2024-06-22T00:00:00-04:00",
     "section": "For adults",
-    "notice": "Temporary closing",
-    "notice_details": "Closed until further notice.",
+    "notice": null,
+    "notice_details": null,
     "first_day": "2024-05-25T00:00:00+00:00",
     "start_datetime": "2024-05-25T10:00:00+00:00",
     "end_datetime": "2024-05-25T12:00:00+00:00",
-    "created_at": "2024-05-21T00:43:39+00:00",
-    "updated_at": "2024-05-21T00:43:39+00:00",
+    "created_at": "2024-05-22T00:43:40+00:00",
+    "updated_at": "2024-05-22T00:43:40+00:00",
     "last_day": "2024-06-22T00:00:00-04:00"
   },
   {
@@ -5257,13 +5303,13 @@
     "period_start": "2024-01-06T00:00:00-05:00",
     "period_end": "2024-06-22T00:00:00-04:00",
     "section": "For everyone",
-    "notice": "Temporary closing",
-    "notice_details": "Closed until further notice.",
+    "notice": null,
+    "notice_details": null,
     "first_day": "2024-05-25T00:00:00+00:00",
     "start_datetime": "2024-05-25T12:00:00+00:00",
     "end_datetime": "2024-05-25T14:00:00+00:00",
-    "created_at": "2024-05-21T00:43:39+00:00",
-    "updated_at": "2024-05-21T00:43:39+00:00",
+    "created_at": "2024-05-22T00:43:40+00:00",
+    "updated_at": "2024-05-22T00:43:40+00:00",
     "last_day": "2024-06-22T00:00:00-04:00"
   },
   {
@@ -5280,13 +5326,13 @@
     "period_start": "2024-01-06T00:00:00-05:00",
     "period_end": "2024-06-22T00:00:00-04:00",
     "section": "For the transgender community",
-    "notice": "Temporary closing",
-    "notice_details": "Closed until further notice.",
+    "notice": null,
+    "notice_details": null,
     "first_day": "2024-05-25T00:00:00+00:00",
     "start_datetime": "2024-05-25T15:00:00+00:00",
     "end_datetime": "2024-05-25T16:00:00+00:00",
-    "created_at": "2024-05-21T00:43:39+00:00",
-    "updated_at": "2024-05-21T00:43:39+00:00",
+    "created_at": "2024-05-22T00:43:40+00:00",
+    "updated_at": "2024-05-22T00:43:40+00:00",
     "last_day": "2024-06-22T00:00:00-04:00"
   },
   {
@@ -5303,13 +5349,59 @@
     "period_start": "2024-01-06T00:00:00-05:00",
     "period_end": "2024-06-22T00:00:00-04:00",
     "section": "For adults",
-    "notice": "Temporary closing",
-    "notice_details": "Closed until further notice.",
+    "notice": null,
+    "notice_details": null,
     "first_day": "2024-05-27T00:00:00+00:00",
     "start_datetime": "2024-05-27T16:00:00+00:00",
     "end_datetime": "2024-05-27T20:00:00+00:00",
-    "created_at": "2024-05-21T00:43:39+00:00",
-    "updated_at": "2024-05-21T00:43:39+00:00",
+    "created_at": "2024-05-22T00:43:40+00:00",
+    "updated_at": "2024-05-22T00:43:40+00:00",
+    "last_day": "2024-06-22T00:00:00-04:00"
+  },
+  {
+    "title": "Open swim for adults",
+    "weekday": 2,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00-05:00",
+    "period_end": "2024-06-22T00:00:00-04:00",
+    "section": "For adults",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-05-28T00:00:00+00:00",
+    "start_datetime": "2024-05-28T13:00:00+00:00",
+    "end_datetime": "2024-05-28T16:00:00+00:00",
+    "created_at": "2024-05-22T00:43:40+00:00",
+    "updated_at": "2024-05-22T00:43:40+00:00",
+    "last_day": "2024-06-22T00:00:00-04:00"
+  },
+  {
+    "title": "Open swim for everyone",
+    "weekday": 2,
+    "start_time": [
+      17,
+      0
+    ],
+    "end_time": [
+      20,
+      0
+    ],
+    "period_start": "2024-01-06T00:00:00-05:00",
+    "period_end": "2024-06-22T00:00:00-04:00",
+    "section": "For everyone",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-05-28T00:00:00+00:00",
+    "start_datetime": "2024-05-28T17:00:00+00:00",
+    "end_datetime": "2024-05-28T20:00:00+00:00",
+    "created_at": "2024-05-22T00:43:40+00:00",
+    "updated_at": "2024-05-22T00:43:40+00:00",
     "last_day": "2024-06-22T00:00:00-04:00"
   }
 ]
