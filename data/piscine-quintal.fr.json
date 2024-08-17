@@ -6436,8 +6436,8 @@
     "start_datetime": "2024-08-16T11:00:00+00:00",
     "end_datetime": "2024-08-16T13:00:00+00:00",
     "created_at": "2024-08-16T16:12:32+00:00",
-    "updated_at": "2024-08-16T16:12:32+00:00",
-    "last_day": "2024-08-26T00:00:00-04:00"
+    "updated_at": "2024-08-17T04:13:01+00:00",
+    "last_day": "2024-08-17T00:00:00+00:00"
   },
   {
     "title": "Baignade libre pour toutes et tous",
@@ -6459,8 +6459,8 @@
     "start_datetime": "2024-08-16T13:00:00+00:00",
     "end_datetime": "2024-08-16T16:00:00+00:00",
     "created_at": "2024-08-16T16:12:32+00:00",
-    "updated_at": "2024-08-16T16:12:32+00:00",
-    "last_day": "2024-08-26T00:00:00-04:00"
+    "updated_at": "2024-08-17T04:13:01+00:00",
+    "last_day": "2024-08-17T00:00:00+00:00"
   },
   {
     "title": "Baignade libre pour les adultes",
@@ -6482,7 +6482,30 @@
     "start_datetime": "2024-08-17T11:00:00+00:00",
     "end_datetime": "2024-08-17T12:00:00+00:00",
     "created_at": "2024-08-16T16:12:32+00:00",
-    "updated_at": "2024-08-16T16:12:32+00:00",
+    "updated_at": "2024-08-17T04:13:01+00:00",
+    "last_day": "2024-08-17T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes",
+    "weekday": 6,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      12,
+      0
+    ],
+    "period_start": "2024-06-22T00:00:00-04:00",
+    "period_end": "2024-08-26T00:00:00-04:00",
+    "section": "Pour les adultes",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-08-17T00:00:00+00:00",
+    "start_datetime": "2024-08-17T11:00:00+00:00",
+    "end_datetime": "2024-08-17T12:00:00+00:00",
+    "created_at": "2024-08-17T04:13:01+00:00",
+    "updated_at": "2024-08-17T04:13:01+00:00",
     "last_day": "2024-08-26T00:00:00-04:00"
   },
   {
@@ -6505,7 +6528,30 @@
     "start_datetime": "2024-08-17T12:00:00+00:00",
     "end_datetime": "2024-08-17T14:00:00+00:00",
     "created_at": "2024-08-16T16:12:32+00:00",
-    "updated_at": "2024-08-16T16:12:32+00:00",
+    "updated_at": "2024-08-17T04:13:01+00:00",
+    "last_day": "2024-08-17T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour toutes et tous",
+    "weekday": 6,
+    "start_time": [
+      12,
+      0
+    ],
+    "end_time": [
+      14,
+      0
+    ],
+    "period_start": "2024-06-22T00:00:00-04:00",
+    "period_end": "2024-08-26T00:00:00-04:00",
+    "section": "Pour toutes et tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-08-17T00:00:00+00:00",
+    "start_datetime": "2024-08-17T12:00:00+00:00",
+    "end_datetime": "2024-08-17T14:00:00+00:00",
+    "created_at": "2024-08-17T04:13:01+00:00",
+    "updated_at": "2024-08-17T04:13:01+00:00",
     "last_day": "2024-08-26T00:00:00-04:00"
   },
   {
@@ -6528,7 +6574,30 @@
     "start_datetime": "2024-08-17T15:00:00+00:00",
     "end_datetime": "2024-08-17T16:00:00+00:00",
     "created_at": "2024-08-16T16:12:32+00:00",
-    "updated_at": "2024-08-16T16:12:32+00:00",
+    "updated_at": "2024-08-17T04:13:01+00:00",
+    "last_day": "2024-08-17T00:00:00+00:00"
+  },
+  {
+    "title": "Baignade libre pour la communauté transgenre",
+    "weekday": 6,
+    "start_time": [
+      15,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2024-06-22T00:00:00-04:00",
+    "period_end": "2024-08-26T00:00:00-04:00",
+    "section": "Pour la communauté transgenre",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-08-17T00:00:00+00:00",
+    "start_datetime": "2024-08-17T15:00:00+00:00",
+    "end_datetime": "2024-08-17T16:00:00+00:00",
+    "created_at": "2024-08-17T04:13:01+00:00",
+    "updated_at": "2024-08-17T04:13:01+00:00",
     "last_day": "2024-08-26T00:00:00-04:00"
   },
   {
@@ -6545,13 +6614,13 @@
     "period_start": "2024-06-22T00:00:00-04:00",
     "period_end": "2024-08-26T00:00:00-04:00",
     "section": "Pour les adultes",
-    "notice": "Fermeture exceptionnelle",
-    "notice_details": "Ce lieu est fermé temporairement pour des raisons hors de notre contrôle.",
+    "notice": null,
+    "notice_details": null,
     "first_day": "2024-08-19T00:00:00+00:00",
     "start_datetime": "2024-08-19T11:00:00+00:00",
     "end_datetime": "2024-08-19T13:00:00+00:00",
-    "created_at": "2024-08-16T16:12:32+00:00",
-    "updated_at": "2024-08-16T16:12:32+00:00",
+    "created_at": "2024-08-17T04:13:01+00:00",
+    "updated_at": "2024-08-17T04:13:01+00:00",
     "last_day": "2024-08-26T00:00:00-04:00"
   },
   {
@@ -6568,13 +6637,13 @@
     "period_start": "2024-06-22T00:00:00-04:00",
     "period_end": "2024-08-26T00:00:00-04:00",
     "section": "Pour toutes et tous",
-    "notice": "Fermeture exceptionnelle",
-    "notice_details": "Ce lieu est fermé temporairement pour des raisons hors de notre contrôle.",
+    "notice": null,
+    "notice_details": null,
     "first_day": "2024-08-19T00:00:00+00:00",
     "start_datetime": "2024-08-19T13:00:00+00:00",
     "end_datetime": "2024-08-19T16:00:00+00:00",
-    "created_at": "2024-08-16T16:12:32+00:00",
-    "updated_at": "2024-08-16T16:12:32+00:00",
+    "created_at": "2024-08-17T04:13:01+00:00",
+    "updated_at": "2024-08-17T04:13:01+00:00",
     "last_day": "2024-08-26T00:00:00-04:00"
   },
   {
@@ -6591,13 +6660,13 @@
     "period_start": "2024-06-22T00:00:00-04:00",
     "period_end": "2024-08-26T00:00:00-04:00",
     "section": "Pour les adultes",
-    "notice": "Fermeture exceptionnelle",
-    "notice_details": "Ce lieu est fermé temporairement pour des raisons hors de notre contrôle.",
+    "notice": null,
+    "notice_details": null,
     "first_day": "2024-08-20T00:00:00+00:00",
     "start_datetime": "2024-08-20T11:00:00+00:00",
     "end_datetime": "2024-08-20T13:00:00+00:00",
-    "created_at": "2024-08-16T16:12:32+00:00",
-    "updated_at": "2024-08-16T16:12:32+00:00",
+    "created_at": "2024-08-17T04:13:01+00:00",
+    "updated_at": "2024-08-17T04:13:01+00:00",
     "last_day": "2024-08-26T00:00:00-04:00"
   },
   {
@@ -6614,13 +6683,13 @@
     "period_start": "2024-06-22T00:00:00-04:00",
     "period_end": "2024-08-26T00:00:00-04:00",
     "section": "Pour toutes et tous",
-    "notice": "Fermeture exceptionnelle",
-    "notice_details": "Ce lieu est fermé temporairement pour des raisons hors de notre contrôle.",
+    "notice": null,
+    "notice_details": null,
     "first_day": "2024-08-20T00:00:00+00:00",
     "start_datetime": "2024-08-20T13:00:00+00:00",
     "end_datetime": "2024-08-20T16:00:00+00:00",
-    "created_at": "2024-08-16T16:12:32+00:00",
-    "updated_at": "2024-08-16T16:12:32+00:00",
+    "created_at": "2024-08-17T04:13:01+00:00",
+    "updated_at": "2024-08-17T04:13:01+00:00",
     "last_day": "2024-08-26T00:00:00-04:00"
   },
   {
@@ -6637,13 +6706,13 @@
     "period_start": "2024-06-22T00:00:00-04:00",
     "period_end": "2024-08-26T00:00:00-04:00",
     "section": "Pour les adultes",
-    "notice": "Fermeture exceptionnelle",
-    "notice_details": "Ce lieu est fermé temporairement pour des raisons hors de notre contrôle.",
+    "notice": null,
+    "notice_details": null,
     "first_day": "2024-08-21T00:00:00+00:00",
     "start_datetime": "2024-08-21T11:00:00+00:00",
     "end_datetime": "2024-08-21T13:00:00+00:00",
-    "created_at": "2024-08-16T16:12:32+00:00",
-    "updated_at": "2024-08-16T16:12:32+00:00",
+    "created_at": "2024-08-17T04:13:01+00:00",
+    "updated_at": "2024-08-17T04:13:01+00:00",
     "last_day": "2024-08-26T00:00:00-04:00"
   },
   {
@@ -6660,13 +6729,13 @@
     "period_start": "2024-06-22T00:00:00-04:00",
     "period_end": "2024-08-26T00:00:00-04:00",
     "section": "Pour toutes et tous",
-    "notice": "Fermeture exceptionnelle",
-    "notice_details": "Ce lieu est fermé temporairement pour des raisons hors de notre contrôle.",
+    "notice": null,
+    "notice_details": null,
     "first_day": "2024-08-21T00:00:00+00:00",
     "start_datetime": "2024-08-21T13:00:00+00:00",
     "end_datetime": "2024-08-21T16:00:00+00:00",
-    "created_at": "2024-08-16T16:12:32+00:00",
-    "updated_at": "2024-08-16T16:12:32+00:00",
+    "created_at": "2024-08-17T04:13:01+00:00",
+    "updated_at": "2024-08-17T04:13:01+00:00",
     "last_day": "2024-08-26T00:00:00-04:00"
   },
   {
@@ -6683,13 +6752,13 @@
     "period_start": "2024-06-22T00:00:00-04:00",
     "period_end": "2024-08-26T00:00:00-04:00",
     "section": "Pour les adultes",
-    "notice": "Fermeture exceptionnelle",
-    "notice_details": "Ce lieu est fermé temporairement pour des raisons hors de notre contrôle.",
+    "notice": null,
+    "notice_details": null,
     "first_day": "2024-08-22T00:00:00+00:00",
     "start_datetime": "2024-08-22T11:00:00+00:00",
     "end_datetime": "2024-08-22T13:00:00+00:00",
-    "created_at": "2024-08-16T16:12:32+00:00",
-    "updated_at": "2024-08-16T16:12:32+00:00",
+    "created_at": "2024-08-17T04:13:01+00:00",
+    "updated_at": "2024-08-17T04:13:01+00:00",
     "last_day": "2024-08-26T00:00:00-04:00"
   },
   {
@@ -6706,13 +6775,13 @@
     "period_start": "2024-06-22T00:00:00-04:00",
     "period_end": "2024-08-26T00:00:00-04:00",
     "section": "Pour toutes et tous",
-    "notice": "Fermeture exceptionnelle",
-    "notice_details": "Ce lieu est fermé temporairement pour des raisons hors de notre contrôle.",
+    "notice": null,
+    "notice_details": null,
     "first_day": "2024-08-22T00:00:00+00:00",
     "start_datetime": "2024-08-22T13:00:00+00:00",
     "end_datetime": "2024-08-22T16:00:00+00:00",
-    "created_at": "2024-08-16T16:12:32+00:00",
-    "updated_at": "2024-08-16T16:12:32+00:00",
+    "created_at": "2024-08-17T04:13:01+00:00",
+    "updated_at": "2024-08-17T04:13:01+00:00",
     "last_day": "2024-08-26T00:00:00-04:00"
   },
   {
@@ -6729,13 +6798,59 @@
     "period_start": "2024-06-22T00:00:00-04:00",
     "period_end": "2024-08-26T00:00:00-04:00",
     "section": "Pour la communauté transgenre",
-    "notice": "Fermeture exceptionnelle",
-    "notice_details": "Ce lieu est fermé temporairement pour des raisons hors de notre contrôle.",
+    "notice": null,
+    "notice_details": null,
     "first_day": "2024-08-22T00:00:00+00:00",
     "start_datetime": "2024-08-22T17:00:00+00:00",
     "end_datetime": "2024-08-22T19:00:00+00:00",
-    "created_at": "2024-08-16T16:12:32+00:00",
-    "updated_at": "2024-08-16T16:12:32+00:00",
+    "created_at": "2024-08-17T04:13:01+00:00",
+    "updated_at": "2024-08-17T04:13:01+00:00",
+    "last_day": "2024-08-26T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes",
+    "weekday": 5,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      13,
+      0
+    ],
+    "period_start": "2024-06-22T00:00:00-04:00",
+    "period_end": "2024-08-26T00:00:00-04:00",
+    "section": "Pour les adultes",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-08-23T00:00:00+00:00",
+    "start_datetime": "2024-08-23T11:00:00+00:00",
+    "end_datetime": "2024-08-23T13:00:00+00:00",
+    "created_at": "2024-08-17T04:13:01+00:00",
+    "updated_at": "2024-08-17T04:13:01+00:00",
+    "last_day": "2024-08-26T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour toutes et tous",
+    "weekday": 5,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2024-06-22T00:00:00-04:00",
+    "period_end": "2024-08-26T00:00:00-04:00",
+    "section": "Pour toutes et tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-08-23T00:00:00+00:00",
+    "start_datetime": "2024-08-23T13:00:00+00:00",
+    "end_datetime": "2024-08-23T16:00:00+00:00",
+    "created_at": "2024-08-17T04:13:01+00:00",
+    "updated_at": "2024-08-17T04:13:01+00:00",
     "last_day": "2024-08-26T00:00:00-04:00"
   }
 ]
