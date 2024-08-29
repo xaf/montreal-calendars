@@ -7018,7 +7018,7 @@
     "title": "Open swim for adults",
     "weekday": 6,
     "start_time": [
-      11,
+      10,
       0
     ],
     "end_time": [
@@ -7031,10 +7031,10 @@
     "notice": null,
     "notice_details": null,
     "first_day": "2024-08-31T00:00:00-04:00",
-    "start_datetime": "2024-08-31T11:00:00+00:00",
+    "start_datetime": "2024-08-31T10:00:00+00:00",
     "end_datetime": "2024-08-31T12:00:00+00:00",
-    "created_at": "2024-08-24T18:11:38+00:00",
-    "updated_at": "2024-08-24T18:11:38+00:00",
+    "created_at": "2024-08-29T16:11:57+00:00",
+    "updated_at": "2024-08-29T16:11:57+00:00",
     "last_day": "2024-09-23T00:00:00-04:00"
   },
   {
