@@ -9,8 +9,9 @@ GEM
     domain_name (0.6.20240107)
     http-cookie (1.0.7)
       domain_name (~> 0.5)
-    icalendar (2.10.2)
+    icalendar (2.10.3)
       ice_cube (~> 0.16)
+      ostruct
     ice_cube (0.17.0)
     mechanize (2.12.1)
       addressable (~> 2.8)
@@ -36,6 +37,7 @@ GEM
     nokogiri (1.16.7)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
+    ostruct (0.6.0)
     public_suffix (6.0.1)
     racc (1.8.1)
     rubyntlm (0.6.5)
