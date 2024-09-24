@@ -7333,8 +7333,8 @@
     "start_datetime": "2024-09-23T07:00:00+00:00",
     "end_datetime": "2024-09-23T09:00:00+00:00",
     "created_at": "2024-09-20T20:11:41+00:00",
-    "updated_at": "2024-09-20T20:11:41+00:00",
-    "last_day": "2024-09-25T00:00:00-04:00"
+    "updated_at": "2024-09-24T22:10:06+00:00",
+    "last_day": "2024-09-24T00:00:00+00:00"
   },
   {
     "title": "Baignade libre pour toutes et tous",
@@ -7356,31 +7356,330 @@
     "start_datetime": "2024-09-23T19:00:00+00:00",
     "end_datetime": "2024-09-23T21:00:00+00:00",
     "created_at": "2024-09-20T20:11:41+00:00",
-    "updated_at": "2024-09-20T20:11:41+00:00",
-    "last_day": "2024-09-25T00:00:00-04:00"
+    "updated_at": "2024-09-24T22:10:06+00:00",
+    "last_day": "2024-09-24T00:00:00+00:00"
   },
   {
     "title": "Baignade libre pour les adultes",
-    "weekday": 2,
+    "weekday": 3,
     "start_time": [
-      12,
+      7,
       0
     ],
     "end_time": [
       13,
       0
     ],
-    "period_start": "2024-09-20T00:00:00-04:00",
-    "period_end": "2024-09-25T00:00:00-04:00",
+    "period_start": "2024-09-25T00:00:00-04:00",
+    "period_end": "2024-10-01T00:00:00-04:00",
     "section": "Pour les adultes",
     "notice": null,
     "notice_details": null,
-    "first_day": "2024-09-24T00:00:00-04:00",
-    "start_datetime": "2024-09-24T12:00:00+00:00",
-    "end_datetime": "2024-09-24T13:00:00+00:00",
-    "created_at": "2024-09-24T12:19:57+00:00",
-    "updated_at": "2024-09-24T12:19:57+00:00",
-    "last_day": "2024-09-25T00:00:00-04:00"
+    "first_day": "2024-09-25T00:00:00-04:00",
+    "start_datetime": "2024-09-25T07:00:00+00:00",
+    "end_datetime": "2024-09-25T13:00:00+00:00",
+    "created_at": "2024-09-24T22:10:06+00:00",
+    "updated_at": "2024-09-24T22:10:06+00:00",
+    "last_day": "2024-10-01T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour toutes et tous",
+    "weekday": 3,
+    "start_time": [
+      19,
+      0
+    ],
+    "end_time": [
+      21,
+      0
+    ],
+    "period_start": "2024-09-25T00:00:00-04:00",
+    "period_end": "2024-10-01T00:00:00-04:00",
+    "section": "Pour toutes et tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-09-25T00:00:00-04:00",
+    "start_datetime": "2024-09-25T19:00:00+00:00",
+    "end_datetime": "2024-09-25T21:00:00+00:00",
+    "created_at": "2024-09-24T22:10:06+00:00",
+    "updated_at": "2024-09-24T22:10:06+00:00",
+    "last_day": "2024-10-01T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes",
+    "weekday": 4,
+    "start_time": [
+      8,
+      0
+    ],
+    "end_time": [
+      13,
+      0
+    ],
+    "period_start": "2024-09-25T00:00:00-04:00",
+    "period_end": "2024-10-01T00:00:00-04:00",
+    "section": "Pour les adultes",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-09-26T00:00:00-04:00",
+    "start_datetime": "2024-09-26T08:00:00+00:00",
+    "end_datetime": "2024-09-26T13:00:00+00:00",
+    "created_at": "2024-09-24T22:10:06+00:00",
+    "updated_at": "2024-09-24T22:10:06+00:00",
+    "last_day": "2024-10-01T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour toutes et tous",
+    "weekday": 4,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2024-09-25T00:00:00-04:00",
+    "period_end": "2024-10-01T00:00:00-04:00",
+    "section": "Pour toutes et tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-09-26T00:00:00-04:00",
+    "start_datetime": "2024-09-26T13:00:00+00:00",
+    "end_datetime": "2024-09-26T16:00:00+00:00",
+    "created_at": "2024-09-24T22:10:06+00:00",
+    "updated_at": "2024-09-24T22:10:06+00:00",
+    "last_day": "2024-10-01T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour la communauté transgenre",
+    "weekday": 4,
+    "start_time": [
+      18,
+      0
+    ],
+    "end_time": [
+      20,
+      0
+    ],
+    "period_start": "2024-09-25T00:00:00-04:00",
+    "period_end": "2024-10-01T00:00:00-04:00",
+    "section": "Pour la communauté transgenre",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-09-26T00:00:00-04:00",
+    "start_datetime": "2024-09-26T18:00:00+00:00",
+    "end_datetime": "2024-09-26T20:00:00+00:00",
+    "created_at": "2024-09-24T22:10:06+00:00",
+    "updated_at": "2024-09-24T22:10:06+00:00",
+    "last_day": "2024-10-01T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes",
+    "weekday": 5,
+    "start_time": [
+      7,
+      0
+    ],
+    "end_time": [
+      13,
+      0
+    ],
+    "period_start": "2024-09-25T00:00:00-04:00",
+    "period_end": "2024-10-01T00:00:00-04:00",
+    "section": "Pour les adultes",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-09-27T00:00:00-04:00",
+    "start_datetime": "2024-09-27T07:00:00+00:00",
+    "end_datetime": "2024-09-27T13:00:00+00:00",
+    "created_at": "2024-09-24T22:10:06+00:00",
+    "updated_at": "2024-09-24T22:10:06+00:00",
+    "last_day": "2024-10-01T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour toutes et tous",
+    "weekday": 5,
+    "start_time": [
+      19,
+      0
+    ],
+    "end_time": [
+      21,
+      0
+    ],
+    "period_start": "2024-09-25T00:00:00-04:00",
+    "period_end": "2024-10-01T00:00:00-04:00",
+    "section": "Pour toutes et tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-09-27T00:00:00-04:00",
+    "start_datetime": "2024-09-27T19:00:00+00:00",
+    "end_datetime": "2024-09-27T21:00:00+00:00",
+    "created_at": "2024-09-24T22:10:06+00:00",
+    "updated_at": "2024-09-24T22:10:06+00:00",
+    "last_day": "2024-10-01T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes",
+    "weekday": 6,
+    "start_time": [
+      10,
+      0
+    ],
+    "end_time": [
+      12,
+      0
+    ],
+    "period_start": "2024-09-25T00:00:00-04:00",
+    "period_end": "2024-10-01T00:00:00-04:00",
+    "section": "Pour les adultes",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-09-28T00:00:00-04:00",
+    "start_datetime": "2024-09-28T10:00:00+00:00",
+    "end_datetime": "2024-09-28T12:00:00+00:00",
+    "created_at": "2024-09-24T22:10:06+00:00",
+    "updated_at": "2024-09-24T22:10:06+00:00",
+    "last_day": "2024-10-01T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour toutes et tous",
+    "weekday": 6,
+    "start_time": [
+      12,
+      0
+    ],
+    "end_time": [
+      14,
+      0
+    ],
+    "period_start": "2024-09-25T00:00:00-04:00",
+    "period_end": "2024-10-01T00:00:00-04:00",
+    "section": "Pour toutes et tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-09-28T00:00:00-04:00",
+    "start_datetime": "2024-09-28T12:00:00+00:00",
+    "end_datetime": "2024-09-28T14:00:00+00:00",
+    "created_at": "2024-09-24T22:10:06+00:00",
+    "updated_at": "2024-09-24T22:10:06+00:00",
+    "last_day": "2024-10-01T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour la communauté transgenre",
+    "weekday": 6,
+    "start_time": [
+      15,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2024-09-25T00:00:00-04:00",
+    "period_end": "2024-10-01T00:00:00-04:00",
+    "section": "Pour la communauté transgenre",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-09-28T00:00:00-04:00",
+    "start_datetime": "2024-09-28T15:00:00+00:00",
+    "end_datetime": "2024-09-28T16:00:00+00:00",
+    "created_at": "2024-09-24T22:10:06+00:00",
+    "updated_at": "2024-09-24T22:10:06+00:00",
+    "last_day": "2024-10-01T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour toutes et tous",
+    "weekday": 0,
+    "start_time": [
+      15,
+      0
+    ],
+    "end_time": [
+      18,
+      0
+    ],
+    "period_start": "2024-09-25T00:00:00-04:00",
+    "period_end": "2024-10-01T00:00:00-04:00",
+    "section": "Pour toutes et tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-09-29T00:00:00-04:00",
+    "start_datetime": "2024-09-29T15:00:00+00:00",
+    "end_datetime": "2024-09-29T18:00:00+00:00",
+    "created_at": "2024-09-24T22:10:06+00:00",
+    "updated_at": "2024-09-24T22:10:06+00:00",
+    "last_day": "2024-10-01T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes",
+    "weekday": 1,
+    "start_time": [
+      7,
+      0
+    ],
+    "end_time": [
+      13,
+      0
+    ],
+    "period_start": "2024-09-25T00:00:00-04:00",
+    "period_end": "2024-10-01T00:00:00-04:00",
+    "section": "Pour les adultes",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-09-30T00:00:00-04:00",
+    "start_datetime": "2024-09-30T07:00:00+00:00",
+    "end_datetime": "2024-09-30T13:00:00+00:00",
+    "created_at": "2024-09-24T22:10:06+00:00",
+    "updated_at": "2024-09-24T22:10:06+00:00",
+    "last_day": "2024-10-01T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour toutes et tous",
+    "weekday": 1,
+    "start_time": [
+      19,
+      0
+    ],
+    "end_time": [
+      21,
+      0
+    ],
+    "period_start": "2024-09-25T00:00:00-04:00",
+    "period_end": "2024-10-01T00:00:00-04:00",
+    "section": "Pour toutes et tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-09-30T00:00:00-04:00",
+    "start_datetime": "2024-09-30T19:00:00+00:00",
+    "end_datetime": "2024-09-30T21:00:00+00:00",
+    "created_at": "2024-09-24T22:10:06+00:00",
+    "updated_at": "2024-09-24T22:10:06+00:00",
+    "last_day": "2024-10-01T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes",
+    "weekday": 2,
+    "start_time": [
+      8,
+      0
+    ],
+    "end_time": [
+      13,
+      0
+    ],
+    "period_start": "2024-09-25T00:00:00-04:00",
+    "period_end": "2024-10-01T00:00:00-04:00",
+    "section": "Pour les adultes",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-10-01T00:00:00-04:00",
+    "start_datetime": "2024-10-01T08:00:00+00:00",
+    "end_datetime": "2024-10-01T13:00:00+00:00",
+    "created_at": "2024-09-24T22:10:06+00:00",
+    "updated_at": "2024-09-24T22:10:06+00:00",
+    "last_day": "2024-10-01T00:00:00-04:00"
   },
   {
     "title": "Baignade libre pour toutes et tous",
@@ -7393,16 +7692,16 @@
       16,
       0
     ],
-    "period_start": "2024-09-20T00:00:00-04:00",
-    "period_end": "2024-09-25T00:00:00-04:00",
+    "period_start": "2024-09-25T00:00:00-04:00",
+    "period_end": "2024-10-01T00:00:00-04:00",
     "section": "Pour toutes et tous",
     "notice": null,
     "notice_details": null,
-    "first_day": "2024-09-24T00:00:00-04:00",
-    "start_datetime": "2024-09-24T13:00:00+00:00",
-    "end_datetime": "2024-09-24T16:00:00+00:00",
-    "created_at": "2024-09-20T20:11:41+00:00",
-    "updated_at": "2024-09-20T20:11:41+00:00",
-    "last_day": "2024-09-25T00:00:00-04:00"
+    "first_day": "2024-10-01T00:00:00-04:00",
+    "start_datetime": "2024-10-01T13:00:00+00:00",
+    "end_datetime": "2024-10-01T16:00:00+00:00",
+    "created_at": "2024-09-24T22:10:06+00:00",
+    "updated_at": "2024-09-24T22:10:06+00:00",
+    "last_day": "2024-10-01T00:00:00-04:00"
   }
 ]
