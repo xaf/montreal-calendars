@@ -8925,6 +8925,167 @@
   },
   {
     "title": "Baignade libre pour les adultes (16 ans et plus)",
+    "weekday": 2,
+    "start_time": [
+      10,
+      0
+    ],
+    "end_time": [
+      12,
+      0
+    ],
+    "period_start": "2024-12-21T00:00:00-05:00",
+    "period_end": "2025-01-06T00:00:00-05:00",
+    "section": "Pour les adultes (16 ans et plus)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-12-24T00:00:00-05:00",
+    "start_datetime": "2024-12-24T10:00:00+00:00",
+    "end_datetime": "2024-12-24T12:00:00+00:00",
+    "created_at": "2024-12-19T18:14:41+00:00",
+    "updated_at": "2024-12-19T18:14:41+00:00",
+    "last_day": "2025-01-06T00:00:00-05:00"
+  },
+  {
+    "title": "Baignade libre pour toutes et tous",
+    "weekday": 2,
+    "start_time": [
+      12,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2024-12-21T00:00:00-05:00",
+    "period_end": "2025-01-06T00:00:00-05:00",
+    "section": "Pour toutes et tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-12-24T00:00:00-05:00",
+    "start_datetime": "2024-12-24T12:00:00+00:00",
+    "end_datetime": "2024-12-24T16:00:00+00:00",
+    "created_at": "2024-12-19T18:14:41+00:00",
+    "updated_at": "2024-12-19T18:14:41+00:00",
+    "last_day": "2025-01-06T00:00:00-05:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes (16 ans et plus)",
+    "weekday": 3,
+    "start_time": [
+      10,
+      0
+    ],
+    "end_time": [
+      12,
+      0
+    ],
+    "period_start": "2024-12-21T00:00:00-05:00",
+    "period_end": "2025-01-06T00:00:00-05:00",
+    "section": "Pour les adultes (16 ans et plus)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-12-25T00:00:00-05:00",
+    "start_datetime": "2024-12-25T10:00:00+00:00",
+    "end_datetime": "2024-12-25T12:00:00+00:00",
+    "created_at": "2024-12-19T18:14:41+00:00",
+    "updated_at": "2024-12-19T18:14:41+00:00",
+    "last_day": "2025-01-06T00:00:00-05:00"
+  },
+  {
+    "title": "Baignade libre pour toutes et tous",
+    "weekday": 3,
+    "start_time": [
+      12,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2024-12-21T00:00:00-05:00",
+    "period_end": "2025-01-06T00:00:00-05:00",
+    "section": "Pour toutes et tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-12-25T00:00:00-05:00",
+    "start_datetime": "2024-12-25T12:00:00+00:00",
+    "end_datetime": "2024-12-25T16:00:00+00:00",
+    "created_at": "2024-12-19T18:14:41+00:00",
+    "updated_at": "2024-12-19T18:14:41+00:00",
+    "last_day": "2025-01-06T00:00:00-05:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes (16 ans et plus)",
+    "weekday": 4,
+    "start_time": [
+      10,
+      0
+    ],
+    "end_time": [
+      12,
+      0
+    ],
+    "period_start": "2024-12-21T00:00:00-05:00",
+    "period_end": "2025-01-06T00:00:00-05:00",
+    "section": "Pour les adultes (16 ans et plus)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-12-26T00:00:00-05:00",
+    "start_datetime": "2024-12-26T10:00:00+00:00",
+    "end_datetime": "2024-12-26T12:00:00+00:00",
+    "created_at": "2024-12-19T18:14:41+00:00",
+    "updated_at": "2024-12-19T18:14:41+00:00",
+    "last_day": "2025-01-06T00:00:00-05:00"
+  },
+  {
+    "title": "Baignade libre pour toutes et tous",
+    "weekday": 4,
+    "start_time": [
+      12,
+      0
+    ],
+    "end_time": [
+      14,
+      0
+    ],
+    "period_start": "2024-12-21T00:00:00-05:00",
+    "period_end": "2025-01-06T00:00:00-05:00",
+    "section": "Pour toutes et tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-12-26T00:00:00-05:00",
+    "start_datetime": "2024-12-26T12:00:00+00:00",
+    "end_datetime": "2024-12-26T14:00:00+00:00",
+    "created_at": "2024-12-19T18:14:41+00:00",
+    "updated_at": "2024-12-19T18:14:41+00:00",
+    "last_day": "2025-01-06T00:00:00-05:00"
+  },
+  {
+    "title": "Baignade libre pour la communauté transgenre",
+    "weekday": 4,
+    "start_time": [
+      15,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2024-12-21T00:00:00-05:00",
+    "period_end": "2025-01-06T00:00:00-05:00",
+    "section": "Pour la communauté transgenre",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2024-12-26T00:00:00-05:00",
+    "start_datetime": "2024-12-26T15:00:00+00:00",
+    "end_datetime": "2024-12-26T16:00:00+00:00",
+    "created_at": "2024-12-19T18:14:41+00:00",
+    "updated_at": "2024-12-19T18:14:41+00:00",
+    "last_day": "2025-01-06T00:00:00-05:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes (16 ans et plus)",
     "weekday": 5,
     "start_time": [
       10,
