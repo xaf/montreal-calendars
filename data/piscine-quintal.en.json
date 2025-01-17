@@ -8858,6 +8858,29 @@
     "title": "Open swim for adults (ages 16 and over)",
     "weekday": 1,
     "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      13,
+      0
+    ],
+    "period_start": "2025-01-06T00:00:00-05:00",
+    "period_end": "2026-03-21T00:00:00-04:00",
+    "section": "For adults (Ages 16 and over)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2025-01-06T00:00:00-05:00",
+    "start_datetime": "2025-01-06T11:00:00+00:00",
+    "end_datetime": "2025-01-06T13:00:00+00:00",
+    "created_at": "2025-01-17T20:11:14+00:00",
+    "updated_at": "2025-01-17T20:11:14+00:00",
+    "last_day": "2026-03-21T00:00:00-04:00"
+  },
+  {
+    "title": "Open swim for adults (ages 16 and over)",
+    "weekday": 1,
+    "start_time": [
       12,
       0
     ],
@@ -8874,8 +8897,8 @@
     "start_datetime": "2025-01-06T12:00:00+00:00",
     "end_datetime": "2025-01-06T13:00:00+00:00",
     "created_at": "2025-01-04T20:10:29+00:00",
-    "updated_at": "2025-01-04T20:10:29+00:00",
-    "last_day": "2026-03-21T00:00:00-04:00"
+    "updated_at": "2025-01-17T20:11:14+00:00",
+    "last_day": "2025-01-17T00:00:00+00:00"
   },
   {
     "title": "Open swim for everyone",
@@ -8904,6 +8927,29 @@
     "title": "Open swim for adults (ages 16 and over)",
     "weekday": 2,
     "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      13,
+      0
+    ],
+    "period_start": "2025-01-06T00:00:00-05:00",
+    "period_end": "2026-03-21T00:00:00-04:00",
+    "section": "For adults (Ages 16 and over)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2025-01-07T00:00:00-05:00",
+    "start_datetime": "2025-01-07T11:00:00+00:00",
+    "end_datetime": "2025-01-07T13:00:00+00:00",
+    "created_at": "2025-01-17T20:11:14+00:00",
+    "updated_at": "2025-01-17T20:11:14+00:00",
+    "last_day": "2026-03-21T00:00:00-04:00"
+  },
+  {
+    "title": "Open swim for adults (ages 16 and over)",
+    "weekday": 2,
+    "start_time": [
       12,
       0
     ],
@@ -8920,8 +8966,8 @@
     "start_datetime": "2025-01-07T12:00:00+00:00",
     "end_datetime": "2025-01-07T13:00:00+00:00",
     "created_at": "2025-01-04T20:10:29+00:00",
-    "updated_at": "2025-01-04T20:10:29+00:00",
-    "last_day": "2026-03-21T00:00:00-04:00"
+    "updated_at": "2025-01-17T20:11:14+00:00",
+    "last_day": "2025-01-17T00:00:00+00:00"
   },
   {
     "title": "Open swim for everyone",
@@ -8950,6 +8996,29 @@
     "title": "Open swim for adults (ages 16 and over)",
     "weekday": 3,
     "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      13,
+      0
+    ],
+    "period_start": "2025-01-06T00:00:00-05:00",
+    "period_end": "2026-03-21T00:00:00-04:00",
+    "section": "For adults (Ages 16 and over)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2025-01-08T00:00:00-05:00",
+    "start_datetime": "2025-01-08T11:00:00+00:00",
+    "end_datetime": "2025-01-08T13:00:00+00:00",
+    "created_at": "2025-01-17T20:11:14+00:00",
+    "updated_at": "2025-01-17T20:11:14+00:00",
+    "last_day": "2026-03-21T00:00:00-04:00"
+  },
+  {
+    "title": "Open swim for adults (ages 16 and over)",
+    "weekday": 3,
+    "start_time": [
       12,
       0
     ],
@@ -8966,8 +9035,8 @@
     "start_datetime": "2025-01-08T12:00:00+00:00",
     "end_datetime": "2025-01-08T13:00:00+00:00",
     "created_at": "2025-01-04T20:10:29+00:00",
-    "updated_at": "2025-01-04T20:10:29+00:00",
-    "last_day": "2026-03-21T00:00:00-04:00"
+    "updated_at": "2025-01-17T20:11:14+00:00",
+    "last_day": "2025-01-17T00:00:00+00:00"
   },
   {
     "title": "Open swim for everyone",
@@ -8996,6 +9065,29 @@
     "title": "Open swim for adults (ages 16 and over)",
     "weekday": 4,
     "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      13,
+      0
+    ],
+    "period_start": "2025-01-06T00:00:00-05:00",
+    "period_end": "2026-03-21T00:00:00-04:00",
+    "section": "For adults (Ages 16 and over)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2025-01-09T00:00:00-05:00",
+    "start_datetime": "2025-01-09T11:00:00+00:00",
+    "end_datetime": "2025-01-09T13:00:00+00:00",
+    "created_at": "2025-01-17T20:11:14+00:00",
+    "updated_at": "2025-01-17T20:11:14+00:00",
+    "last_day": "2026-03-21T00:00:00-04:00"
+  },
+  {
+    "title": "Open swim for adults (ages 16 and over)",
+    "weekday": 4,
+    "start_time": [
       12,
       0
     ],
@@ -9012,8 +9104,8 @@
     "start_datetime": "2025-01-09T12:00:00+00:00",
     "end_datetime": "2025-01-09T13:00:00+00:00",
     "created_at": "2025-01-04T20:10:29+00:00",
-    "updated_at": "2025-01-04T20:10:29+00:00",
-    "last_day": "2026-03-21T00:00:00-04:00"
+    "updated_at": "2025-01-17T20:11:14+00:00",
+    "last_day": "2025-01-17T00:00:00+00:00"
   },
   {
     "title": "Open swim for everyone",
@@ -9065,6 +9157,29 @@
     "title": "Open swim for adults (ages 16 and over)",
     "weekday": 5,
     "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      13,
+      0
+    ],
+    "period_start": "2025-01-06T00:00:00-05:00",
+    "period_end": "2026-03-21T00:00:00-04:00",
+    "section": "For adults (Ages 16 and over)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2025-01-10T00:00:00-05:00",
+    "start_datetime": "2025-01-10T11:00:00+00:00",
+    "end_datetime": "2025-01-10T13:00:00+00:00",
+    "created_at": "2025-01-17T20:11:14+00:00",
+    "updated_at": "2025-01-17T20:11:14+00:00",
+    "last_day": "2026-03-21T00:00:00-04:00"
+  },
+  {
+    "title": "Open swim for adults (ages 16 and over)",
+    "weekday": 5,
+    "start_time": [
       12,
       0
     ],
@@ -9081,8 +9196,8 @@
     "start_datetime": "2025-01-10T12:00:00+00:00",
     "end_datetime": "2025-01-10T13:00:00+00:00",
     "created_at": "2025-01-04T20:10:29+00:00",
-    "updated_at": "2025-01-04T20:10:29+00:00",
-    "last_day": "2026-03-21T00:00:00-04:00"
+    "updated_at": "2025-01-17T20:11:14+00:00",
+    "last_day": "2025-01-17T00:00:00+00:00"
   },
   {
     "title": "Open swim for everyone",
