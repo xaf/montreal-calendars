@@ -3,19 +3,19 @@ GEM
   specs:
     addressable (2.8.7)
       public_suffix (>= 2.0.2, < 7.0)
-    base64 (0.2.0)
+    base64 (0.3.0)
     concurrent-ruby (1.2.2)
     connection_pool (2.4.1)
     domain_name (0.6.20240107)
     http-cookie (1.0.8)
       domain_name (~> 0.5)
-    icalendar (2.11.0)
+    icalendar (2.11.1)
       base64
       ice_cube (~> 0.16)
       logger
       ostruct
     ice_cube (0.17.0)
-    logger (1.6.4)
+    logger (1.7.0)
     mechanize (2.14.0)
       addressable (~> 2.8)
       base64
