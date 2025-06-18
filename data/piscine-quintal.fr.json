@@ -9083,5 +9083,327 @@
     "created_at": "2025-01-23T14:10:12+00:00",
     "updated_at": "2025-01-23T14:10:12+00:00",
     "last_day": "2025-06-21T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes (16 ans et plus)",
+    "weekday": 6,
+    "start_time": [
+      10,
+      0
+    ],
+    "end_time": [
+      11,
+      0
+    ],
+    "period_start": "2025-06-21T00:00:00-04:00",
+    "period_end": "2025-08-18T00:00:00-04:00",
+    "section": "Pour les adultes (16 ans et plus)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2025-06-21T00:00:00-04:00",
+    "start_datetime": "2025-06-21T10:00:00+00:00",
+    "end_datetime": "2025-06-21T11:00:00+00:00",
+    "created_at": "2025-06-18T18:17:32+00:00",
+    "updated_at": "2025-06-18T18:17:32+00:00",
+    "last_day": "2025-08-18T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour toutes et tous",
+    "weekday": 6,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      14,
+      0
+    ],
+    "period_start": "2025-06-21T00:00:00-04:00",
+    "period_end": "2025-08-18T00:00:00-04:00",
+    "section": "Pour toutes et tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2025-06-21T00:00:00-04:00",
+    "start_datetime": "2025-06-21T11:00:00+00:00",
+    "end_datetime": "2025-06-21T14:00:00+00:00",
+    "created_at": "2025-06-18T18:17:32+00:00",
+    "updated_at": "2025-06-18T18:17:32+00:00",
+    "last_day": "2025-08-18T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour la communauté transgenre",
+    "weekday": 6,
+    "start_time": [
+      15,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2025-06-21T00:00:00-04:00",
+    "period_end": "2025-08-18T00:00:00-04:00",
+    "section": "Pour la communauté transgenre",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2025-06-21T00:00:00-04:00",
+    "start_datetime": "2025-06-21T15:00:00+00:00",
+    "end_datetime": "2025-06-21T16:00:00+00:00",
+    "created_at": "2025-06-18T18:17:32+00:00",
+    "updated_at": "2025-06-18T18:17:32+00:00",
+    "last_day": "2025-08-18T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes (16 ans et plus)",
+    "weekday": 1,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      13,
+      0
+    ],
+    "period_start": "2025-06-21T00:00:00-04:00",
+    "period_end": "2025-08-18T00:00:00-04:00",
+    "section": "Pour les adultes (16 ans et plus)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2025-06-23T00:00:00-04:00",
+    "start_datetime": "2025-06-23T11:00:00+00:00",
+    "end_datetime": "2025-06-23T13:00:00+00:00",
+    "created_at": "2025-06-18T18:17:32+00:00",
+    "updated_at": "2025-06-18T18:17:32+00:00",
+    "last_day": "2025-08-18T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour toutes et tous",
+    "weekday": 1,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2025-06-21T00:00:00-04:00",
+    "period_end": "2025-08-18T00:00:00-04:00",
+    "section": "Pour toutes et tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2025-06-23T00:00:00-04:00",
+    "start_datetime": "2025-06-23T13:00:00+00:00",
+    "end_datetime": "2025-06-23T16:00:00+00:00",
+    "created_at": "2025-06-18T18:17:32+00:00",
+    "updated_at": "2025-06-18T18:17:32+00:00",
+    "last_day": "2025-08-18T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes (16 ans et plus)",
+    "weekday": 2,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      13,
+      0
+    ],
+    "period_start": "2025-06-21T00:00:00-04:00",
+    "period_end": "2025-08-18T00:00:00-04:00",
+    "section": "Pour les adultes (16 ans et plus)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2025-06-24T00:00:00-04:00",
+    "start_datetime": "2025-06-24T11:00:00+00:00",
+    "end_datetime": "2025-06-24T13:00:00+00:00",
+    "created_at": "2025-06-18T18:17:32+00:00",
+    "updated_at": "2025-06-18T18:17:32+00:00",
+    "last_day": "2025-08-18T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour toutes et tous",
+    "weekday": 2,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2025-06-21T00:00:00-04:00",
+    "period_end": "2025-08-18T00:00:00-04:00",
+    "section": "Pour toutes et tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2025-06-24T00:00:00-04:00",
+    "start_datetime": "2025-06-24T13:00:00+00:00",
+    "end_datetime": "2025-06-24T16:00:00+00:00",
+    "created_at": "2025-06-18T18:17:32+00:00",
+    "updated_at": "2025-06-18T18:17:32+00:00",
+    "last_day": "2025-08-18T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes (16 ans et plus)",
+    "weekday": 3,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      13,
+      0
+    ],
+    "period_start": "2025-06-21T00:00:00-04:00",
+    "period_end": "2025-08-18T00:00:00-04:00",
+    "section": "Pour les adultes (16 ans et plus)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2025-06-25T00:00:00-04:00",
+    "start_datetime": "2025-06-25T11:00:00+00:00",
+    "end_datetime": "2025-06-25T13:00:00+00:00",
+    "created_at": "2025-06-18T18:17:32+00:00",
+    "updated_at": "2025-06-18T18:17:32+00:00",
+    "last_day": "2025-08-18T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour toutes et tous",
+    "weekday": 3,
+    "start_time": [
+      16,
+      0
+    ],
+    "end_time": [
+      19,
+      0
+    ],
+    "period_start": "2025-06-21T00:00:00-04:00",
+    "period_end": "2025-08-18T00:00:00-04:00",
+    "section": "Pour toutes et tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2025-06-25T00:00:00-04:00",
+    "start_datetime": "2025-06-25T16:00:00+00:00",
+    "end_datetime": "2025-06-25T19:00:00+00:00",
+    "created_at": "2025-06-18T18:17:32+00:00",
+    "updated_at": "2025-06-18T18:17:32+00:00",
+    "last_day": "2025-08-18T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes (16 ans et plus)",
+    "weekday": 4,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      13,
+      0
+    ],
+    "period_start": "2025-06-21T00:00:00-04:00",
+    "period_end": "2025-08-18T00:00:00-04:00",
+    "section": "Pour les adultes (16 ans et plus)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2025-06-26T00:00:00-04:00",
+    "start_datetime": "2025-06-26T11:00:00+00:00",
+    "end_datetime": "2025-06-26T13:00:00+00:00",
+    "created_at": "2025-06-18T18:17:32+00:00",
+    "updated_at": "2025-06-18T18:17:32+00:00",
+    "last_day": "2025-08-18T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour toutes et tous",
+    "weekday": 4,
+    "start_time": [
+      16,
+      0
+    ],
+    "end_time": [
+      19,
+      0
+    ],
+    "period_start": "2025-06-21T00:00:00-04:00",
+    "period_end": "2025-08-18T00:00:00-04:00",
+    "section": "Pour toutes et tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2025-06-26T00:00:00-04:00",
+    "start_datetime": "2025-06-26T16:00:00+00:00",
+    "end_datetime": "2025-06-26T19:00:00+00:00",
+    "created_at": "2025-06-18T18:17:32+00:00",
+    "updated_at": "2025-06-18T18:17:32+00:00",
+    "last_day": "2025-08-18T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour la communauté transgenre",
+    "weekday": 4,
+    "start_time": [
+      17,
+      0
+    ],
+    "end_time": [
+      19,
+      0
+    ],
+    "period_start": "2025-06-21T00:00:00-04:00",
+    "period_end": "2025-08-18T00:00:00-04:00",
+    "section": "Pour la communauté transgenre",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2025-06-26T00:00:00-04:00",
+    "start_datetime": "2025-06-26T17:00:00+00:00",
+    "end_datetime": "2025-06-26T19:00:00+00:00",
+    "created_at": "2025-06-18T18:17:32+00:00",
+    "updated_at": "2025-06-18T18:17:32+00:00",
+    "last_day": "2025-08-18T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes (16 ans et plus)",
+    "weekday": 5,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      13,
+      0
+    ],
+    "period_start": "2025-06-21T00:00:00-04:00",
+    "period_end": "2025-08-18T00:00:00-04:00",
+    "section": "Pour les adultes (16 ans et plus)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2025-06-27T00:00:00-04:00",
+    "start_datetime": "2025-06-27T11:00:00+00:00",
+    "end_datetime": "2025-06-27T13:00:00+00:00",
+    "created_at": "2025-06-18T18:17:32+00:00",
+    "updated_at": "2025-06-18T18:17:32+00:00",
+    "last_day": "2025-08-18T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour toutes et tous",
+    "weekday": 5,
+    "start_time": [
+      16,
+      0
+    ],
+    "end_time": [
+      19,
+      0
+    ],
+    "period_start": "2025-06-21T00:00:00-04:00",
+    "period_end": "2025-08-18T00:00:00-04:00",
+    "section": "Pour toutes et tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2025-06-27T00:00:00-04:00",
+    "start_datetime": "2025-06-27T16:00:00+00:00",
+    "end_datetime": "2025-06-27T19:00:00+00:00",
+    "created_at": "2025-06-18T18:17:32+00:00",
+    "updated_at": "2025-06-18T18:17:32+00:00",
+    "last_day": "2025-08-18T00:00:00-04:00"
   }
 ]
