@@ -9223,29 +9223,6 @@
     "last_day": "2025-08-18T00:00:00-04:00"
   },
   {
-    "title": "Open swim for everyone",
-    "weekday": 4,
-    "start_time": [
-      16,
-      30
-    ],
-    "end_time": [
-      19,
-      0
-    ],
-    "period_start": "2025-06-21T00:00:00-04:00",
-    "period_end": "2025-08-18T00:00:00-04:00",
-    "section": "For everyone",
-    "notice": null,
-    "notice_details": null,
-    "first_day": "2025-06-26T00:00:00-04:00",
-    "start_datetime": "2025-06-26T16:30:00+00:00",
-    "end_datetime": "2025-06-26T19:00:00+00:00",
-    "created_at": "2025-06-18T18:17:34+00:00",
-    "updated_at": "2025-06-18T18:17:34+00:00",
-    "last_day": "2025-08-18T00:00:00-04:00"
-  },
-  {
     "title": "Open swim for the transgender community",
     "weekday": 4,
     "start_time": [

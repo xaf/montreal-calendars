@@ -9315,29 +9315,6 @@
     "last_day": "2025-08-18T00:00:00-04:00"
   },
   {
-    "title": "Baignade libre pour toutes et tous",
-    "weekday": 4,
-    "start_time": [
-      16,
-      0
-    ],
-    "end_time": [
-      19,
-      0
-    ],
-    "period_start": "2025-06-21T00:00:00-04:00",
-    "period_end": "2025-08-18T00:00:00-04:00",
-    "section": "Pour toutes et tous",
-    "notice": null,
-    "notice_details": null,
-    "first_day": "2025-06-26T00:00:00-04:00",
-    "start_datetime": "2025-06-26T16:00:00+00:00",
-    "end_datetime": "2025-06-26T19:00:00+00:00",
-    "created_at": "2025-06-18T18:17:32+00:00",
-    "updated_at": "2025-06-18T18:17:32+00:00",
-    "last_day": "2025-08-18T00:00:00-04:00"
-  },
-  {
     "title": "Baignade libre pour la communauté transgenre",
     "weekday": 4,
     "start_time": [
