@@ -9,7 +9,7 @@ GEM
     domain_name (0.6.20240107)
     http-cookie (1.0.8)
       domain_name (~> 0.5)
-    icalendar (2.12.0)
+    icalendar (2.12.1)
       base64
       ice_cube (~> 0.16)
       logger
