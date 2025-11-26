@@ -37,7 +37,7 @@ TZNAME:EST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:a3f29fab1fc918ca5cfd2e0c4b22b28beba7ede07bfdd1f0ac2553c09b878c72
 DTSTART;TZID=America/Montreal:20230821T160000
 DTEND;TZID=America/Montreal:20230821T200000
@@ -54,7 +54,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:1c04ca00b425b4c5778ccaaaf834e7909e97e5e6b029cd540f12951ce8ef276a
 DTSTART;TZID=America/Montreal:20230822T130000
 DTEND;TZID=America/Montreal:20230822T160000
@@ -71,7 +71,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:ea778ff976d3844482113b365f82613743b3aa7f667738e3285ebb8f2436e4d0
 DTSTART;TZID=America/Montreal:20230822T170000
 DTEND;TZID=America/Montreal:20230822T200000
@@ -88,7 +88,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:101699f58a5c71383ef8fbb1b8809fa027227746d20901a39b7fe7d6443aabde
 DTSTART;TZID=America/Montreal:20230823T100000
 DTEND;TZID=America/Montreal:20230823T130000
@@ -105,7 +105,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:eea2674377aea41bd4791e23063d6514db9cd9e23023cb18a0b0539d5883273e
 DTSTART;TZID=America/Montreal:20230823T110000
 DTEND;TZID=America/Montreal:20230823T160000
@@ -122,7 +122,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:0ec9226039579772f027fb92bd8614113fa495a0c1b99fd63b6e329561b8e03b
 DTSTART;TZID=America/Montreal:20230823T130000
 DTEND;TZID=America/Montreal:20230823T140000
@@ -139,7 +139,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:e6c08ebc4170521ea1c7e652f9e57fbe71f6ec0a71977a6e1313744d276e1e3e
 DTSTART;TZID=America/Montreal:20230823T170000
 DTEND;TZID=America/Montreal:20230823T200000
@@ -156,7 +156,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:92a044b8df15eecd0e8cc9f957c1a5de08246c6eccd2549cd50d193ab0f3dadb
 DTSTART;TZID=America/Montreal:20230823T180000
 DTEND;TZID=America/Montreal:20230823T200000
@@ -173,7 +173,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:0fb77f4956e59912e7cb3ad9b8da8a0fabfab8370fd8216b4d11fa8d4c4d846d
 DTSTART;TZID=America/Montreal:20230824T100000
 DTEND;TZID=America/Montreal:20230824T130000
@@ -190,7 +190,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:97f4137dc7663025bf20244b8735e3ac0bc78abd3a6b43a5dd243c13a364857f
 DTSTART;TZID=America/Montreal:20230824T130000
 DTEND;TZID=America/Montreal:20230824T140000
@@ -207,7 +207,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:48b15f55ecea78ebb15ec3910cc43c873eecfe49a9bd8e89d8f232bbd7215935
 DTSTART;TZID=America/Montreal:20230824T130000
 DTEND;TZID=America/Montreal:20230824T170000
@@ -224,7 +224,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:3b2650a3eeb62cd6aad8d24cbc42519a3b4e6672dc0e49b9648328bbde5c41f9
 DTSTART;TZID=America/Montreal:20230824T150000
 DTEND;TZID=America/Montreal:20230824T160000
@@ -241,7 +241,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:11455263761aac76b2bedbc4e6d02c55cac38112b1092fb6059c56d096ddb4cf
 DTSTART;TZID=America/Montreal:20230824T180000
 DTEND;TZID=America/Montreal:20230824T200000
@@ -258,7 +258,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:b7f1c08e9b229f4be9abe428b71afebbe4a0edc8003976e5411f6f0478955445
 DTSTART;TZID=America/Montreal:20230825T100000
 DTEND;TZID=America/Montreal:20230825T130000
@@ -275,7 +275,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:33763540b1693d1f3f846414369e43502a05ccb1722ccdac2597e913e829888b
 DTSTART;TZID=America/Montreal:20230825T130000
 DTEND;TZID=America/Montreal:20230825T140000
@@ -292,7 +292,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:4825bf4f38c4eed8f30d706b9420a86da1689fe7b365ed52b20318e032248ff9
 DTSTART;TZID=America/Montreal:20230825T170000
 DTEND;TZID=America/Montreal:20230825T200000
@@ -309,7 +309,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:ad119ffdf78aa20675b984001ccafd15c8e519a4768f76d2feabc8a567372e80
 DTSTART;TZID=America/Montreal:20230826T100000
 DTEND;TZID=America/Montreal:20230826T120000
@@ -326,7 +326,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:f8f0e95d88d51b3e36a4e8257ebc4ac573d043939a227f7fba9d3925859da8d4
 DTSTART;TZID=America/Montreal:20230826T100000
 DTEND;TZID=America/Montreal:20230826T130000
@@ -343,7 +343,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:984a0d5a7a1a598e3b763b0b15792a5762132fc3c9dd89a9e2b6aafce2511b49
 DTSTART;TZID=America/Montreal:20230826T120000
 DTEND;TZID=America/Montreal:20230826T140000
@@ -360,7 +360,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:20f1550041241b37ef14206b0651cc84d3c7a78bd0df12cbc33eb41b9cf69249
 DTSTART;TZID=America/Montreal:20230826T130000
 DTEND;TZID=America/Montreal:20230826T140000
@@ -377,7 +377,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:ab84a6d927c436d54a76c774afc2ad6670f637882ecdbbc3aa2fde34b246b206
 DTSTART;TZID=America/Montreal:20230826T150000
 DTEND;TZID=America/Montreal:20230826T160000
@@ -394,7 +394,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:bd57e351c5dcad3a5839943dd7812541f5850137c6cd97b2bc510d7524b5da3c
 DTSTART;TZID=America/Montreal:20240106T100000
 DTEND;TZID=America/Montreal:20240106T120000
@@ -411,7 +411,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:58d5b18ce9296491849b6d112d11af2708ce55b199ab2f9ae1f7d1ddd30b4a71
 DTSTART;TZID=America/Montreal:20240106T100000
 DTEND;TZID=America/Montreal:20240106T120000
@@ -428,7 +428,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:6e3cadfd30a8f21dbe7c05dc4d10f35798ace3ec6a98e443e441858c56bc9a00
 DTSTART;TZID=America/Montreal:20240106T100000
 DTEND;TZID=America/Montreal:20240106T120000
@@ -445,7 +445,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:e6e751248b4c17d8c4bb1c3f7ef2c610241e885770aeb984279fedfeefa464c8
 DTSTART;TZID=America/Montreal:20240106T120000
 DTEND;TZID=America/Montreal:20240106T140000
@@ -462,7 +462,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:a29a83cec085f26377ab170a8998f1cbbae7ff8c40648e8cd130a88ddab2b52b
 DTSTART;TZID=America/Montreal:20240106T120000
 DTEND;TZID=America/Montreal:20240106T140000
@@ -479,7 +479,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:ad3858c98ebcdbc75133a7ab736a23d0a07f12912fc20e0d2e71d9dd6aebf25c
 DTSTART;TZID=America/Montreal:20240106T120000
 DTEND;TZID=America/Montreal:20240106T140000
@@ -496,7 +496,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:fa80a56edf10cffb474aadf24c45ac9bce2598af0dc169f1ab5214d21ea848a0
 DTSTART;TZID=America/Montreal:20240106T150000
 DTEND;TZID=America/Montreal:20240106T160000
@@ -513,7 +513,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:b207309afa89a718a39af202a97ccbaf1045f1a499a1d59e4f9c3ebb2d75fcdc
 DTSTART;TZID=America/Montreal:20240106T150000
 DTEND;TZID=America/Montreal:20240106T160000
@@ -530,7 +530,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:55cbb629337ad6178a6d628f93a0ddf494c423a543836decc5bff8947e23ce5a
 DTSTART;TZID=America/Montreal:20240106T150000
 DTEND;TZID=America/Montreal:20240106T160000
@@ -547,7 +547,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:39dd8b03b764fb7d5cb49418825dc2fc987989a7f493699d63a654da1bca8400
 DTSTART;TZID=America/Montreal:20240106T150000
 DTEND;TZID=America/Montreal:20240106T160000
@@ -564,7 +564,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:01ae4f36aacfe45c11a0ff3c0c17a94a5af5de08f2cbc0517073f7265777c5b4
 DTSTART;TZID=America/Montreal:20240106T100000
 DTEND;TZID=America/Montreal:20240106T120000
@@ -581,7 +581,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:ad28dbafeced169b421778da2628743ae6bd9933f7d2cdab276da1cf9bcfd8a4
 DTSTART;TZID=America/Montreal:20240106T120000
 DTEND;TZID=America/Montreal:20240106T140000
@@ -598,7 +598,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:8efff36be256408b966efcf1e717350a436d15e48a56f8acc3412156ea5e70d3
 DTSTART;TZID=America/Montreal:20240106T150000
 DTEND;TZID=America/Montreal:20240106T160000
@@ -615,7 +615,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:8b256476cfff4753bae12c82291052224562066371636fa0d1c3c80b5c4d1b37
 DTSTART;TZID=America/Montreal:20240108T110000
 DTEND;TZID=America/Montreal:20240108T130000
@@ -632,7 +632,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:c0f69e9a3a4904de5de681f8d88ed8b35e3a114bccd56de5391ba63bb18d612f
 DTSTART;TZID=America/Montreal:20240108T130000
 DTEND;TZID=America/Montreal:20240108T160000
@@ -649,7 +649,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:d7fe1118096fae07f9fbd611e52147e397e06445dfa76159d6ae91a99cd3cefa
 DTSTART;TZID=America/Montreal:20240108T130000
 DTEND;TZID=America/Montreal:20240108T160000
@@ -666,7 +666,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:0e1290e17fe22ff96ab580f9ff27e8fa2dcbb564a03437e4464caedca2bba22c
 DTSTART;TZID=America/Montreal:20240108T140000
 DTEND;TZID=America/Montreal:20240108T160000
@@ -683,7 +683,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:0fd2faa5adf92b57605aee590ac201a1ef218894ec97a80c3632a5e1ea6b6224
 DTSTART;TZID=America/Montreal:20240108T160000
 DTEND;TZID=America/Montreal:20240108T200000
@@ -700,7 +700,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:bb2d51c3540c99f85e0f5b1d1c27a28db8adb75a3fd01fea33b70eabfd82c7e4
 DTSTART;TZID=America/Montreal:20240108T160000
 DTEND;TZID=America/Montreal:20240108T200000
@@ -717,7 +717,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:d1e0dfad289ca011f82d6f39b9dd72331bc0acaa0fe6aef63b5473ab40c6cd55
 DTSTART;TZID=America/Montreal:20240108T160000
 DTEND;TZID=America/Montreal:20240108T200000
@@ -734,7 +734,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:a65fa126a5cd3304bdf017ffb78c4c9f1c7c52d03c47844bcec5410d9b38e095
 DTSTART;TZID=America/Montreal:20240108T160000
 DTEND;TZID=America/Montreal:20240108T200000
@@ -751,7 +751,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:abef5717bae59458e1d53d0a1a2a39ce603a3724ac09214fed455a31f0b0dcc6
 DTSTART;TZID=America/Montreal:20240109T130000
 DTEND;TZID=America/Montreal:20240109T130000
@@ -768,7 +768,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:542cf69374d6ff85cf172ed342e88d24cd9db76cee43158284f7835b31e5ca67
 DTSTART;TZID=America/Montreal:20240109T130000
 DTEND;TZID=America/Montreal:20240109T160000
@@ -785,7 +785,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:daa8766e9b913d8bfdb655b4b5e0ac15f1aff88396ed70e2e965adcc2520dd4d
 DTSTART;TZID=America/Montreal:20240109T130000
 DTEND;TZID=America/Montreal:20240109T160000
@@ -802,7 +802,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:c2aed0a931f64316293db553c3695eb0bc357d8bfb2d6636c9130a0880e4a600
 DTSTART;TZID=America/Montreal:20240109T130000
 DTEND;TZID=America/Montreal:20240109T160000
@@ -819,7 +819,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:9a8e62ead5e54db4d40755310ed98fe929aea8d6e6ae3244cbdad0c1ebb4b925
 DTSTART;TZID=America/Montreal:20240109T130000
 DTEND;TZID=America/Montreal:20240109T160000
@@ -836,7 +836,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:ba68afe8d5359b5175f01ca99a0afc80a6c96c3dce4ccda0d7e4eb34883b78e9
 DTSTART;TZID=America/Montreal:20240109T140000
 DTEND;TZID=America/Montreal:20240109T160000
@@ -853,7 +853,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:1cf9163b933faacb65e58bb3bc6dbd17858b1cfbe4e3780bde5d0aa2824986c0
 DTSTART;TZID=America/Montreal:20240109T170000
 DTEND;TZID=America/Montreal:20240109T200000
@@ -870,7 +870,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:39214e1ee6cccbb8807db67bae6084ce757c2d41e10f6fa3b83cd97748588a7a
 DTSTART;TZID=America/Montreal:20240109T170000
 DTEND;TZID=America/Montreal:20240109T200000
@@ -887,7 +887,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:87281b19d8ea7b724d65825eb37c3b4ad0744a51cc5578b9144afb8374c420fa
 DTSTART;TZID=America/Montreal:20240109T170000
 DTEND;TZID=America/Montreal:20240109T200000
@@ -904,7 +904,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:b84f31d7e366a0280b1a6de41039528b4f63f0fe951fceb846f284458061c1f4
 DTSTART;TZID=America/Montreal:20240109T170000
 DTEND;TZID=America/Montreal:20240109T200000
@@ -921,7 +921,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:9624ec6c9373bec87b6ece486ac53bb3e2f0ccf9db6784e57cc1e2152ea84382
 DTSTART;TZID=America/Montreal:20240109T130000
 DTEND;TZID=America/Montreal:20240109T160000
@@ -938,7 +938,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:6b2691884acb2dfb185684153c2a7dca28e491172db6a4f29c28710ccc38e28c
 DTSTART;TZID=America/Montreal:20240109T170000
 DTEND;TZID=America/Montreal:20240109T200000
@@ -955,7 +955,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:b69532f8e103143c479c03fb3fbdd388f51e353a2184ff2ff18f41d8f3bdb4a3
 DTSTART;TZID=America/Montreal:20240110T110000
 DTEND;TZID=America/Montreal:20240110T130000
@@ -972,7 +972,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:e4fa7d6ba8902d1260be89fb02a265b0c8e74d7959a2a1df1d3f4a8ec15d1341
 DTSTART;TZID=America/Montreal:20240110T110000
 DTEND;TZID=America/Montreal:20240110T160000
@@ -989,7 +989,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:d71f3fc8571473b986e74042edb3c7b5c981f298a39bd81739c3f2d0b2f85e32
 DTSTART;TZID=America/Montreal:20240110T110000
 DTEND;TZID=America/Montreal:20240110T160000
@@ -1006,7 +1006,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:d9083b6eba02cdecc346832cba51fe6d94db373ebb96ac85399221064047ca1a
 DTSTART;TZID=America/Montreal:20240110T110000
 DTEND;TZID=America/Montreal:20240110T160000
@@ -1023,7 +1023,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:4ab088655fff693996754bbb0900b9d76510ee7862dfab0a6eebf708fc8a5c97
 DTSTART;TZID=America/Montreal:20240110T130000
 DTEND;TZID=America/Montreal:20240110T160000
@@ -1040,7 +1040,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:e670391538c3887f29f6f61ca96028ccece490db8e5bcce857368bdb4de74020
 DTSTART;TZID=America/Montreal:20240110T130000
 DTEND;TZID=America/Montreal:20240110T160000
@@ -1057,7 +1057,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:60c7ef8e4fb710cae2b82b907943191010a9b2480b9062cdd405ff97cdd7f1a9
 DTSTART;TZID=America/Montreal:20240110T140000
 DTEND;TZID=America/Montreal:20240110T160000
@@ -1074,7 +1074,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:24ca630413a66d7077c146dc57fdb78af92bd94235de37330417e5f05bc6284e
 DTSTART;TZID=America/Montreal:20240110T180000
 DTEND;TZID=America/Montreal:20240110T200000
@@ -1091,7 +1091,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:00ea819d03c34b82df8a2f3901c46292c594153785d7aed9046e9fd9fee5f367
 DTSTART;TZID=America/Montreal:20240110T180000
 DTEND;TZID=America/Montreal:20240110T200000
@@ -1108,7 +1108,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:0b4dc665bcc1346f97a3c589747925cd702de4eb086b7e839267586dbb9edc18
 DTSTART;TZID=America/Montreal:20240110T180000
 DTEND;TZID=America/Montreal:20240110T200000
@@ -1125,7 +1125,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:8fdefdc0c1ee560c99f447fd57ea452de2ed7c64120a380d3961a6f8959c59ae
 DTSTART;TZID=America/Montreal:20240110T110000
 DTEND;TZID=America/Montreal:20240110T160000
@@ -1142,7 +1142,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:18efd0cb279849caaf50fad8fc67b3aa1a127c080c0f7efc3eb1cf38f5a1f0b2
 DTSTART;TZID=America/Montreal:20240110T180000
 DTEND;TZID=America/Montreal:20240110T200000
@@ -1159,7 +1159,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:e293df727d1e792c191e5eab4d17a51cda62a79e96eeae91f7fef96ac2dfcce8
 DTSTART;TZID=America/Montreal:20240111T130000
 DTEND;TZID=America/Montreal:20240111T140000
@@ -1176,7 +1176,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:1c4438fe58337d11ceda87c244ed5ae81ca18f79e853862b7f1c431488647825
 DTSTART;TZID=America/Montreal:20240111T130000
 DTEND;TZID=America/Montreal:20240111T150000
@@ -1193,7 +1193,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:1028459b871d17e7b09ffd2434553017706e41035ba0f821552b3b042a2c9b61
 DTSTART;TZID=America/Montreal:20240111T130000
 DTEND;TZID=America/Montreal:20240111T170000
@@ -1210,7 +1210,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:a209e197edf0b2c67e38cdae4d424acb61416466071ee1c93d48efe3bf8580b4
 DTSTART;TZID=America/Montreal:20240111T130000
 DTEND;TZID=America/Montreal:20240111T170000
@@ -1227,7 +1227,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:a97d07b1a648c9ca276afa3b66125274fc0cfc79c92d73fea8cfbbca3da69577
 DTSTART;TZID=America/Montreal:20240111T130000
 DTEND;TZID=America/Montreal:20240111T170000
@@ -1244,7 +1244,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:6f245ac8bcc585c870c4b4ad4bb6a82610b18b9de600743a80937b510f3b48ed
 DTSTART;TZID=America/Montreal:20240111T140000
 DTEND;TZID=America/Montreal:20240111T170000
@@ -1261,7 +1261,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:9b32330aa16fbe3afc6482bb2bda2eeaa906eaffc1b741bc7f0f4d084ac37570
 DTSTART;TZID=America/Montreal:20240111T150000
 DTEND;TZID=America/Montreal:20240111T170000
@@ -1278,7 +1278,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:a8640069a2eea3a4aff959ad5ad09c273dfa010144d47c71749a05a2b3adc088
 DTSTART;TZID=America/Montreal:20240111T180000
 DTEND;TZID=America/Montreal:20240111T200000
@@ -1295,7 +1295,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:cc4af1a2846f68cfa6787e6e1509e6461bbec7c0f68ee4bcf0d587405cc50b58
 DTSTART;TZID=America/Montreal:20240111T180000
 DTEND;TZID=America/Montreal:20240111T200000
@@ -1312,7 +1312,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:2190711ab69af40d440291a83de4fedb008e3807c851c4a014c5cf1db16acf3f
 DTSTART;TZID=America/Montreal:20240111T180000
 DTEND;TZID=America/Montreal:20240111T200000
@@ -1329,7 +1329,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:2d7f36ad4e8c2ac77cadf211ef6b06ab937e2994427d117e54b89405b2868316
 DTSTART;TZID=America/Montreal:20240111T180000
 DTEND;TZID=America/Montreal:20240111T200000
@@ -1346,7 +1346,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:6ce2127b4afdddec51e492f324b75f11611def51f9b11459b9fd13d3971fd983
 DTSTART;TZID=America/Montreal:20240111T130000
 DTEND;TZID=America/Montreal:20240111T170000
@@ -1363,7 +1363,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:ee827ca7442534f965af844dbd9772e2ab3958e04498349622fbc6e277eccda1
 DTSTART;TZID=America/Montreal:20240111T180000
 DTEND;TZID=America/Montreal:20240111T200000
@@ -1380,7 +1380,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:6de087cdb6527e18fdd5d13c6d65c1d938df61919020fc40b8d39af1335caacc
 DTSTART;TZID=America/Montreal:20240112T110000
 DTEND;TZID=America/Montreal:20240112T130000
@@ -1397,7 +1397,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:fe3e930363b3224d3cac7bd23d771175888c8349a36abc8749510f897bf58a3b
 DTSTART;TZID=America/Montreal:20240112T110000
 DTEND;TZID=America/Montreal:20240112T160000
@@ -1414,7 +1414,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:3e3316796d681e150d2ab6cfae3731863faa6953f69e16235945c42537bfb124
 DTSTART;TZID=America/Montreal:20240112T110000
 DTEND;TZID=America/Montreal:20240112T160000
@@ -1431,7 +1431,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:0f2ea12e5ef1a00efa7c9d7b55ada945308521f3534764aa261a0f84d16c5ea5
 DTSTART;TZID=America/Montreal:20240112T110000
 DTEND;TZID=America/Montreal:20240112T160000
@@ -1448,7 +1448,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:7772eba831a9c45f86d5c7879074b288b2182ade21d5abb31cccd4c37ea7e12a
 DTSTART;TZID=America/Montreal:20240112T130000
 DTEND;TZID=America/Montreal:20240112T160000
@@ -1465,7 +1465,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:4694620aa29f1e7d42ed485615e7ac5c29305270926eed95623281257bbbabf4
 DTSTART;TZID=America/Montreal:20240112T130000
 DTEND;TZID=America/Montreal:20240112T160000
@@ -1482,7 +1482,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:1f80291cbe8f132b86255907b8004e8b699d097de7110d4ab9307c149d9e1bfb
 DTSTART;TZID=America/Montreal:20240112T140000
 DTEND;TZID=America/Montreal:20240112T160000
@@ -1499,7 +1499,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:a87fd51135950e7d1c8a449d1bbbf95f0e0e36f90d71d5ba8d2ecdd9632bdcd6
 DTSTART;TZID=America/Montreal:20240112T170000
 DTEND;TZID=America/Montreal:20240112T200000
@@ -1516,7 +1516,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:0c413047ba7f2ec6d56ffa6d384c64d4855478ab615ff7cd135fbe911555574e
 DTSTART;TZID=America/Montreal:20240112T170000
 DTEND;TZID=America/Montreal:20240112T200000
@@ -1533,7 +1533,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:eefaa603f89415f094ecf895e921f3c37a9ec5ae85452c2593adfba01ae5f398
 DTSTART;TZID=America/Montreal:20240112T170000
 DTEND;TZID=America/Montreal:20240112T200000
@@ -1550,7 +1550,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:946fc5d6e8786de74401cd2ebf0deae6d5d477a370d7889da87c1e18582711aa
 DTSTART;TZID=America/Montreal:20240112T110000
 DTEND;TZID=America/Montreal:20240112T160000
@@ -1567,7 +1567,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:aef278b7e33a9bf7946081f8c556b69c173afa5c09ec6740a7cfe96ed8ffd533
 DTSTART;TZID=America/Montreal:20240112T170000
 DTEND;TZID=America/Montreal:20240112T200000
@@ -1584,7 +1584,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:5750cebc5985132af73f8fe8f86a1bbe979ac1a320025bc945651e794bef7306
 DTSTART;TZID=America/Montreal:20240304T110000
 DTEND;TZID=America/Montreal:20240304T130000
@@ -1601,7 +1601,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:3b82a72a3b493ac50ac7f11ad7c3a888687e02abb06f34bbc76adb372147e7f1
 DTSTART;TZID=America/Montreal:20240304T130000
 DTEND;TZID=America/Montreal:20240304T160000
@@ -1618,7 +1618,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:95302179e4df9660521ec553dc66f5c0ee1bb5bbf2dd68c34d9c9f05debf9751
 DTSTART;TZID=America/Montreal:20240304T130000
 DTEND;TZID=America/Montreal:20240304T160000
@@ -1635,7 +1635,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:a1220f09a65775cc1af4f46ff2618480765e647c48c9a3bed61294c77dbca8c4
 DTSTART;TZID=America/Montreal:20240305T130000
 DTEND;TZID=America/Montreal:20240305T130000
@@ -1652,7 +1652,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:abe52b1b4436316072bf229008097074e7c52d1586770f2b511bfc417df9654c
 DTSTART;TZID=America/Montreal:20240305T130000
 DTEND;TZID=America/Montreal:20240305T160000
@@ -1669,7 +1669,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:c200402b4b64a24321b48dc8fd47f0755a586e0538ed459136ebe20809b1497f
 DTSTART;TZID=America/Montreal:20240305T170000
 DTEND;TZID=America/Montreal:20240305T200000
@@ -1686,7 +1686,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:2632153e708f7763fcb36c209cb915e316bb180f20ccacbdac31817c1321a1bc
 DTSTART;TZID=America/Montreal:20240306T110000
 DTEND;TZID=America/Montreal:20240306T130000
@@ -1703,7 +1703,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:60fc7f2e121f0023cf4b8823869bfe2a3628fffe74a4fae7f0ea401ac303bc31
 DTSTART;TZID=America/Montreal:20240306T130000
 DTEND;TZID=America/Montreal:20240306T160000
@@ -1720,7 +1720,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:3c29ffb77792ebe4e8b265b0b3441b8c0d547f89314402ebf2858a18c0d7b4a3
 DTSTART;TZID=America/Montreal:20240306T130000
 DTEND;TZID=America/Montreal:20240306T160000
@@ -1737,7 +1737,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:839dd84284fdad64d4cbab83ecdad18acac8479778e2be52b6e3099794c1265c
 DTSTART;TZID=America/Montreal:20240307T130000
 DTEND;TZID=America/Montreal:20240307T150000
@@ -1754,7 +1754,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:76dd310129a37f8f91a03cdf5b744de8a324ff2f16643e0c061d22ecce10d4b0
 DTSTART;TZID=America/Montreal:20240307T150000
 DTEND;TZID=America/Montreal:20240307T170000
@@ -1771,7 +1771,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:00d864537a927bdba7859975cc34d519079a76393488728d10ace896f5241d01
 DTSTART;TZID=America/Montreal:20240307T180000
 DTEND;TZID=America/Montreal:20240307T200000
@@ -1788,7 +1788,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:13cec9b0abe3392d7ee1ca0d1f23a3d46a6a6025a45e802e1ebc4191242e027f
 DTSTART;TZID=America/Montreal:20240308T110000
 DTEND;TZID=America/Montreal:20240308T130000
@@ -1805,7 +1805,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:6e9c614a9b0daf208005728dcf8f97935f3350f4af6e32b61cbafa3fb978249c
 DTSTART;TZID=America/Montreal:20240308T130000
 DTEND;TZID=America/Montreal:20240308T160000
@@ -1822,7 +1822,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:36cfb67481b812f66b95923c4fceb0c0073c399dc19600d2e5ec1929be3e9f2b
 DTSTART;TZID=America/Montreal:20240308T130000
 DTEND;TZID=America/Montreal:20240308T160000
@@ -1839,7 +1839,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:e495cabcf75d52bfef37b597a6a37290037ccd4ceb7061c5fe60ec9d49cdb43b
 DTSTART;TZID=America/Montreal:20240309T100000
 DTEND;TZID=America/Montreal:20240309T120000
@@ -1856,7 +1856,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:fae9e76e795d7bb30c3932ef18343e6670cf44e9614d253218f1113e05aa91f9
 DTSTART;TZID=America/Montreal:20240309T100000
 DTEND;TZID=America/Montreal:20240309T120000
@@ -1873,7 +1873,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:aeaa188b416e218dc1affc789ba7627ac266e6e8d3441763ec5d1fa3d08df4c6
 DTSTART;TZID=America/Montreal:20240309T120000
 DTEND;TZID=America/Montreal:20240309T140000
@@ -1890,7 +1890,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:fd8e65b13498427b80e989fa090d8c4454f0af1541116fecc8984ac3abe94599
 DTSTART;TZID=America/Montreal:20240309T120000
 DTEND;TZID=America/Montreal:20240309T140000
@@ -1907,7 +1907,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:efdfd04c53ab975bdb01bb2df5ea2dcd9b6d7cc841e7bfd704e562015910af6d
 DTSTART;TZID=America/Montreal:20240309T150000
 DTEND;TZID=America/Montreal:20240309T160000
@@ -1924,7 +1924,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:abc53a571960a032883e6c7d65c20a65b33bd73491514a88f52f3005a1da21d3
 DTSTART;TZID=America/Montreal:20240309T150000
 DTEND;TZID=America/Montreal:20240309T160000
@@ -1941,7 +1941,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:e20513338eaa37936698c9370ec540c817789a74b3a61fc5d7bbe9d65a6e8e96
 DTSTART;TZID=America/Montreal:20240311T160000
 DTEND;TZID=America/Montreal:20240311T200000
@@ -1958,7 +1958,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:134f992b641ae4e22c226e046674549b1a9c3f0a993e9ed1fd2021856fc0e313
 DTSTART;TZID=America/Montreal:20240312T130000
 DTEND;TZID=America/Montreal:20240312T160000
@@ -1975,7 +1975,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:eccb6e084c0ae5b79e27bd70cd096a6bad5efc12515baf560037cc62f6ba6b84
 DTSTART;TZID=America/Montreal:20240312T170000
 DTEND;TZID=America/Montreal:20240312T200000
@@ -1992,7 +1992,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:926496ed5fee32945ca43e3ecfec80037d1cd479c49384264619b39bcb6f529f
 DTSTART;TZID=America/Montreal:20240313T110000
 DTEND;TZID=America/Montreal:20240313T160000
@@ -2009,7 +2009,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:99111c81f07d696407b89b093712cdca84b7a4b53a83162aa9dcec56aafef04d
 DTSTART;TZID=America/Montreal:20240313T180000
 DTEND;TZID=America/Montreal:20240313T200000
@@ -2026,7 +2026,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:1bf1f7e6b4b0dc9b4529bd78a05462ae224091512fcf524b14be709a060311b6
 DTSTART;TZID=America/Montreal:20240314T130000
 DTEND;TZID=America/Montreal:20240314T170000
@@ -2043,7 +2043,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:68cc7e2d16d81e1de661006bc56b196e3620cc823808e418bc26898d4c7b4967
 DTSTART;TZID=America/Montreal:20240314T180000
 DTEND;TZID=America/Montreal:20240314T200000
@@ -2060,7 +2060,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:b2b2ea1f65b5cae75afeaa28c0e265c138ec15cb772068af8ba01e3f2f46c519
 DTSTART;TZID=America/Montreal:20240417T110000
 DTEND;TZID=America/Montreal:20240417T160000
@@ -2078,7 +2078,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:3fd44652cbfe67c5f65b597ee8a4720faa61a68860fd109e52fc028cb60fc281
 DTSTART;TZID=America/Montreal:20240417T180000
 DTEND;TZID=America/Montreal:20240417T200000
@@ -2096,7 +2096,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:a0ce73648f45c3d2f6131e27701fc0783862d71232d9469297017ec75148fd0c
 DTSTART;TZID=America/Montreal:20240418T130000
 DTEND;TZID=America/Montreal:20240418T170000
@@ -2114,7 +2114,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:ad3a1d8a7794c3ef1b616f7242a2ee1c33845c292b98571116dace7a4bde55fd
 DTSTART;TZID=America/Montreal:20240418T180000
 DTEND;TZID=America/Montreal:20240418T200000
@@ -2132,7 +2132,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:fbb96bdd78e949beb6e7d1969d9d35b037a286603ce014dd85d43c970d1490c3
 DTSTART;TZID=America/Montreal:20240419T110000
 DTEND;TZID=America/Montreal:20240419T160000
@@ -2150,7 +2150,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:16c3a65169992bac5e9e95e5fa454af825405788414b341b2f3c458b797e6e9a
 DTSTART;TZID=America/Montreal:20240419T170000
 DTEND;TZID=America/Montreal:20240419T200000
@@ -2168,7 +2168,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:6884f0dd65e0fc1c1e776ffaf5d7aa135be20a1dd48cd7601f1a312842c426b6
 DTSTART;TZID=America/Montreal:20240420T100000
 DTEND;TZID=America/Montreal:20240420T120000
@@ -2186,7 +2186,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:01ae4f36aacfe45c11a0ff3c0c17a94a5af5de08f2cbc0517073f7265777c5b4
 DTSTART;TZID=America/Montreal:20240420T100000
 DTEND;TZID=America/Montreal:20240420T120000
@@ -2203,7 +2203,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:92f8e4870925cd7d8078027e3bd8b9f3661ff1d7d590e1c2f539c34f6683afc5
 DTSTART;TZID=America/Montreal:20240420T120000
 DTEND;TZID=America/Montreal:20240420T140000
@@ -2221,7 +2221,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:ad28dbafeced169b421778da2628743ae6bd9933f7d2cdab276da1cf9bcfd8a4
 DTSTART;TZID=America/Montreal:20240420T120000
 DTEND;TZID=America/Montreal:20240420T140000
@@ -2238,7 +2238,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:bb3f88006d8c8ad1ae02d066c198fa13a0b39cb6e9fbd750b81a1486aaf26987
 DTSTART;TZID=America/Montreal:20240420T150000
 DTEND;TZID=America/Montreal:20240420T160000
@@ -2256,7 +2256,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:8efff36be256408b966efcf1e717350a436d15e48a56f8acc3412156ea5e70d3
 DTSTART;TZID=America/Montreal:20240420T150000
 DTEND;TZID=America/Montreal:20240420T160000
@@ -2273,7 +2273,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:a65fa126a5cd3304bdf017ffb78c4c9f1c7c52d03c47844bcec5410d9b38e095
 DTSTART;TZID=America/Montreal:20240422T160000
 DTEND;TZID=America/Montreal:20240422T200000
@@ -2290,7 +2290,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:9624ec6c9373bec87b6ece486ac53bb3e2f0ccf9db6784e57cc1e2152ea84382
 DTSTART;TZID=America/Montreal:20240423T130000
 DTEND;TZID=America/Montreal:20240423T160000
@@ -2307,7 +2307,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:6b2691884acb2dfb185684153c2a7dca28e491172db6a4f29c28710ccc38e28c
 DTSTART;TZID=America/Montreal:20240423T170000
 DTEND;TZID=America/Montreal:20240423T200000
@@ -2324,7 +2324,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:8fdefdc0c1ee560c99f447fd57ea452de2ed7c64120a380d3961a6f8959c59ae
 DTSTART;TZID=America/Montreal:20240424T110000
 DTEND;TZID=America/Montreal:20240424T160000
@@ -2341,7 +2341,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:18efd0cb279849caaf50fad8fc67b3aa1a127c080c0f7efc3eb1cf38f5a1f0b2
 DTSTART;TZID=America/Montreal:20240424T180000
 DTEND;TZID=America/Montreal:20240424T200000
@@ -2358,7 +2358,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:6ce2127b4afdddec51e492f324b75f11611def51f9b11459b9fd13d3971fd983
 DTSTART;TZID=America/Montreal:20240425T130000
 DTEND;TZID=America/Montreal:20240425T170000
@@ -2375,7 +2375,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:ee827ca7442534f965af844dbd9772e2ab3958e04498349622fbc6e277eccda1
 DTSTART;TZID=America/Montreal:20240425T180000
 DTEND;TZID=America/Montreal:20240425T200000
@@ -2392,7 +2392,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:946fc5d6e8786de74401cd2ebf0deae6d5d477a370d7889da87c1e18582711aa
 DTSTART;TZID=America/Montreal:20240426T110000
 DTEND;TZID=America/Montreal:20240426T160000
@@ -2409,7 +2409,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:aef278b7e33a9bf7946081f8c556b69c173afa5c09ec6740a7cfe96ed8ffd533
 DTSTART;TZID=America/Montreal:20240426T170000
 DTEND;TZID=America/Montreal:20240426T200000
@@ -2426,7 +2426,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:871462b3a381119a9bac75857ad1f14155f4707d6da673716a8f06a9f95cad97
 DTSTART;TZID=America/Montreal:20240521T130000
 DTEND;TZID=America/Montreal:20240521T160000
@@ -2444,7 +2444,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:d3c26629abd3ba159af5611e3a0351b410f079bfb3f56df8a96c5597c419d414
 DTSTART;TZID=America/Montreal:20240521T170000
 DTEND;TZID=America/Montreal:20240521T200000
@@ -2462,7 +2462,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:7da404eb1a4451fee312b8139d7101885b4d8886e621d5745f72729b3d22d2aa
 DTSTART;TZID=America/Montreal:20240522T110000
 DTEND;TZID=America/Montreal:20240522T160000
@@ -2480,7 +2480,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:8fdefdc0c1ee560c99f447fd57ea452de2ed7c64120a380d3961a6f8959c59ae
 DTSTART;TZID=America/Montreal:20240522T110000
 DTEND;TZID=America/Montreal:20240522T160000
@@ -2497,7 +2497,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:82b24f467d313a64c24ee8212404ee803ebc27ab7d8a021386aa006bd92c0e12
 DTSTART;TZID=America/Montreal:20240522T180000
 DTEND;TZID=America/Montreal:20240522T200000
@@ -2515,7 +2515,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:18efd0cb279849caaf50fad8fc67b3aa1a127c080c0f7efc3eb1cf38f5a1f0b2
 DTSTART;TZID=America/Montreal:20240522T180000
 DTEND;TZID=America/Montreal:20240522T200000
@@ -2532,7 +2532,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:6ce2127b4afdddec51e492f324b75f11611def51f9b11459b9fd13d3971fd983
 DTSTART;TZID=America/Montreal:20240523T130000
 DTEND;TZID=America/Montreal:20240523T170000
@@ -2549,7 +2549,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:ee827ca7442534f965af844dbd9772e2ab3958e04498349622fbc6e277eccda1
 DTSTART;TZID=America/Montreal:20240523T180000
 DTEND;TZID=America/Montreal:20240523T200000
@@ -2566,7 +2566,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:946fc5d6e8786de74401cd2ebf0deae6d5d477a370d7889da87c1e18582711aa
 DTSTART;TZID=America/Montreal:20240524T110000
 DTEND;TZID=America/Montreal:20240524T160000
@@ -2583,7 +2583,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:aef278b7e33a9bf7946081f8c556b69c173afa5c09ec6740a7cfe96ed8ffd533
 DTSTART;TZID=America/Montreal:20240524T170000
 DTEND;TZID=America/Montreal:20240524T200000
@@ -2600,7 +2600,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:01ae4f36aacfe45c11a0ff3c0c17a94a5af5de08f2cbc0517073f7265777c5b4
 DTSTART;TZID=America/Montreal:20240525T100000
 DTEND;TZID=America/Montreal:20240525T120000
@@ -2617,7 +2617,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:ad28dbafeced169b421778da2628743ae6bd9933f7d2cdab276da1cf9bcfd8a4
 DTSTART;TZID=America/Montreal:20240525T120000
 DTEND;TZID=America/Montreal:20240525T140000
@@ -2634,7 +2634,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:8efff36be256408b966efcf1e717350a436d15e48a56f8acc3412156ea5e70d3
 DTSTART;TZID=America/Montreal:20240525T150000
 DTEND;TZID=America/Montreal:20240525T160000
@@ -2651,7 +2651,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:a65fa126a5cd3304bdf017ffb78c4c9f1c7c52d03c47844bcec5410d9b38e095
 DTSTART;TZID=America/Montreal:20240527T160000
 DTEND;TZID=America/Montreal:20240527T200000
@@ -2668,7 +2668,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:9624ec6c9373bec87b6ece486ac53bb3e2f0ccf9db6784e57cc1e2152ea84382
 DTSTART;TZID=America/Montreal:20240528T130000
 DTEND;TZID=America/Montreal:20240528T160000
@@ -2685,7 +2685,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:871462b3a381119a9bac75857ad1f14155f4707d6da673716a8f06a9f95cad97
 DTSTART;TZID=America/Montreal:20240528T130000
 DTEND;TZID=America/Montreal:20240528T160000
@@ -2703,7 +2703,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:9624ec6c9373bec87b6ece486ac53bb3e2f0ccf9db6784e57cc1e2152ea84382
 DTSTART;TZID=America/Montreal:20240528T130000
 DTEND;TZID=America/Montreal:20240528T160000
@@ -2720,7 +2720,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:6b2691884acb2dfb185684153c2a7dca28e491172db6a4f29c28710ccc38e28c
 DTSTART;TZID=America/Montreal:20240528T170000
 DTEND;TZID=America/Montreal:20240528T200000
@@ -2737,7 +2737,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:d3c26629abd3ba159af5611e3a0351b410f079bfb3f56df8a96c5597c419d414
 DTSTART;TZID=America/Montreal:20240528T170000
 DTEND;TZID=America/Montreal:20240528T200000
@@ -2755,7 +2755,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:6b2691884acb2dfb185684153c2a7dca28e491172db6a4f29c28710ccc38e28c
 DTSTART;TZID=America/Montreal:20240528T170000
 DTEND;TZID=America/Montreal:20240528T200000
@@ -2772,7 +2772,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:8fdefdc0c1ee560c99f447fd57ea452de2ed7c64120a380d3961a6f8959c59ae
 DTSTART;TZID=America/Montreal:20240529T110000
 DTEND;TZID=America/Montreal:20240529T160000
@@ -2789,7 +2789,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:18efd0cb279849caaf50fad8fc67b3aa1a127c080c0f7efc3eb1cf38f5a1f0b2
 DTSTART;TZID=America/Montreal:20240529T180000
 DTEND;TZID=America/Montreal:20240529T200000
@@ -2806,7 +2806,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:6ce2127b4afdddec51e492f324b75f11611def51f9b11459b9fd13d3971fd983
 DTSTART;TZID=America/Montreal:20240530T130000
 DTEND;TZID=America/Montreal:20240530T170000
@@ -2823,7 +2823,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:ee827ca7442534f965af844dbd9772e2ab3958e04498349622fbc6e277eccda1
 DTSTART;TZID=America/Montreal:20240530T180000
 DTEND;TZID=America/Montreal:20240530T200000
@@ -2840,7 +2840,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:946fc5d6e8786de74401cd2ebf0deae6d5d477a370d7889da87c1e18582711aa
 DTSTART;TZID=America/Montreal:20240531T110000
 DTEND;TZID=America/Montreal:20240531T160000
@@ -2857,7 +2857,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:aef278b7e33a9bf7946081f8c556b69c173afa5c09ec6740a7cfe96ed8ffd533
 DTSTART;TZID=America/Montreal:20240531T170000
 DTEND;TZID=America/Montreal:20240531T200000
@@ -2874,7 +2874,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:01ae4f36aacfe45c11a0ff3c0c17a94a5af5de08f2cbc0517073f7265777c5b4
 DTSTART;TZID=America/Montreal:20240601T100000
 DTEND;TZID=America/Montreal:20240601T120000
@@ -2891,7 +2891,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:ad28dbafeced169b421778da2628743ae6bd9933f7d2cdab276da1cf9bcfd8a4
 DTSTART;TZID=America/Montreal:20240601T120000
 DTEND;TZID=America/Montreal:20240601T140000
@@ -2908,7 +2908,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:8efff36be256408b966efcf1e717350a436d15e48a56f8acc3412156ea5e70d3
 DTSTART;TZID=America/Montreal:20240601T150000
 DTEND;TZID=America/Montreal:20240601T160000
@@ -2925,7 +2925,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:a65fa126a5cd3304bdf017ffb78c4c9f1c7c52d03c47844bcec5410d9b38e095
 DTSTART;TZID=America/Montreal:20240603T160000
 DTEND;TZID=America/Montreal:20240603T200000
@@ -2942,7 +2942,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:b070e5f6d41fe60af9008f847cc04158b4192890996c0e693a3fcc8e98917493
 DTSTART;TZID=America/Montreal:20240615T100000
 DTEND;TZID=America/Montreal:20240615T120000
@@ -2960,7 +2960,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:9cbd153164bbecdc2faf7b8e595d0ba90d413314e475edec04d0ab333a3075d8
 DTSTART;TZID=America/Montreal:20240615T120000
 DTEND;TZID=America/Montreal:20240615T140000
@@ -2978,7 +2978,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:b9b458d9fe44902479dff7974588751c177c8234c11d9407a4462d578f88ff8f
 DTSTART;TZID=America/Montreal:20240615T150000
 DTEND;TZID=America/Montreal:20240615T160000
@@ -2996,7 +2996,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:a65fa126a5cd3304bdf017ffb78c4c9f1c7c52d03c47844bcec5410d9b38e095
 DTSTART;TZID=America/Montreal:20240617T160000
 DTEND;TZID=America/Montreal:20240617T200000
@@ -3013,7 +3013,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:9624ec6c9373bec87b6ece486ac53bb3e2f0ccf9db6784e57cc1e2152ea84382
 DTSTART;TZID=America/Montreal:20240618T130000
 DTEND;TZID=America/Montreal:20240618T160000
@@ -3030,7 +3030,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:6b2691884acb2dfb185684153c2a7dca28e491172db6a4f29c28710ccc38e28c
 DTSTART;TZID=America/Montreal:20240618T170000
 DTEND;TZID=America/Montreal:20240618T200000
@@ -3047,7 +3047,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:8fdefdc0c1ee560c99f447fd57ea452de2ed7c64120a380d3961a6f8959c59ae
 DTSTART;TZID=America/Montreal:20240619T110000
 DTEND;TZID=America/Montreal:20240619T160000
@@ -3064,7 +3064,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:18efd0cb279849caaf50fad8fc67b3aa1a127c080c0f7efc3eb1cf38f5a1f0b2
 DTSTART;TZID=America/Montreal:20240619T180000
 DTEND;TZID=America/Montreal:20240619T200000
@@ -3081,7 +3081,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:6ce2127b4afdddec51e492f324b75f11611def51f9b11459b9fd13d3971fd983
 DTSTART;TZID=America/Montreal:20240620T130000
 DTEND;TZID=America/Montreal:20240620T170000
@@ -3098,7 +3098,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:ee827ca7442534f965af844dbd9772e2ab3958e04498349622fbc6e277eccda1
 DTSTART;TZID=America/Montreal:20240620T180000
 DTEND;TZID=America/Montreal:20240620T200000
@@ -3115,7 +3115,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:946fc5d6e8786de74401cd2ebf0deae6d5d477a370d7889da87c1e18582711aa
 DTSTART;TZID=America/Montreal:20240621T110000
 DTEND;TZID=America/Montreal:20240621T160000
@@ -3132,7 +3132,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:aef278b7e33a9bf7946081f8c556b69c173afa5c09ec6740a7cfe96ed8ffd533
 DTSTART;TZID=America/Montreal:20240621T170000
 DTEND;TZID=America/Montreal:20240621T200000
@@ -3149,7 +3149,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:4ac31a024b3b5f21610cf792842caa2c358ebdaefa82742058eb198fca967d31
 DTSTART;TZID=America/Montreal:20240622T110000
 DTEND;TZID=America/Montreal:20240622T120000
@@ -3166,7 +3166,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:ef2ea62ac85fb85c3b2a770b9a192225f2f7cf5a37f74afef9a216d3f9276483
 DTSTART;TZID=America/Montreal:20240622T120000
 DTEND;TZID=America/Montreal:20240622T140000
@@ -3183,7 +3183,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:4c3f478e608b58b1f9024e885f360ddea6a75367c27c051c8669920a3fe930af
 DTSTART;TZID=America/Montreal:20240622T150000
 DTEND;TZID=America/Montreal:20240622T160000
@@ -3200,7 +3200,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:5812ecac6418580292f30d7eefeaf7d72f922d85f3225154f66dc0189dfe0d10
 DTSTART;TZID=America/Montreal:20240624T110000
 DTEND;TZID=America/Montreal:20240624T130000
@@ -3217,7 +3217,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:6fb4f712312ea2991bccbecc866e75648908feaa88c281ecb84a84cae59e6bcd
 DTSTART;TZID=America/Montreal:20240624T130000
 DTEND;TZID=America/Montreal:20240624T160000
@@ -3234,7 +3234,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:493d1afd3117fc975344aacc7eeef9340b432e2fbb982e7b3063095ed428d65f
 DTSTART;TZID=America/Montreal:20240625T110000
 DTEND;TZID=America/Montreal:20240625T130000
@@ -3251,7 +3251,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:3ad410bb946dc4d2837c8db821c6ee8f47b179445280122f5cd45b6b27fe7c97
 DTSTART;TZID=America/Montreal:20240625T130000
 DTEND;TZID=America/Montreal:20240625T160000
@@ -3268,7 +3268,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:1f71d13901faa59e1ac6baad6cd13f5a1ec61e4949182f80ff240169e56acb68
 DTSTART;TZID=America/Montreal:20240626T110000
 DTEND;TZID=America/Montreal:20240626T130000
@@ -3285,7 +3285,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:d9a93305ffb5cc45516badca5fbb5396cf697c66938faa7d4b0b874a1047a24c
 DTSTART;TZID=America/Montreal:20240626T130000
 DTEND;TZID=America/Montreal:20240626T160000
@@ -3302,7 +3302,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:f7c28b5894468b93280dd762bc68b6a1b46468d73126ee482db6527412ae31a0
 DTSTART;TZID=America/Montreal:20240627T110000
 DTEND;TZID=America/Montreal:20240627T130000
@@ -3319,7 +3319,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:a37f255169ac08e0bf539657a87ebc915e872e1e7c482f57fbcd1244a5cc7d25
 DTSTART;TZID=America/Montreal:20240627T130000
 DTEND;TZID=America/Montreal:20240627T160000
@@ -3336,7 +3336,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:7558327f1f35acab1b1ceba7cfe2b921bd8281ecd18048ab4a20222c17a6e5f3
 DTSTART;TZID=America/Montreal:20240627T170000
 DTEND;TZID=America/Montreal:20240627T190000
@@ -3353,7 +3353,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:62f7139aa2426e7e87b468918ef92b54f499daef7342c7946ee33dc53eb4d7dd
 DTSTART;TZID=America/Montreal:20240628T110000
 DTEND;TZID=America/Montreal:20240628T130000
@@ -3370,7 +3370,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:9b65f4493dab9c32758d17b8e5d5789f6c5afea85c137dbdf9f185330bb8f0af
 DTSTART;TZID=America/Montreal:20240628T130000
 DTEND;TZID=America/Montreal:20240628T160000
@@ -3387,7 +3387,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:7a662ef6ddf31dcb6948c9b523321f1468efa1f5141e2e43f47eb6f613f4d80c
 DTSTART;TZID=America/Montreal:20240816T110000
 DTEND;TZID=America/Montreal:20240816T130000
@@ -3406,7 +3406,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161613Z
 UID:e4f7034507ad4bea59f314fdaa55736fe22248b09dbe827b97139735f3664570
 DTSTART;TZID=America/Montreal:20240816T130000
 DTEND;TZID=America/Montreal:20240816T160000
@@ -3425,7 +3425,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:5c665e79e1f4dd25537fb3b699ccefaa894e102c8b350964c76803b6776ae7b7
 DTSTART;TZID=America/Montreal:20240817T110000
 DTEND;TZID=America/Montreal:20240817T120000
@@ -3444,7 +3444,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:4ac31a024b3b5f21610cf792842caa2c358ebdaefa82742058eb198fca967d31
 DTSTART;TZID=America/Montreal:20240817T110000
 DTEND;TZID=America/Montreal:20240817T120000
@@ -3461,7 +3461,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:b22bb324e37dc7f18f7b7273336f89a3a1912c0223958eb3af13c265a728b29e
 DTSTART;TZID=America/Montreal:20240817T120000
 DTEND;TZID=America/Montreal:20240817T140000
@@ -3480,7 +3480,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:ef2ea62ac85fb85c3b2a770b9a192225f2f7cf5a37f74afef9a216d3f9276483
 DTSTART;TZID=America/Montreal:20240817T120000
 DTEND;TZID=America/Montreal:20240817T140000
@@ -3497,7 +3497,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:6060a51671c2e1c47bfcafd26268de09fea0655577a194e6b1d64486b662ea7e
 DTSTART;TZID=America/Montreal:20240817T150000
 DTEND;TZID=America/Montreal:20240817T160000
@@ -3516,7 +3516,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:4c3f478e608b58b1f9024e885f360ddea6a75367c27c051c8669920a3fe930af
 DTSTART;TZID=America/Montreal:20240817T150000
 DTEND;TZID=America/Montreal:20240817T160000
@@ -3533,7 +3533,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:5812ecac6418580292f30d7eefeaf7d72f922d85f3225154f66dc0189dfe0d10
 DTSTART;TZID=America/Montreal:20240819T110000
 DTEND;TZID=America/Montreal:20240819T130000
@@ -3550,7 +3550,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:6fb4f712312ea2991bccbecc866e75648908feaa88c281ecb84a84cae59e6bcd
 DTSTART;TZID=America/Montreal:20240819T130000
 DTEND;TZID=America/Montreal:20240819T160000
@@ -3567,7 +3567,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:493d1afd3117fc975344aacc7eeef9340b432e2fbb982e7b3063095ed428d65f
 DTSTART;TZID=America/Montreal:20240820T110000
 DTEND;TZID=America/Montreal:20240820T130000
@@ -3584,7 +3584,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:3ad410bb946dc4d2837c8db821c6ee8f47b179445280122f5cd45b6b27fe7c97
 DTSTART;TZID=America/Montreal:20240820T130000
 DTEND;TZID=America/Montreal:20240820T160000
@@ -3601,7 +3601,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:1f71d13901faa59e1ac6baad6cd13f5a1ec61e4949182f80ff240169e56acb68
 DTSTART;TZID=America/Montreal:20240821T110000
 DTEND;TZID=America/Montreal:20240821T130000
@@ -3618,7 +3618,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:d9a93305ffb5cc45516badca5fbb5396cf697c66938faa7d4b0b874a1047a24c
 DTSTART;TZID=America/Montreal:20240821T130000
 DTEND;TZID=America/Montreal:20240821T160000
@@ -3635,7 +3635,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:f7c28b5894468b93280dd762bc68b6a1b46468d73126ee482db6527412ae31a0
 DTSTART;TZID=America/Montreal:20240822T110000
 DTEND;TZID=America/Montreal:20240822T130000
@@ -3652,7 +3652,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:a37f255169ac08e0bf539657a87ebc915e872e1e7c482f57fbcd1244a5cc7d25
 DTSTART;TZID=America/Montreal:20240822T130000
 DTEND;TZID=America/Montreal:20240822T160000
@@ -3669,7 +3669,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:7558327f1f35acab1b1ceba7cfe2b921bd8281ecd18048ab4a20222c17a6e5f3
 DTSTART;TZID=America/Montreal:20240822T170000
 DTEND;TZID=America/Montreal:20240822T190000
@@ -3686,7 +3686,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:62f7139aa2426e7e87b468918ef92b54f499daef7342c7946ee33dc53eb4d7dd
 DTSTART;TZID=America/Montreal:20240823T110000
 DTEND;TZID=America/Montreal:20240823T130000
@@ -3703,7 +3703,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:9b65f4493dab9c32758d17b8e5d5789f6c5afea85c137dbdf9f185330bb8f0af
 DTSTART;TZID=America/Montreal:20240823T130000
 DTEND;TZID=America/Montreal:20240823T160000
@@ -3720,7 +3720,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:fb3799fc12c669aa0aed0073601f4c81c4edcea122efc2889db4f000d4c1e489
 DTSTART;TZID=America/Montreal:20240826T110000
 DTEND;TZID=America/Montreal:20240826T130000
@@ -3737,7 +3737,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:25680d3a25fec571fa03c76680bd5c40a888768a475bc52843666c0028cb8462
 DTSTART;TZID=America/Montreal:20240826T130000
 DTEND;TZID=America/Montreal:20240826T160000
@@ -3754,7 +3754,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:b33b19e5aba6555613d0694c41fb9cda1187547cda0894b082332f6d6a0ced3e
 DTSTART;TZID=America/Montreal:20240827T083000
 DTEND;TZID=America/Montreal:20240827T130000
@@ -3771,7 +3771,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:e09c5cb53c819f3bae93544312c2dbd8ec9d8307809e94d8519767be73984469
 DTSTART;TZID=America/Montreal:20240827T130000
 DTEND;TZID=America/Montreal:20240827T160000
@@ -3788,7 +3788,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:f8afbfa1ddb2ea7325b087ab653513bce3639f7b7432f0daa07932569da62499
 DTSTART;TZID=America/Montreal:20240828T110000
 DTEND;TZID=America/Montreal:20240828T130000
@@ -3805,7 +3805,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:9c5fbf08b8cfdb7647a2a20a54336341513473f0b35e9fcbf7c12fedb4998651
 DTSTART;TZID=America/Montreal:20240828T130000
 DTEND;TZID=America/Montreal:20240828T160000
@@ -3822,7 +3822,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:b2025cfcb57e842748eedd6621c69059dc7894d200fc4b7b41a2d99d8fb02f87
 DTSTART;TZID=America/Montreal:20240829T083000
 DTEND;TZID=America/Montreal:20240829T130000
@@ -3839,7 +3839,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:2e3073e6b7898faafeaf183c9c3b2bc876851295ae459cb041c76e010b9025c6
 DTSTART;TZID=America/Montreal:20240829T130000
 DTEND;TZID=America/Montreal:20240829T170000
@@ -3856,7 +3856,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:8b48ab97d311584c53345538769f6adeed5877c8562756b6e6520df22eaefc8d
 DTSTART;TZID=America/Montreal:20240829T180000
 DTEND;TZID=America/Montreal:20240829T200000
@@ -3873,7 +3873,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:c7beb4a3ec000ef9cd2e09b080bc27536d365184ae8b9d1324448a5fb93d37d2
 DTSTART;TZID=America/Montreal:20240830T110000
 DTEND;TZID=America/Montreal:20240830T130000
@@ -3890,7 +3890,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:7335e1c90efe10717b361c8a705d1f7973d9a38dc88e1fba1a68161b8f3b3d40
 DTSTART;TZID=America/Montreal:20240830T130000
 DTEND;TZID=America/Montreal:20240830T160000
@@ -3907,7 +3907,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:ce0410e4fd1e7b940e33c8901afc909b2c044660af7da7fed08fb95719fbb35c
 DTSTART;TZID=America/Montreal:20240831T100000
 DTEND;TZID=America/Montreal:20240831T120000
@@ -3924,7 +3924,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:d016dd6aea9edc2b1a38e2c8c323f9f69308808f33a73b2b033da7288a4339d8
 DTSTART;TZID=America/Montreal:20240831T120000
 DTEND;TZID=America/Montreal:20240831T140000
@@ -3941,7 +3941,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:efc8b1a1ca65c02cc18088c984fd2d37aef35472ec55e4056d26e1efa90bae70
 DTSTART;TZID=America/Montreal:20240831T150000
 DTEND;TZID=America/Montreal:20240831T160000
@@ -3958,7 +3958,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:573a67565969b6ca7b80b8d9802b3f0f6300190298743e86740f39597481a208
 DTSTART;TZID=America/Montreal:20240901T150000
 DTEND;TZID=America/Montreal:20240901T180000
@@ -3975,7 +3975,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:97905b56678972e3dbf02a36d098937212a9a3480c509bb9552ca8422f913891
 DTSTART;TZID=America/Montreal:20240920T110000
 DTEND;TZID=America/Montreal:20240920T160000
@@ -3992,7 +3992,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:f483d541d4f4ee91fc55a67f853048b40591619cd555fca90169bc3daa3cbbda
 DTSTART;TZID=America/Montreal:20240921T100000
 DTEND;TZID=America/Montreal:20240921T120000
@@ -4009,7 +4009,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:2c9af07abefd1607a712667d5883cf729baafb46d0a802ad2189e132805d2db2
 DTSTART;TZID=America/Montreal:20240921T120000
 DTEND;TZID=America/Montreal:20240921T140000
@@ -4026,7 +4026,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:39f0cf15c35f829c14cf6178720e87f8878713c52ad645181876d481b213a911
 DTSTART;TZID=America/Montreal:20240921T150000
 DTEND;TZID=America/Montreal:20240921T160000
@@ -4043,7 +4043,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:587f22ea681800b033f9174b2aebd83d1dc0ff39d467bd87bec694f5f83ccbbb
 DTSTART;TZID=America/Montreal:20240922T150000
 DTEND;TZID=America/Montreal:20240922T180000
@@ -4060,7 +4060,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:d8b1b13e42afc2a73621ced1aa044c4d0b960af6b02b294bf622fd8195937b01
 DTSTART;TZID=America/Montreal:20240923T070000
 DTEND;TZID=America/Montreal:20240923T090000
@@ -4077,7 +4077,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:2f8056c786f347046a83910f3998dda8abe620194e166dc29cbe37a0e6de4bdd
 DTSTART;TZID=America/Montreal:20240923T193000
 DTEND;TZID=America/Montreal:20240923T210000
@@ -4094,7 +4094,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:08b5a7a0d3c7b147a1dadca328ccb5f73c4c8f160ef05ce6e36872df1a9872ed
 DTSTART;TZID=America/Montreal:20240925T070000
 DTEND;TZID=America/Montreal:20240925T133000
@@ -4111,7 +4111,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:8b35007701b9663ee4c8200a902d61d7e703dde2678c445a9131be6cb85925d1
 DTSTART;TZID=America/Montreal:20240925T193000
 DTEND;TZID=America/Montreal:20240925T210000
@@ -4128,7 +4128,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:e3aadec651b99e1a7e6ddc43479fa7ab9f79dd6e22cee633798430c7daefd778
 DTSTART;TZID=America/Montreal:20240926T083000
 DTEND;TZID=America/Montreal:20240926T133000
@@ -4145,7 +4145,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:f364d7177e08c05906da6d7b52becaba60bd9913d303f69e8a410a41755bed0f
 DTSTART;TZID=America/Montreal:20240926T133000
 DTEND;TZID=America/Montreal:20240926T160000
@@ -4162,7 +4162,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:fc6c8e2e8f029b59bbf99b4582b6221a04cf1c96ecb95c23b674a19f11782f21
 DTSTART;TZID=America/Montreal:20240926T180000
 DTEND;TZID=America/Montreal:20240926T200000
@@ -4179,7 +4179,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:dceb3c71e5024bb80f5cc340540664c1f8848bf7a9fccfa739032cfdd4b13f34
 DTSTART;TZID=America/Montreal:20240927T070000
 DTEND;TZID=America/Montreal:20240927T133000
@@ -4196,7 +4196,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:f6a8e6b8ca0db26d2e6a70bc35604398a332a048bcb7d11640554e4c64b058f5
 DTSTART;TZID=America/Montreal:20240927T193000
 DTEND;TZID=America/Montreal:20240927T210000
@@ -4213,7 +4213,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:82f017578884c9d6bd8f2f7c783175636e40757eadb620da5cf5a0519e40286d
 DTSTART;TZID=America/Montreal:20240928T100000
 DTEND;TZID=America/Montreal:20240928T120000
@@ -4230,7 +4230,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:aa8829fd29744067d65126a1293f5a710be201a0cdb0531940461690c8ad90cc
 DTSTART;TZID=America/Montreal:20240928T120000
 DTEND;TZID=America/Montreal:20240928T140000
@@ -4247,7 +4247,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:4ada467fefd7c0e93810c3ea0aa1eb82b39f39a05a37185444078e25a4cbd8fc
 DTSTART;TZID=America/Montreal:20240928T150000
 DTEND;TZID=America/Montreal:20240928T160000
@@ -4264,7 +4264,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:e903cfa958061320a6c0671e5c036f7828d7d139f4e198398b7ba7de62d5583c
 DTSTART;TZID=America/Montreal:20240929T150000
 DTEND;TZID=America/Montreal:20240929T180000
@@ -4281,7 +4281,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:0bc8d61ff7dad32cd3c1211c5a698f605de31dbe23cf445318e05c7e4e3271a6
 DTSTART;TZID=America/Montreal:20241001T110000
 DTEND;TZID=America/Montreal:20241001T130000
@@ -4298,7 +4298,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:f347cc1ac6ec680f854165e8333cd6467612b7c4ac754a64927a510c9c382087
 DTSTART;TZID=America/Montreal:20241001T130000
 DTEND;TZID=America/Montreal:20241001T160000
@@ -4315,7 +4315,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:eb1384b9bbdc57fb62f9168c94561c74ef9e303a7d49df8ad882ff4f5d6dc922
 DTSTART;TZID=America/Montreal:20241002T110000
 DTEND;TZID=America/Montreal:20241002T130000
@@ -4332,7 +4332,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:deebaa7a6e35b4bfbb02f00e93a816e4ce7088528f8800d0c8a5ab90f21cffb6
 DTSTART;TZID=America/Montreal:20241002T130000
 DTEND;TZID=America/Montreal:20241002T160000
@@ -4349,7 +4349,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:92880669c42dd5d4cca8224f1d632ac4960b5f2f532cbda2b53cb7a0b62cb4d8
 DTSTART;TZID=America/Montreal:20241003T110000
 DTEND;TZID=America/Montreal:20241003T130000
@@ -4366,7 +4366,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:a10dae9e1c89afa5f908fb4f5290951bb6257a89ff1d9e2b2f50ac72bdbf7a6a
 DTSTART;TZID=America/Montreal:20241003T130000
 DTEND;TZID=America/Montreal:20241003T170000
@@ -4383,7 +4383,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:890cea146a2656ba4eb53aed24499d1967e71a4a9df79dd79633addb0dab330c
 DTSTART;TZID=America/Montreal:20241003T180000
 DTEND;TZID=America/Montreal:20241003T200000
@@ -4400,7 +4400,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:c2b4a329563c724bf0dac6778a98c82775fdb35b49613b63036fce9c98ff9153
 DTSTART;TZID=America/Montreal:20241004T110000
 DTEND;TZID=America/Montreal:20241004T130000
@@ -4417,7 +4417,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:010a14060439c702c486a54b17efa3de122c9c0add7dbe4c562ef7bce6bae69e
 DTSTART;TZID=America/Montreal:20241004T130000
 DTEND;TZID=America/Montreal:20241004T160000
@@ -4434,7 +4434,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:941390f05063a8e9c970a109d44b84b9a08b0431ce3ee23ba914f486fc5356a1
 DTSTART;TZID=America/Montreal:20241005T090000
 DTEND;TZID=America/Montreal:20241005T110000
@@ -4451,7 +4451,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:cfd8d79efceda660b478454b84ff80e6fa1d186d10629742f8e8777f203dbf3a
 DTSTART;TZID=America/Montreal:20241005T110000
 DTEND;TZID=America/Montreal:20241005T140000
@@ -4468,7 +4468,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:78555a10e43702a43f333e4f9ae485309e5006114d8f910485825527a0eb0cb0
 DTSTART;TZID=America/Montreal:20241005T150000
 DTEND;TZID=America/Montreal:20241005T160000
@@ -4485,7 +4485,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:806fb2cdd35f439b27e056c693e999461e1d14ff1ececcde8b3f7bb60447e7dc
 DTSTART;TZID=America/Montreal:20241006T090000
 DTEND;TZID=America/Montreal:20241006T110000
@@ -4502,7 +4502,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:c9a8f0cfe61c3534bb37f6878b98299311309ccbfe5d127b38164dcfc1f1f40a
 DTSTART;TZID=America/Montreal:20241006T110000
 DTEND;TZID=America/Montreal:20241006T130000
@@ -4519,7 +4519,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:ca32afbfc45a2c996e3bf34a98338fa9362202832f1a944304f797acb75df66e
 DTSTART;TZID=America/Montreal:20241007T110000
 DTEND;TZID=America/Montreal:20241007T130000
@@ -4536,7 +4536,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:bf48b104e5704eacd3c6ff1476f4522f60ac230f05836d25f56b2e22b2159c81
 DTSTART;TZID=America/Montreal:20241007T130000
 DTEND;TZID=America/Montreal:20241007T160000
@@ -4553,7 +4553,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:cbdc465a4046014274a57d46c79ae89d76699c0362799a8659a2e7e2337c59a3
 DTSTART;TZID=America/Montreal:20241028T110000
 DTEND;TZID=America/Montreal:20241028T130000
@@ -4570,7 +4570,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:74edf98e89f83bcb12afdc90eda1075d4a93543282c02f4c94b96570509f7d7d
 DTSTART;TZID=America/Montreal:20241028T110000
 DTEND;TZID=America/Montreal:20241028T130000
@@ -4587,7 +4587,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:c323cedaf43326bc5c2481bbbd410f346545d3415957dcd552566a0f427b747a
 DTSTART;TZID=America/Montreal:20241028T130000
 DTEND;TZID=America/Montreal:20241028T160000
@@ -4604,7 +4604,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:ea7fb5e69940f3e13e63d004cc8662671b217a10eb1aab33278e2b5a670aa75e
 DTSTART;TZID=America/Montreal:20241028T130000
 DTEND;TZID=America/Montreal:20241028T160000
@@ -4621,7 +4621,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:67c9f77ceb7120df6f9f3e457604771c42acf47f4187824d66c2b1a93662299f
 DTSTART;TZID=America/Montreal:20241029T110000
 DTEND;TZID=America/Montreal:20241029T130000
@@ -4638,7 +4638,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:6dbf539d74314c11ae7cc599c93c3a4e8cf22dbc6517c886c99721e8671ce5bd
 DTSTART;TZID=America/Montreal:20241029T110000
 DTEND;TZID=America/Montreal:20241029T130000
@@ -4655,7 +4655,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:1c8f1b369dac5b7d782f4479b9e869a7971a99aa703e87d32b0273599548e10a
 DTSTART;TZID=America/Montreal:20241029T130000
 DTEND;TZID=America/Montreal:20241029T160000
@@ -4672,7 +4672,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:1aa35bff401573a888a2d7b3fc0d3558982364f2e681862265ee573f86b261cd
 DTSTART;TZID=America/Montreal:20241029T130000
 DTEND;TZID=America/Montreal:20241029T160000
@@ -4689,7 +4689,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:c27abddf5c1457a9dcfededac5f11ac19a2e652bb1f04d8032514a73204ead42
 DTSTART;TZID=America/Montreal:20241030T110000
 DTEND;TZID=America/Montreal:20241030T130000
@@ -4706,7 +4706,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:fa646d4838fc32036db929e2e04c5ba1a1d767282050dd536c7c29f85f3edb44
 DTSTART;TZID=America/Montreal:20241030T110000
 DTEND;TZID=America/Montreal:20241030T130000
@@ -4723,7 +4723,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:5c580de4a0304c08db03e34974c73dc34414c6e0e9da0f9d9dc9aed99e499e85
 DTSTART;TZID=America/Montreal:20241030T130000
 DTEND;TZID=America/Montreal:20241030T160000
@@ -4740,7 +4740,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:2d155c9e5f7d70573ab085c0e48924b55839cc251baa5afa86ae1b28f103c543
 DTSTART;TZID=America/Montreal:20241030T130000
 DTEND;TZID=America/Montreal:20241030T160000
@@ -4757,7 +4757,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:a1410f7a3527c59c92055b3956670eba27a31d53365da8c0788bb584c716f056
 DTSTART;TZID=America/Montreal:20241031T110000
 DTEND;TZID=America/Montreal:20241031T130000
@@ -4774,7 +4774,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:8c47740a83307e8122def177bac8e8c2b390a1bd0bcf4aba6f804d6e94b36403
 DTSTART;TZID=America/Montreal:20241031T110000
 DTEND;TZID=America/Montreal:20241031T130000
@@ -4791,7 +4791,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:9e11402b859ef500ca0a4bd4c88e456a024a29f1482c42aed4251042f33ec7aa
 DTSTART;TZID=America/Montreal:20241031T130000
 DTEND;TZID=America/Montreal:20241031T170000
@@ -4808,7 +4808,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:394d3863d5dd967c5ff08e42e0365895e8eb190f43d05a9883e2d9a696a358ac
 DTSTART;TZID=America/Montreal:20241031T130000
 DTEND;TZID=America/Montreal:20241031T170000
@@ -4825,7 +4825,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:b70de2228596e2d492a0d8fb91783f2bad835ce18405029cf29556c54aac419b
 DTSTART;TZID=America/Montreal:20241031T180000
 DTEND;TZID=America/Montreal:20241031T200000
@@ -4842,7 +4842,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:f462416849f4edce8584a27d4083e961bbdf356cfcb2f07a6a8ac0ab38bdce6c
 DTSTART;TZID=America/Montreal:20241031T180000
 DTEND;TZID=America/Montreal:20241031T200000
@@ -4859,7 +4859,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:dba9c20cb67ebaf24625d9c66528bb9401ee17bea1dd48ffe8e4a9c477eb138c
 DTSTART;TZID=America/Montreal:20241101T110000
 DTEND;TZID=America/Montreal:20241101T130000
@@ -4876,7 +4876,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:1e12c98238e2a5d881c6e08782317860eff15329320a87fae7878a9187a40535
 DTSTART;TZID=America/Montreal:20241101T110000
 DTEND;TZID=America/Montreal:20241101T130000
@@ -4893,7 +4893,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:ef9628e845f53adc7cb5b4a69d95d2913ae27f0a2b238a925d08729e86132e6d
 DTSTART;TZID=America/Montreal:20241101T130000
 DTEND;TZID=America/Montreal:20241101T160000
@@ -4910,7 +4910,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:6ea1cc081a0f1e67a88726b5ca3ad5214aa9c4990aa025221359a38ee1311fa7
 DTSTART;TZID=America/Montreal:20241101T130000
 DTEND;TZID=America/Montreal:20241101T160000
@@ -4927,7 +4927,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:fb93d35f0af972011108810e85aacae9c80965e69c7b47203e6b21d9ebb74a1a
 DTSTART;TZID=America/Montreal:20241102T090000
 DTEND;TZID=America/Montreal:20241102T110000
@@ -4944,7 +4944,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:cc1e7520366decaafbe16f8bb149125e63917ce13eee0755dc5daff9000cc8dd
 DTSTART;TZID=America/Montreal:20241102T100000
 DTEND;TZID=America/Montreal:20241102T120000
@@ -4961,7 +4961,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:467001239e8d404a88c95580f5377fad5c1b92f69101f7f18aaecb3ff9d6b1bd
 DTSTART;TZID=America/Montreal:20241102T100000
 DTEND;TZID=America/Montreal:20241102T120000
@@ -4978,7 +4978,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:fda1564d09e7bd99cdfc6bf71e9d9021192062b7bb1e3f8a11f890896cd6f9e5
 DTSTART;TZID=America/Montreal:20241102T110000
 DTEND;TZID=America/Montreal:20241102T140000
@@ -4995,7 +4995,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:3aca5bf663fcf4952c56bcf038edef3647cfab2b110e742cf5290a5b99f7bb03
 DTSTART;TZID=America/Montreal:20241102T120000
 DTEND;TZID=America/Montreal:20241102T140000
@@ -5012,7 +5012,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:a6dbfdf45e0573b930fd3730566958071e697fd46ec57c13c83a3d4bf8ac4864
 DTSTART;TZID=America/Montreal:20241102T120000
 DTEND;TZID=America/Montreal:20241102T140000
@@ -5029,7 +5029,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:bd365fadcb6fb22005fc128a2f7ac0c1aff32cbd8e350e67321d42cd0c37e75b
 DTSTART;TZID=America/Montreal:20241102T150000
 DTEND;TZID=America/Montreal:20241102T160000
@@ -5046,7 +5046,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:79da67715a1eca089ede161989a9fbffc0be2939b1d4c274b28740c408324add
 DTSTART;TZID=America/Montreal:20241102T150000
 DTEND;TZID=America/Montreal:20241102T160000
@@ -5063,7 +5063,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:fa39972582545da0f2a3da76f45b43c41f7dc5066e217ca0c2a8b3b368044923
 DTSTART;TZID=America/Montreal:20241103T090000
 DTEND;TZID=America/Montreal:20241103T110000
@@ -5080,7 +5080,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:287bf02e9a01b9b1e40a0853d48f2eafe056def9251ee74445fa0cf053374cf2
 DTSTART;TZID=America/Montreal:20241103T090000
 DTEND;TZID=America/Montreal:20241103T110000
@@ -5097,7 +5097,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:3c1fb4c064c38c1addb0ed9da7a782fecac2822d8d18151db8203558f6fda6fe
 DTSTART;TZID=America/Montreal:20241103T110000
 DTEND;TZID=America/Montreal:20241103T130000
@@ -5114,7 +5114,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:d10c84aa41db477eb17131dab7f169aba662d655cae25d13c86ab8124d71d632
 DTSTART;TZID=America/Montreal:20241103T110000
 DTEND;TZID=America/Montreal:20241103T130000
@@ -5131,7 +5131,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:910e0432ed754b47f6abbdf09ad76c00b03a15dca48d21929eb15cc3adb43287
 DTSTART;TZID=America/Montreal:20241221T100000
 DTEND;TZID=America/Montreal:20241221T120000
@@ -5148,7 +5148,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:2bbf1b8a23a2b7612f704e37beac4907e8ed77c65ba0305f5406d8c3e1c72dcd
 DTSTART;TZID=America/Montreal:20241221T120000
 DTEND;TZID=America/Montreal:20241221T140000
@@ -5165,7 +5165,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:4d8ab7e67bf9e6a6810c49160582053f9eb25d2d748dc32a74a10e1b360f0fd4
 DTSTART;TZID=America/Montreal:20241221T150000
 DTEND;TZID=America/Montreal:20241221T160000
@@ -5182,7 +5182,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:c53bc3a326c95e637395d9ea2d9c5d056d0a67429a8c4aed44f0ef806491113b
 DTSTART;TZID=America/Montreal:20241222T100000
 DTEND;TZID=America/Montreal:20241222T120000
@@ -5199,7 +5199,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:8959cb88baf8f45ef7b5bb6c8e38176b28a792aad2f343f657a9f8aeb356c045
 DTSTART;TZID=America/Montreal:20241222T120000
 DTEND;TZID=America/Montreal:20241222T160000
@@ -5216,7 +5216,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:a535c6510276060ad7600da40dcbcfb29509eda8fb6bbc2c956cab9c895e8059
 DTSTART;TZID=America/Montreal:20241223T100000
 DTEND;TZID=America/Montreal:20241223T120000
@@ -5233,7 +5233,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:4cfc06ba9438c077eb9a3a64ed145c500a5d198d71441717c6b6559d8450ef61
 DTSTART;TZID=America/Montreal:20241223T120000
 DTEND;TZID=America/Montreal:20241223T160000
@@ -5250,7 +5250,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:7501db82c7bc90e32fc0fc2037d2c58f1d8c0a736b564918dd692b466486e8b6
 DTSTART;TZID=America/Montreal:20241227T120000
 DTEND;TZID=America/Montreal:20241227T160000
@@ -5267,7 +5267,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:e090c837a9307d32580f5192619f242401f608c6ee42e5719eb7a881c517f4f5
 DTSTART;TZID=America/Montreal:20250106T110000
 DTEND;TZID=America/Montreal:20250106T130000
@@ -5284,7 +5284,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:4632234deca359d11145c8d6c4cb842c06e178514d7792ce0c0c249d46382f6a
 DTSTART;TZID=America/Montreal:20250106T110000
 DTEND;TZID=America/Montreal:20250106T130000
@@ -5301,7 +5301,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:536d3dd9e633b65060d0eec21563109cc9f3c57a177f8d9dad3349968ecc4f22
 DTSTART;TZID=America/Montreal:20250106T120000
 DTEND;TZID=America/Montreal:20250106T130000
@@ -5318,7 +5318,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:6bbac7085c2afd361135cc1258826e361a0a27c694839874558c475062d92508
 DTSTART;TZID=America/Montreal:20250106T130000
 DTEND;TZID=America/Montreal:20250106T160000
@@ -5335,7 +5335,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:61fa6732cad13754a7d3f9e603c3e227054b98bc3173c755dc0b526ce3340b64
 DTSTART;TZID=America/Montreal:20250106T130000
 DTEND;TZID=America/Montreal:20250106T160000
@@ -5352,7 +5352,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:7e6ee19e27dac45c5140282e11a9368911d9da62f790a136e111bc64f53b73db
 DTSTART;TZID=America/Montreal:20250107T110000
 DTEND;TZID=America/Montreal:20250107T130000
@@ -5369,7 +5369,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:6f1ac5c0c7d1bb091c33df4a6287247ac1b740162e6275e826f921bad3a6808a
 DTSTART;TZID=America/Montreal:20250107T110000
 DTEND;TZID=America/Montreal:20250107T130000
@@ -5386,7 +5386,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:9ba3087a28f7b6bca976adb0981fdd2f412b61053b1e4607d970e54afbec7ded
 DTSTART;TZID=America/Montreal:20250107T120000
 DTEND;TZID=America/Montreal:20250107T130000
@@ -5403,7 +5403,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:da67163fed3482e8df9f764addb3e406fd1444e710932d6a82e1a244bf1f7933
 DTSTART;TZID=America/Montreal:20250107T130000
 DTEND;TZID=America/Montreal:20250107T160000
@@ -5420,7 +5420,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:2e80e65dc1fdc26a3f5e91d3e0558844bfde6b0e96a75490285bfe13aa8178da
 DTSTART;TZID=America/Montreal:20250107T130000
 DTEND;TZID=America/Montreal:20250107T160000
@@ -5437,7 +5437,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:9676b22d08ffabf3bd634a9abd0f411a6f9157bf2a940b41ebc414fa83a3f9ed
 DTSTART;TZID=America/Montreal:20250108T110000
 DTEND;TZID=America/Montreal:20250108T130000
@@ -5454,7 +5454,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:88961619b7a1dd940c72ddc13f90e4ec5f8d58d82d9d321d37aaff1308d5a2e8
 DTSTART;TZID=America/Montreal:20250108T110000
 DTEND;TZID=America/Montreal:20250108T130000
@@ -5471,7 +5471,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:2d681d738e3013a75c3d88c5f53c32381955cc2d27d954ddaaf439d97f0113d3
 DTSTART;TZID=America/Montreal:20250108T120000
 DTEND;TZID=America/Montreal:20250108T130000
@@ -5488,7 +5488,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:53b9ab485050898790bddf5db546f16bede564da83d38e06fd1780ad9c1bfe2f
 DTSTART;TZID=America/Montreal:20250108T130000
 DTEND;TZID=America/Montreal:20250108T160000
@@ -5505,7 +5505,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:2ef7c28696b9fcdcc13fbaeb75a56876a0a4321e9adf3726044ad88d1ab8e584
 DTSTART;TZID=America/Montreal:20250108T130000
 DTEND;TZID=America/Montreal:20250108T160000
@@ -5522,7 +5522,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:3d36580452a57994b70d100f389a2b2e1a5fc1e5d454a9a694126b9ed4253f44
 DTSTART;TZID=America/Montreal:20250109T110000
 DTEND;TZID=America/Montreal:20250109T130000
@@ -5539,7 +5539,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:0ae1327d59d4ef6d720ab47e3305f2888c59ca0b64fb50ecc524254a7d4b744c
 DTSTART;TZID=America/Montreal:20250109T110000
 DTEND;TZID=America/Montreal:20250109T130000
@@ -5556,7 +5556,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:2ccf3bea249858150309085a5fbed438c352885b05d34c0bf4e9ca16baa445fa
 DTSTART;TZID=America/Montreal:20250109T120000
 DTEND;TZID=America/Montreal:20250109T130000
@@ -5573,7 +5573,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:8560569ffff8fe1104526a2ae6eaa39764f7a9b9a334ab7a9b0193a42692b5a7
 DTSTART;TZID=America/Montreal:20250109T130000
 DTEND;TZID=America/Montreal:20250109T170000
@@ -5590,7 +5590,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:9bb5f399e8cf277e0982c6f8b01272f100980b878633395b7550e193c0b140ee
 DTSTART;TZID=America/Montreal:20250109T130000
 DTEND;TZID=America/Montreal:20250109T170000
@@ -5607,7 +5607,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:5afb89f4cb70ac4d5a0c7d004d81a92785d4719332b0c82ed3cbececa4f8ddf3
 DTSTART;TZID=America/Montreal:20250109T180000
 DTEND;TZID=America/Montreal:20250109T200000
@@ -5624,7 +5624,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:c0eec75461b9bcac883987c0740a3e708b064096b6598fbe775d45fe646cdea3
 DTSTART;TZID=America/Montreal:20250109T180000
 DTEND;TZID=America/Montreal:20250109T200000
@@ -5641,7 +5641,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:c7afbf178500e275f322e90accab9da3f0792a73fdaf2d30b0d330ee6fd742a3
 DTSTART;TZID=America/Montreal:20250110T110000
 DTEND;TZID=America/Montreal:20250110T130000
@@ -5658,7 +5658,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:881547dfc66c090563dbdfa800373a215a5579b4abd459ca3cad78f31b3ce422
 DTSTART;TZID=America/Montreal:20250110T110000
 DTEND;TZID=America/Montreal:20250110T130000
@@ -5675,7 +5675,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:f537768fdb2c869da3c012d1b9c46834bfb89181eec8a69fc995143b2b85bd60
 DTSTART;TZID=America/Montreal:20250110T120000
 DTEND;TZID=America/Montreal:20250110T130000
@@ -5692,7 +5692,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:bfad39a616b9176f73fd608a42b2719a99051dd24f692b66e51e702b4c030e3a
 DTSTART;TZID=America/Montreal:20250110T130000
 DTEND;TZID=America/Montreal:20250110T160000
@@ -5709,7 +5709,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:9078c84fdeba09a15d06a42a1b753f47e5e3c927693a35a17e5f31db7cd02e33
 DTSTART;TZID=America/Montreal:20250110T130000
 DTEND;TZID=America/Montreal:20250110T160000
@@ -5726,7 +5726,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:a933b753e0be155ed6cf3d0aa2fb2facf4171cd11acafd6f6b0be816815dbad0
 DTSTART;TZID=America/Montreal:20250111T100000
 DTEND;TZID=America/Montreal:20250111T120000
@@ -5743,7 +5743,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:d7187b4df809a7d146b750d225d93da02766c1181ea1ed171d44fef90ddde4b3
 DTSTART;TZID=America/Montreal:20250111T100000
 DTEND;TZID=America/Montreal:20250111T120000
@@ -5760,7 +5760,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:3ae3b9761d6474ff3810a24fdfc1742d86d19258ad4338974285a7d0fcaece68
 DTSTART;TZID=America/Montreal:20250111T120000
 DTEND;TZID=America/Montreal:20250111T140000
@@ -5777,7 +5777,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:dcc56f7687556efd6e3f73eda445b860afc16a44a8da9241cb2263815d2fe7f1
 DTSTART;TZID=America/Montreal:20250111T120000
 DTEND;TZID=America/Montreal:20250111T140000
@@ -5794,7 +5794,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:b2c88e6104a3a58a680be09482ae3d8a79832c9f52545e6274eee49580e92311
 DTSTART;TZID=America/Montreal:20250111T150000
 DTEND;TZID=America/Montreal:20250111T160000
@@ -5811,7 +5811,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:2b67f065e70a3179f60106ec2159aa0c2c6e03c6df80c9e76846be65870133cf
 DTSTART;TZID=America/Montreal:20250111T150000
 DTEND;TZID=America/Montreal:20250111T160000
@@ -5828,7 +5828,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:2ef0962bd6d32d53044b1a5873788ef60dc8a510b71d39d66c4f45833b714e22
 DTSTART;TZID=America/Montreal:20250112T090000
 DTEND;TZID=America/Montreal:20250112T110000
@@ -5845,7 +5845,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:35eeae37c8bb7f519b8bee70407a85f8c937b90a088642f748512521f6c04c3d
 DTSTART;TZID=America/Montreal:20250112T090000
 DTEND;TZID=America/Montreal:20250112T110000
@@ -5862,7 +5862,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:272509750249e4567e168e5cf55f62a3a2b88ea4ac7a0eba23830838f9b1452d
 DTSTART;TZID=America/Montreal:20250112T110000
 DTEND;TZID=America/Montreal:20250112T130000
@@ -5879,7 +5879,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:bd8a68fbfc2bb75674b4d66be540aee974a7df21267c7a5464f4f6df7c52db11
 DTSTART;TZID=America/Montreal:20250112T110000
 DTEND;TZID=America/Montreal:20250112T130000
@@ -5896,7 +5896,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:8f879c33ff6d9d80138eb14805e8c9e85b32f87642626f907b719f613eeb099f
 DTSTART;TZID=America/Montreal:20250621T100000
 DTEND;TZID=America/Montreal:20250621T110000
@@ -5913,7 +5913,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:7c3c295660f134bfde469f8deaf7a2a296c2f1e38d37b467653d3ac5cf843771
 DTSTART;TZID=America/Montreal:20250621T110000
 DTEND;TZID=America/Montreal:20250621T140000
@@ -5930,7 +5930,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:620f8d1bad398adec5bc79484014abf46cbacb4b339d4eea811599d5e89e4df6
 DTSTART;TZID=America/Montreal:20250621T150000
 DTEND;TZID=America/Montreal:20250621T160000
@@ -5947,7 +5947,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:3599c6d7c34740a35facc6d85c81b4c81ab64e088c18522fb1c55f6037f10f96
 DTSTART;TZID=America/Montreal:20250623T110000
 DTEND;TZID=America/Montreal:20250623T133000
@@ -5964,7 +5964,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:b3be943baf304b08a7d1ed7b1a3fa89c5e6b461bba2e2d05e31f7da94d71b7e7
 DTSTART;TZID=America/Montreal:20250623T133000
 DTEND;TZID=America/Montreal:20250623T160000
@@ -5981,7 +5981,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:be78ad7d90022dc5ba1917acf50d6ea7c66b43a80f42dfa91ef7719b2f4a22c8
 DTSTART;TZID=America/Montreal:20250624T110000
 DTEND;TZID=America/Montreal:20250624T133000
@@ -5998,7 +5998,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:c7e4df9fdc3167812b845c22db8f863da8c41b42b9362183dfc3c284a9eaaa98
 DTSTART;TZID=America/Montreal:20250624T133000
 DTEND;TZID=America/Montreal:20250624T160000
@@ -6015,7 +6015,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:f20557648bfb5c4133fda851f99b62b0c509388eeb4849832d264d8499f0b4de
 DTSTART;TZID=America/Montreal:20250625T110000
 DTEND;TZID=America/Montreal:20250625T133000
@@ -6032,7 +6032,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:dc0b95cbafb7654a05b96f469ce9aaf8ecfb15e72d116ebdbd7c4195cf754360
 DTSTART;TZID=America/Montreal:20250625T163000
 DTEND;TZID=America/Montreal:20250625T190000
@@ -6049,7 +6049,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:62319b623e9a48b898a665a6d69e86422ec7eecb8cd68450f06adc3a0b8a6f74
 DTSTART;TZID=America/Montreal:20250626T110000
 DTEND;TZID=America/Montreal:20250626T133000
@@ -6066,7 +6066,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:d686a825f3ec890b10dc4407ccb981ead1ff14b0253e87f9dd719c987e244e37
 DTSTART;TZID=America/Montreal:20250626T170000
 DTEND;TZID=America/Montreal:20250626T190000
@@ -6083,7 +6083,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:9e1c31ea8136beb1aa7fc81ac51da85ac065f2b3a5c16ce24bc76daada7ca9bc
 DTSTART;TZID=America/Montreal:20250627T110000
 DTEND;TZID=America/Montreal:20250627T133000
@@ -6100,7 +6100,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:e59167053390b05612976088bee55a702e0292ca973cc87ee012839e27d6c6cf
 DTSTART;TZID=America/Montreal:20250627T163000
 DTEND;TZID=America/Montreal:20250627T190000
@@ -6117,7 +6117,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:cecf4fe1633a8701df526df527d5be1656fa4524725d5a2483b6ee1ef7bd4293
 DTSTART;TZID=America/Montreal:20250818T110000
 DTEND;TZID=America/Montreal:20250818T133000
@@ -6134,7 +6134,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:043c2d2cc60c6564d54ca5799bda4718403fb21c8f2608547ce2ed863a2c0dfc
 DTSTART;TZID=America/Montreal:20250818T133000
 DTEND;TZID=America/Montreal:20250818T160000
@@ -6151,7 +6151,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:706cbb786faebeb40f8af4d5133c9bb2de2c6d4ea151589d62dee8b0f1a10e15
 DTSTART;TZID=America/Montreal:20250819T133000
 DTEND;TZID=America/Montreal:20250819T160000
@@ -6168,7 +6168,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:7e2653a7c4cb7d6413234e42dc0a114d6c437974c03b55a9c47b32ce0a335fd9
 DTSTART;TZID=America/Montreal:20250819T170000
 DTEND;TZID=America/Montreal:20250819T190000
@@ -6185,7 +6185,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:93dd0c280d553baee5767b94641c54b37412bba8b198128807f9e9bbb2c0aef0
 DTSTART;TZID=America/Montreal:20250820T110000
 DTEND;TZID=America/Montreal:20250820T133000
@@ -6202,7 +6202,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:bdc9e1a89696519a8a24d0ec906559c5383dddc35c033273689e827967f206ed
 DTSTART;TZID=America/Montreal:20250820T133000
 DTEND;TZID=America/Montreal:20250820T160000
@@ -6219,7 +6219,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:7baa76614fca7005addbd37bffb183d346a14972ae4685352ab1e2887beebcbd
 DTSTART;TZID=America/Montreal:20250821T133000
 DTEND;TZID=America/Montreal:20250821T160000
@@ -6236,7 +6236,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:2a9787393fb694716e673fb20831fbd8f0442b6c5227601289d557958a53abcc
 DTSTART;TZID=America/Montreal:20250821T170000
 DTEND;TZID=America/Montreal:20250821T190000
@@ -6253,7 +6253,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:684db439b1f3c570e366b0393c2fb2f3005ac2067d75ea87fcbd891e5aa36304
 DTSTART;TZID=America/Montreal:20250822T110000
 DTEND;TZID=America/Montreal:20250822T133000
@@ -6270,7 +6270,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:e84fedca84b47663739f1f9282453dabb6de4d5c88cf3f459265621814684d6c
 DTSTART;TZID=America/Montreal:20250822T133000
 DTEND;TZID=America/Montreal:20250822T160000
@@ -6287,7 +6287,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:18f91df61b342861e2784f6879a250fd3d95a38fbd5923479af4f9dfc46784da
 DTSTART;TZID=America/Montreal:20250823T110000
 DTEND;TZID=America/Montreal:20250823T140000
@@ -6304,7 +6304,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:fa84a2e87c203933c6beba6ff91d633a7a8ad4a028911d81be1a990e2f37c1c6
 DTSTART;TZID=America/Montreal:20250823T150000
 DTEND;TZID=America/Montreal:20250823T160000
@@ -6321,7 +6321,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:b1606139b342c6788bb07edba177c435bfe2f9aaa0e63dafc809cbacac90a0fe
 DTSTART;TZID=America/Montreal:20250825T110000
 DTEND;TZID=America/Montreal:20250825T133000
@@ -6338,7 +6338,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:2401e353d2b7ad3968b3fe8332bf94739b5c2eb4b706536acaee1f5f4c4f36c4
 DTSTART;TZID=America/Montreal:20250825T133000
 DTEND;TZID=America/Montreal:20250825T160000
@@ -6355,7 +6355,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:e0930379ab1fdad911e31126edccd18f84d2a92f788fe5f8feff5b01cf22002b
 DTSTART;TZID=America/Montreal:20250826T133000
 DTEND;TZID=America/Montreal:20250826T160000
@@ -6372,7 +6372,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:3295e2430c7dca54395a582677f34e920630801d691aa26638355707e14b7314
 DTSTART;TZID=America/Montreal:20250827T110000
 DTEND;TZID=America/Montreal:20250827T133000
@@ -6389,7 +6389,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:6206c2e7597f363545dc5b565e6f6f5c7f9e74a92d59cbe387787c28e04b9ae7
 DTSTART;TZID=America/Montreal:20250827T133000
 DTEND;TZID=America/Montreal:20250827T160000
@@ -6406,7 +6406,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:5042f601904d61f8c0dfb721575611132f0352bcaf8673fe30d2240d67ca8844
 DTSTART;TZID=America/Montreal:20250828T133000
 DTEND;TZID=America/Montreal:20250828T160000
@@ -6423,7 +6423,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:cc43d3cbf2d7e838ef55fc4b6b7dc487f69c646453ffa62e1c9ab5b0a34287f2
 DTSTART;TZID=America/Montreal:20250828T170000
 DTEND;TZID=America/Montreal:20250828T190000
@@ -6440,7 +6440,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:e7f01164c340dbe9f561d797b31be042e259952f406c202dc9811e9538d3cc17
 DTSTART;TZID=America/Montreal:20250829T110000
 DTEND;TZID=America/Montreal:20250829T133000
@@ -6457,7 +6457,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:f4c07d757891e24107c6e4547b6699e5d66207a7d4bd1b46374c3978b1cdf54d
 DTSTART;TZID=America/Montreal:20250829T133000
 DTEND;TZID=America/Montreal:20250829T160000
@@ -6474,7 +6474,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:baea94d2070fce61bc3b5f7468249e60b25e27175846b3e24d9ceceb3e4c8f31
 DTSTART;TZID=America/Montreal:20250830T100000
 DTEND;TZID=America/Montreal:20250830T123000
@@ -6491,7 +6491,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:17a7434e93bf3c14ad507976c5cdd542933a0506f64e16114500bb903b8daedc
 DTSTART;TZID=America/Montreal:20250830T123000
 DTEND;TZID=America/Montreal:20250830T140000
@@ -6508,7 +6508,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:2a3ff94a928fe9b65fa8d1fd958d072974d4d1d5aac4f2c665310fe93ae4ddcb
 DTSTART;TZID=America/Montreal:20250830T150000
 DTEND;TZID=America/Montreal:20250830T160000
@@ -6525,7 +6525,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:5823c4632e3e7405baa8f6242b5f82bce1fdee60c27cd0439d8e6f69c328703a
 DTSTART;TZID=America/Montreal:20250902T170000
 DTEND;TZID=America/Montreal:20250902T200000
@@ -6542,7 +6542,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:67d8a23acce3f82ac50a77685de5ba07f8bc400326c0f7209ee17ca387515614
 DTSTART;TZID=America/Montreal:20250903T110000
 DTEND;TZID=America/Montreal:20250903T160000
@@ -6559,7 +6559,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:3cd83b567b9b8a8c5dda50acceaade2f1f779027ef02cb669d8e742d4904a9fc
 DTSTART;TZID=America/Montreal:20250903T170000
 DTEND;TZID=America/Montreal:20250903T200000
@@ -6576,7 +6576,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:a59f26175562a29440f1bad2d9efd3642f3007eaf5c225d4b38a282d0237540b
 DTSTART;TZID=America/Montreal:20250904T110000
 DTEND;TZID=America/Montreal:20250904T160000
@@ -6593,7 +6593,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:048162eb0063471f56629e3307b1be514fc7c46a0d993510dd939e0c3fc65ee1
 DTSTART;TZID=America/Montreal:20250904T180000
 DTEND;TZID=America/Montreal:20250904T200000
@@ -6610,7 +6610,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:0ec172e2f4b57316b060475f23d932361e717d84ee4150cf5289120756c71c68
 DTSTART;TZID=America/Montreal:20250905T170000
 DTEND;TZID=America/Montreal:20250905T200000
@@ -6627,7 +6627,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:e34a731b350af4caec6c54b52ad07fa80597a839021fced293648f60ad2cb5d4
 DTSTART;TZID=America/Montreal:20250906T090000
 DTEND;TZID=America/Montreal:20250906T120000
@@ -6644,7 +6644,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:f5b39068de8b849c6eda49a7160ad4dea5aeef81cbb5b6d52306ecf87400554b
 DTSTART;TZID=America/Montreal:20250906T120000
 DTEND;TZID=America/Montreal:20250906T140000
@@ -6661,7 +6661,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:9102929003a44d8e8f925d3028f6af0b300eb1cb76c8d8d5689f7dae0d4330f4
 DTSTART;TZID=America/Montreal:20250906T150000
 DTEND;TZID=America/Montreal:20250906T160000
@@ -6678,7 +6678,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:f38922a3d5a7cc2299f7cad5a79a31942dbb9b0bd8412d701246f0f90f324081
 DTSTART;TZID=America/Montreal:20250908T110000
 DTEND;TZID=America/Montreal:20250908T160000
@@ -6695,7 +6695,7 @@ IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250831T201218Z
+DTSTAMP:20251126T161614Z
 UID:f1b0b9f3acc7410ce9c08380cdf860eda24d62bcb8c56acc2d948294f1ce849c
 DTSTART;TZID=America/Montreal:20250908T170000
 DTEND;TZID=America/Montreal:20250908T200000
@@ -6708,6 +6708,261 @@ ORGANIZER:Ville de Montréal
 SUMMARY:Open swim for everyone
 URL;VALUE=URI:https://montreal.ca/en/places/piscine-quintal
 RRULE:FREQ=WEEKLY;UNTIL=20251220
+IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
+ 0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251126T161614Z
+UID:30fa681447b1dca2cf9aaafd96bab24d116854679dfb5b166ad9e422b6bcd009
+DTSTART;TZID=America/Montreal:20251220T090000
+DTEND;TZID=America/Montreal:20251220T120000
+COLOR:#9fc6e7
+CREATED:20251126T161613
+LAST-MODIFIED:20251126T161613
+LOCATION:Quintal Swimming Pool\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J
+ 5
+ORGANIZER:Ville de Montréal
+SUMMARY:Open swim for everyone
+URL;VALUE=URI:https://montreal.ca/en/places/piscine-quintal
+RRULE:FREQ=WEEKLY;UNTIL=20260105
+IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
+ 0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251126T161614Z
+UID:8353d850b56a2edf899ef15e9fd5c276c99dbdd571f891ed080f404b3f95caaf
+DTSTART;TZID=America/Montreal:20251220T120000
+DTEND;TZID=America/Montreal:20251220T140000
+COLOR:#9fc6e7
+CREATED:20251126T161613
+LAST-MODIFIED:20251126T161613
+LOCATION:Quintal Swimming Pool\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J
+ 5
+ORGANIZER:Ville de Montréal
+SUMMARY:Open swim for adults (ages 16 and over)
+URL;VALUE=URI:https://montreal.ca/en/places/piscine-quintal
+RRULE:FREQ=WEEKLY;UNTIL=20260105
+IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
+ 0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251126T161614Z
+UID:0f6ee4578b87781418913ca0fa6d3ccaee6859e2650e17c097354f0d6cb3be39
+DTSTART;TZID=America/Montreal:20251220T150000
+DTEND;TZID=America/Montreal:20251220T160000
+COLOR:#9fc6e7
+CREATED:20251126T161613
+LAST-MODIFIED:20251126T161613
+LOCATION:Quintal Swimming Pool\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J
+ 5
+ORGANIZER:Ville de Montréal
+SUMMARY:Open swim for the transgender community
+URL;VALUE=URI:https://montreal.ca/en/places/piscine-quintal
+RRULE:FREQ=WEEKLY;UNTIL=20260105
+IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
+ 0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251126T161614Z
+UID:29ffe3683b4b4d4bf52962afcb9a6dc692ffd78c58ab1afccaff196380433927
+DTSTART;TZID=America/Montreal:20251221T090000
+DTEND;TZID=America/Montreal:20251221T120000
+COLOR:#9fc6e7
+CREATED:20251126T161613
+LAST-MODIFIED:20251126T161613
+LOCATION:Quintal Swimming Pool\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J
+ 5
+ORGANIZER:Ville de Montréal
+SUMMARY:Open swim for everyone
+URL;VALUE=URI:https://montreal.ca/en/places/piscine-quintal
+RRULE:FREQ=WEEKLY;UNTIL=20260105
+IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
+ 0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251126T161614Z
+UID:5601c1c2efec5194f61698f101ec4393e788f9e6c8f9b494b02686963bab065a
+DTSTART;TZID=America/Montreal:20251221T120000
+DTEND;TZID=America/Montreal:20251221T130000
+COLOR:#9fc6e7
+CREATED:20251126T161613
+LAST-MODIFIED:20251126T161613
+LOCATION:Quintal Swimming Pool\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J
+ 5
+ORGANIZER:Ville de Montréal
+SUMMARY:Open swim for adults (ages 16 and over)
+URL;VALUE=URI:https://montreal.ca/en/places/piscine-quintal
+RRULE:FREQ=WEEKLY;UNTIL=20260105
+IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
+ 0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251126T161614Z
+UID:d844b199b58cb797b4a9b4236cb4e77f68dd454a3e6faff0c8320d428fa1555d
+DTSTART;TZID=America/Montreal:20251222T090000
+DTEND;TZID=America/Montreal:20251222T120000
+COLOR:#9fc6e7
+CREATED:20251126T161613
+LAST-MODIFIED:20251126T161613
+LOCATION:Quintal Swimming Pool\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J
+ 5
+ORGANIZER:Ville de Montréal
+SUMMARY:Open swim for everyone
+URL;VALUE=URI:https://montreal.ca/en/places/piscine-quintal
+RRULE:FREQ=WEEKLY;UNTIL=20260105
+IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
+ 0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251126T161614Z
+UID:d1e6e82ace8a01c8f6f88de9581dd9988c01d55c130bee867ed6c041f6b53627
+DTSTART;TZID=America/Montreal:20251222T120000
+DTEND;TZID=America/Montreal:20251222T130000
+COLOR:#9fc6e7
+CREATED:20251126T161613
+LAST-MODIFIED:20251126T161613
+LOCATION:Quintal Swimming Pool\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J
+ 5
+ORGANIZER:Ville de Montréal
+SUMMARY:Open swim for adults (ages 16 and over)
+URL;VALUE=URI:https://montreal.ca/en/places/piscine-quintal
+RRULE:FREQ=WEEKLY;UNTIL=20260105
+IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
+ 0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251126T161614Z
+UID:1003cd7ae9a7a9db15f4d306e7fb26fa5da7546b7fd69be3d10c5427e2c119c3
+DTSTART;TZID=America/Montreal:20251223T090000
+DTEND;TZID=America/Montreal:20251223T120000
+COLOR:#9fc6e7
+CREATED:20251126T161613
+LAST-MODIFIED:20251126T161613
+LOCATION:Quintal Swimming Pool\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J
+ 5
+ORGANIZER:Ville de Montréal
+SUMMARY:Open swim for everyone
+URL;VALUE=URI:https://montreal.ca/en/places/piscine-quintal
+RRULE:FREQ=WEEKLY;UNTIL=20260105
+IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
+ 0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251126T161614Z
+UID:76a2128448b309d2ad1e3f381457c71788d1bef4324c860b662dec370c0902b6
+DTSTART;TZID=America/Montreal:20251223T120000
+DTEND;TZID=America/Montreal:20251223T130000
+COLOR:#9fc6e7
+CREATED:20251126T161613
+LAST-MODIFIED:20251126T161613
+LOCATION:Quintal Swimming Pool\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J
+ 5
+ORGANIZER:Ville de Montréal
+SUMMARY:Open swim for adults (ages 16 and over)
+URL;VALUE=URI:https://montreal.ca/en/places/piscine-quintal
+RRULE:FREQ=WEEKLY;UNTIL=20260105
+IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
+ 0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251126T161614Z
+UID:2d4105cf441133740dbcbdfbe1c8e522e8933579dc7697fcd7f140c4ae462546
+DTSTART;TZID=America/Montreal:20251224T090000
+DTEND;TZID=America/Montreal:20251224T120000
+COLOR:#9fc6e7
+CREATED:20251126T161613
+LAST-MODIFIED:20251126T161613
+LOCATION:Quintal Swimming Pool\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J
+ 5
+ORGANIZER:Ville de Montréal
+SUMMARY:Open swim for everyone
+URL;VALUE=URI:https://montreal.ca/en/places/piscine-quintal
+RRULE:FREQ=WEEKLY;UNTIL=20260105
+IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
+ 0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251126T161614Z
+UID:c0292134b3d6d47f2a3d5a216d7e832ea3050760c05f6a3af1baf4990c776d8a
+DTSTART;TZID=America/Montreal:20251224T120000
+DTEND;TZID=America/Montreal:20251224T130000
+COLOR:#9fc6e7
+CREATED:20251126T161613
+LAST-MODIFIED:20251126T161613
+LOCATION:Quintal Swimming Pool\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J
+ 5
+ORGANIZER:Ville de Montréal
+SUMMARY:Open swim for adults (ages 16 and over)
+URL;VALUE=URI:https://montreal.ca/en/places/piscine-quintal
+RRULE:FREQ=WEEKLY;UNTIL=20260105
+IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
+ 0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251126T161614Z
+UID:d1d51d05a114ab2e2f54cfc9edb8013d11b324ff8bcfa424f94e58c5e1e90cff
+DTSTART;TZID=America/Montreal:20251225T090000
+DTEND;TZID=America/Montreal:20251225T120000
+COLOR:#9fc6e7
+CREATED:20251126T161613
+LAST-MODIFIED:20251126T161613
+LOCATION:Quintal Swimming Pool\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J
+ 5
+ORGANIZER:Ville de Montréal
+SUMMARY:Open swim for everyone
+URL;VALUE=URI:https://montreal.ca/en/places/piscine-quintal
+RRULE:FREQ=WEEKLY;UNTIL=20260105
+IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
+ 0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251126T161614Z
+UID:f92b62bad781596fe9af073c828ea91d12dc9b73033d3d05e206f4a18ba454b4
+DTSTART;TZID=America/Montreal:20251225T120000
+DTEND;TZID=America/Montreal:20251225T130000
+COLOR:#9fc6e7
+CREATED:20251126T161613
+LAST-MODIFIED:20251126T161613
+LOCATION:Quintal Swimming Pool\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J
+ 5
+ORGANIZER:Ville de Montréal
+SUMMARY:Open swim for adults (ages 16 and over)
+URL;VALUE=URI:https://montreal.ca/en/places/piscine-quintal
+RRULE:FREQ=WEEKLY;UNTIL=20260105
+IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
+ 0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251126T161614Z
+UID:ed735dcaf5c54c7891340a85c4f0ce2b76b676506bbd4565a4f8d7b2eb7101f4
+DTSTART;TZID=America/Montreal:20251226T090000
+DTEND;TZID=America/Montreal:20251226T120000
+COLOR:#9fc6e7
+CREATED:20251126T161613
+LAST-MODIFIED:20251126T161613
+LOCATION:Quintal Swimming Pool\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J
+ 5
+ORGANIZER:Ville de Montréal
+SUMMARY:Open swim for everyone
+URL;VALUE=URI:https://montreal.ca/en/places/piscine-quintal
+RRULE:FREQ=WEEKLY;UNTIL=20260105
+IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
+ 0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251126T161614Z
+UID:4710c6c129efa3201097e4a529c2d986ed6afb6ffcd31f7cc5c4c80aa0c484ff
+DTSTART;TZID=America/Montreal:20251226T120000
+DTEND;TZID=America/Montreal:20251226T130000
+COLOR:#9fc6e7
+CREATED:20251126T161613
+LAST-MODIFIED:20251126T161613
+LOCATION:Quintal Swimming Pool\, 1550 Rue Dufresne\, Montréal\, QC H2K 3J
+ 5
+ORGANIZER:Ville de Montréal
+SUMMARY:Open swim for adults (ages 16 and over)
+URL;VALUE=URI:https://montreal.ca/en/places/piscine-quintal
+RRULE:FREQ=WEEKLY;UNTIL=20260105
 IMAGE;VALUE=URI:https://res.cloudinary.com/villemontreal/image/upload/w_120
  0,h_630,c_fill/f_auto,dpr_auto,q_auto/v1/portail/pstrrdiy9exazm5mvbat.jpg
 END:VEVENT
