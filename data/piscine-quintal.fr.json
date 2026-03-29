@@ -7749,5 +7749,350 @@
     "created_at": "2026-02-01T20:16:43+00:00",
     "updated_at": "2026-02-01T20:16:43+00:00",
     "last_day": "2026-05-11T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes (16 ans et plus)",
+    "weekday": 1,
+    "start_time": [
+      7,
+      0
+    ],
+    "end_time": [
+      8,
+      0
+    ],
+    "period_start": "2026-05-11T00:00:00-04:00",
+    "period_end": "2027-06-19T00:00:00-04:00",
+    "section": "Pour les adultes (16 ans et plus)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-05-11T00:00:00-04:00",
+    "start_datetime": "2026-05-11T07:00:00+00:00",
+    "end_datetime": "2026-05-11T08:00:00+00:00",
+    "created_at": "2026-03-29T14:26:36+00:00",
+    "updated_at": "2026-03-29T14:26:36+00:00",
+    "last_day": "2027-06-19T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour toutes et tous",
+    "weekday": 1,
+    "start_time": [
+      17,
+      0
+    ],
+    "end_time": [
+      19,
+      0
+    ],
+    "period_start": "2026-05-11T00:00:00-04:00",
+    "period_end": "2027-06-19T00:00:00-04:00",
+    "section": "Pour toutes et tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-05-11T00:00:00-04:00",
+    "start_datetime": "2026-05-11T17:00:00+00:00",
+    "end_datetime": "2026-05-11T19:00:00+00:00",
+    "created_at": "2026-03-29T14:26:36+00:00",
+    "updated_at": "2026-03-29T14:26:36+00:00",
+    "last_day": "2027-06-19T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes (16 ans et plus)",
+    "weekday": 2,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      12,
+      0
+    ],
+    "period_start": "2026-05-11T00:00:00-04:00",
+    "period_end": "2027-06-19T00:00:00-04:00",
+    "section": "Pour les adultes (16 ans et plus)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-05-12T00:00:00-04:00",
+    "start_datetime": "2026-05-12T11:00:00+00:00",
+    "end_datetime": "2026-05-12T12:00:00+00:00",
+    "created_at": "2026-03-29T14:26:36+00:00",
+    "updated_at": "2026-03-29T14:26:36+00:00",
+    "last_day": "2027-06-19T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour toutes et tous",
+    "weekday": 2,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      15,
+      0
+    ],
+    "period_start": "2026-05-11T00:00:00-04:00",
+    "period_end": "2027-06-19T00:00:00-04:00",
+    "section": "Pour toutes et tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-05-12T00:00:00-04:00",
+    "start_datetime": "2026-05-12T13:00:00+00:00",
+    "end_datetime": "2026-05-12T15:00:00+00:00",
+    "created_at": "2026-03-29T14:26:36+00:00",
+    "updated_at": "2026-03-29T14:26:36+00:00",
+    "last_day": "2027-06-19T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes (16 ans et plus)",
+    "weekday": 3,
+    "start_time": [
+      7,
+      0
+    ],
+    "end_time": [
+      8,
+      0
+    ],
+    "period_start": "2026-05-11T00:00:00-04:00",
+    "period_end": "2027-06-19T00:00:00-04:00",
+    "section": "Pour les adultes (16 ans et plus)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-05-13T00:00:00-04:00",
+    "start_datetime": "2026-05-13T07:00:00+00:00",
+    "end_datetime": "2026-05-13T08:00:00+00:00",
+    "created_at": "2026-03-29T14:26:36+00:00",
+    "updated_at": "2026-03-29T14:26:36+00:00",
+    "last_day": "2027-06-19T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour toutes et tous",
+    "weekday": 3,
+    "start_time": [
+      17,
+      0
+    ],
+    "end_time": [
+      19,
+      0
+    ],
+    "period_start": "2026-05-11T00:00:00-04:00",
+    "period_end": "2027-06-19T00:00:00-04:00",
+    "section": "Pour toutes et tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-05-13T00:00:00-04:00",
+    "start_datetime": "2026-05-13T17:00:00+00:00",
+    "end_datetime": "2026-05-13T19:00:00+00:00",
+    "created_at": "2026-03-29T14:26:36+00:00",
+    "updated_at": "2026-03-29T14:26:36+00:00",
+    "last_day": "2027-06-19T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes (16 ans et plus)",
+    "weekday": 4,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      12,
+      0
+    ],
+    "period_start": "2026-05-11T00:00:00-04:00",
+    "period_end": "2027-06-19T00:00:00-04:00",
+    "section": "Pour les adultes (16 ans et plus)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-05-14T00:00:00-04:00",
+    "start_datetime": "2026-05-14T11:00:00+00:00",
+    "end_datetime": "2026-05-14T12:00:00+00:00",
+    "created_at": "2026-03-29T14:26:36+00:00",
+    "updated_at": "2026-03-29T14:26:36+00:00",
+    "last_day": "2027-06-19T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour la communauté transgenre",
+    "weekday": 4,
+    "start_time": [
+      18,
+      0
+    ],
+    "end_time": [
+      19,
+      0
+    ],
+    "period_start": "2026-05-11T00:00:00-04:00",
+    "period_end": "2027-06-19T00:00:00-04:00",
+    "section": "Pour la communauté transgenre",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-05-14T00:00:00-04:00",
+    "start_datetime": "2026-05-14T18:00:00+00:00",
+    "end_datetime": "2026-05-14T19:00:00+00:00",
+    "created_at": "2026-03-29T14:26:36+00:00",
+    "updated_at": "2026-03-29T14:26:36+00:00",
+    "last_day": "2027-06-19T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes (16 ans et plus)",
+    "weekday": 5,
+    "start_time": [
+      7,
+      0
+    ],
+    "end_time": [
+      8,
+      0
+    ],
+    "period_start": "2026-05-11T00:00:00-04:00",
+    "period_end": "2027-06-19T00:00:00-04:00",
+    "section": "Pour les adultes (16 ans et plus)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-05-15T00:00:00-04:00",
+    "start_datetime": "2026-05-15T07:00:00+00:00",
+    "end_datetime": "2026-05-15T08:00:00+00:00",
+    "created_at": "2026-03-29T14:26:36+00:00",
+    "updated_at": "2026-03-29T14:26:36+00:00",
+    "last_day": "2027-06-19T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour toutes et tous",
+    "weekday": 5,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      15,
+      0
+    ],
+    "period_start": "2026-05-11T00:00:00-04:00",
+    "period_end": "2027-06-19T00:00:00-04:00",
+    "section": "Pour toutes et tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-05-15T00:00:00-04:00",
+    "start_datetime": "2026-05-15T13:00:00+00:00",
+    "end_datetime": "2026-05-15T15:00:00+00:00",
+    "created_at": "2026-03-29T14:26:36+00:00",
+    "updated_at": "2026-03-29T14:26:36+00:00",
+    "last_day": "2027-06-19T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour toutes et tous",
+    "weekday": 6,
+    "start_time": [
+      9,
+      0
+    ],
+    "end_time": [
+      11,
+      0
+    ],
+    "period_start": "2026-05-11T00:00:00-04:00",
+    "period_end": "2027-06-19T00:00:00-04:00",
+    "section": "Pour toutes et tous",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-05-16T00:00:00-04:00",
+    "start_datetime": "2026-05-16T09:00:00+00:00",
+    "end_datetime": "2026-05-16T11:00:00+00:00",
+    "created_at": "2026-03-29T14:26:36+00:00",
+    "updated_at": "2026-03-29T14:26:36+00:00",
+    "last_day": "2027-06-19T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes (16 ans et plus)",
+    "weekday": 6,
+    "start_time": [
+      12,
+      0
+    ],
+    "end_time": [
+      13,
+      0
+    ],
+    "period_start": "2026-05-11T00:00:00-04:00",
+    "period_end": "2027-06-19T00:00:00-04:00",
+    "section": "Pour les adultes (16 ans et plus)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-05-16T00:00:00-04:00",
+    "start_datetime": "2026-05-16T12:00:00+00:00",
+    "end_datetime": "2026-05-16T13:00:00+00:00",
+    "created_at": "2026-03-29T14:26:36+00:00",
+    "updated_at": "2026-03-29T14:26:36+00:00",
+    "last_day": "2027-06-19T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour la communauté transgenre",
+    "weekday": 6,
+    "start_time": [
+      15,
+      0
+    ],
+    "end_time": [
+      15,
+      0
+    ],
+    "period_start": "2026-05-11T00:00:00-04:00",
+    "period_end": "2027-06-19T00:00:00-04:00",
+    "section": "Pour la communauté transgenre",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-05-16T00:00:00-04:00",
+    "start_datetime": "2026-05-16T15:00:00+00:00",
+    "end_datetime": "2026-05-16T15:00:00+00:00",
+    "created_at": "2026-03-29T14:26:36+00:00",
+    "updated_at": "2026-03-29T14:26:36+00:00",
+    "last_day": "2027-06-19T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour les adultes (16 ans et plus)",
+    "weekday": 0,
+    "start_time": [
+      12,
+      0
+    ],
+    "end_time": [
+      13,
+      0
+    ],
+    "period_start": "2026-05-11T00:00:00-04:00",
+    "period_end": "2027-06-19T00:00:00-04:00",
+    "section": "Pour les adultes (16 ans et plus)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-05-17T00:00:00-04:00",
+    "start_datetime": "2026-05-17T12:00:00+00:00",
+    "end_datetime": "2026-05-17T13:00:00+00:00",
+    "created_at": "2026-03-29T14:26:36+00:00",
+    "updated_at": "2026-03-29T14:26:36+00:00",
+    "last_day": "2027-06-19T00:00:00-04:00"
+  },
+  {
+    "title": "Baignade libre pour la famille",
+    "weekday": 0,
+    "start_time": [
+      14,
+      0
+    ],
+    "end_time": [
+      16,
+      0
+    ],
+    "period_start": "2026-05-11T00:00:00-04:00",
+    "period_end": "2027-06-19T00:00:00-04:00",
+    "section": "Pour la famille",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-05-17T00:00:00-04:00",
+    "start_datetime": "2026-05-17T14:00:00+00:00",
+    "end_datetime": "2026-05-17T16:00:00+00:00",
+    "created_at": "2026-03-29T14:26:36+00:00",
+    "updated_at": "2026-03-29T14:26:36+00:00",
+    "last_day": "2027-06-19T00:00:00-04:00"
   }
 ]
