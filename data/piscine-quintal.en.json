@@ -5980,6 +5980,29 @@
     "last_day": "2026-08-24T00:00:00-04:00"
   },
   {
+    "title": "Open swim for adults (ages 16 and over)",
+    "weekday": 3,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      15,
+      55
+    ],
+    "period_start": "2026-06-24T00:00:00-04:00",
+    "period_end": "2026-08-31T00:00:00-04:00",
+    "section": "For adults (Ages 16 and over)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-06-24T00:00:00-04:00",
+    "start_datetime": "2026-06-24T11:00:00+00:00",
+    "end_datetime": "2026-06-24T15:55:00+00:00",
+    "created_at": "2026-08-24T14:32:27+00:00",
+    "updated_at": "2026-08-24T14:32:27+00:00",
+    "last_day": "2026-08-31T00:00:00-04:00"
+  },
+  {
     "title": "Open swim for everyone",
     "weekday": 3,
     "start_time": [
@@ -6001,6 +6024,29 @@
     "created_at": "2026-06-22T15:12:49+00:00",
     "updated_at": "2026-06-22T15:12:49+00:00",
     "last_day": "2026-08-24T00:00:00-04:00"
+  },
+  {
+    "title": "Open swim for everyone",
+    "weekday": 3,
+    "start_time": [
+      17,
+      0
+    ],
+    "end_time": [
+      19,
+      25
+    ],
+    "period_start": "2026-06-24T00:00:00-04:00",
+    "period_end": "2026-08-31T00:00:00-04:00",
+    "section": "For everyone",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-06-24T00:00:00-04:00",
+    "start_datetime": "2026-06-24T17:00:00+00:00",
+    "end_datetime": "2026-06-24T19:25:00+00:00",
+    "created_at": "2026-08-24T14:32:27+00:00",
+    "updated_at": "2026-08-24T14:32:27+00:00",
+    "last_day": "2026-08-31T00:00:00-04:00"
   },
   {
     "title": "Open swim for adults (ages 16 and over)",
@@ -6026,6 +6072,29 @@
     "last_day": "2026-08-24T00:00:00-04:00"
   },
   {
+    "title": "Open swim for adults (ages 16 and over)",
+    "weekday": 4,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      15,
+      55
+    ],
+    "period_start": "2026-06-24T00:00:00-04:00",
+    "period_end": "2026-08-31T00:00:00-04:00",
+    "section": "For adults (Ages 16 and over)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-06-25T00:00:00-04:00",
+    "start_datetime": "2026-06-25T11:00:00+00:00",
+    "end_datetime": "2026-06-25T15:55:00+00:00",
+    "created_at": "2026-08-24T14:32:27+00:00",
+    "updated_at": "2026-08-24T14:32:27+00:00",
+    "last_day": "2026-08-31T00:00:00-04:00"
+  },
+  {
     "title": "Open swim for the transgender community",
     "weekday": 4,
     "start_time": [
@@ -6047,6 +6116,29 @@
     "created_at": "2026-06-22T15:12:49+00:00",
     "updated_at": "2026-06-22T15:12:49+00:00",
     "last_day": "2026-08-24T00:00:00-04:00"
+  },
+  {
+    "title": "Open swim for the transgender community",
+    "weekday": 4,
+    "start_time": [
+      17,
+      0
+    ],
+    "end_time": [
+      18,
+      55
+    ],
+    "period_start": "2026-06-24T00:00:00-04:00",
+    "period_end": "2026-08-31T00:00:00-04:00",
+    "section": "For the transgender community",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-06-25T00:00:00-04:00",
+    "start_datetime": "2026-06-25T17:00:00+00:00",
+    "end_datetime": "2026-06-25T18:55:00+00:00",
+    "created_at": "2026-08-24T14:32:27+00:00",
+    "updated_at": "2026-08-24T14:32:27+00:00",
+    "last_day": "2026-08-31T00:00:00-04:00"
   },
   {
     "title": "Open swim for everyone",
@@ -6073,6 +6165,29 @@
   },
   {
     "title": "Open swim for everyone",
+    "weekday": 5,
+    "start_time": [
+      17,
+      0
+    ],
+    "end_time": [
+      19,
+      25
+    ],
+    "period_start": "2026-06-24T00:00:00-04:00",
+    "period_end": "2026-08-31T00:00:00-04:00",
+    "section": "For everyone",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-06-26T00:00:00-04:00",
+    "start_datetime": "2026-06-26T17:00:00+00:00",
+    "end_datetime": "2026-06-26T19:25:00+00:00",
+    "created_at": "2026-08-24T14:32:27+00:00",
+    "updated_at": "2026-08-24T14:32:27+00:00",
+    "last_day": "2026-08-31T00:00:00-04:00"
+  },
+  {
+    "title": "Open swim for everyone",
     "weekday": 6,
     "start_time": [
       9,
@@ -6093,6 +6208,29 @@
     "created_at": "2026-06-22T15:12:49+00:00",
     "updated_at": "2026-06-22T15:12:49+00:00",
     "last_day": "2026-08-24T00:00:00-04:00"
+  },
+  {
+    "title": "Open swim for everyone",
+    "weekday": 6,
+    "start_time": [
+      9,
+      0
+    ],
+    "end_time": [
+      11,
+      55
+    ],
+    "period_start": "2026-06-24T00:00:00-04:00",
+    "period_end": "2026-08-31T00:00:00-04:00",
+    "section": "For everyone",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-06-27T00:00:00-04:00",
+    "start_datetime": "2026-06-27T09:00:00+00:00",
+    "end_datetime": "2026-06-27T11:55:00+00:00",
+    "created_at": "2026-08-24T14:32:27+00:00",
+    "updated_at": "2026-08-24T14:32:27+00:00",
+    "last_day": "2026-08-31T00:00:00-04:00"
   },
   {
     "title": "Open swim for adults (ages 16 and over)",
@@ -6118,6 +6256,29 @@
     "last_day": "2026-08-24T00:00:00-04:00"
   },
   {
+    "title": "Open swim for adults (ages 16 and over)",
+    "weekday": 6,
+    "start_time": [
+      12,
+      0
+    ],
+    "end_time": [
+      13,
+      55
+    ],
+    "period_start": "2026-06-24T00:00:00-04:00",
+    "period_end": "2026-08-31T00:00:00-04:00",
+    "section": "For adults (Ages 16 and over)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-06-27T00:00:00-04:00",
+    "start_datetime": "2026-06-27T12:00:00+00:00",
+    "end_datetime": "2026-06-27T13:55:00+00:00",
+    "created_at": "2026-08-24T14:32:27+00:00",
+    "updated_at": "2026-08-24T14:32:27+00:00",
+    "last_day": "2026-08-31T00:00:00-04:00"
+  },
+  {
     "title": "Open swim for the transgender community",
     "weekday": 6,
     "start_time": [
@@ -6139,6 +6300,29 @@
     "created_at": "2026-06-22T15:12:49+00:00",
     "updated_at": "2026-06-22T15:12:49+00:00",
     "last_day": "2026-08-24T00:00:00-04:00"
+  },
+  {
+    "title": "Open swim for the transgender community",
+    "weekday": 6,
+    "start_time": [
+      15,
+      0
+    ],
+    "end_time": [
+      15,
+      55
+    ],
+    "period_start": "2026-06-24T00:00:00-04:00",
+    "period_end": "2026-08-31T00:00:00-04:00",
+    "section": "For the transgender community",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-06-27T00:00:00-04:00",
+    "start_datetime": "2026-06-27T15:00:00+00:00",
+    "end_datetime": "2026-06-27T15:55:00+00:00",
+    "created_at": "2026-08-24T14:32:27+00:00",
+    "updated_at": "2026-08-24T14:32:27+00:00",
+    "last_day": "2026-08-31T00:00:00-04:00"
   },
   {
     "title": "Open swim for adults (ages 16 and over)",
@@ -6164,6 +6348,29 @@
     "last_day": "2026-08-24T00:00:00-04:00"
   },
   {
+    "title": "Open swim for adults (ages 16 and over)",
+    "weekday": 1,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      12,
+      55
+    ],
+    "period_start": "2026-06-24T00:00:00-04:00",
+    "period_end": "2026-08-31T00:00:00-04:00",
+    "section": "For adults (Ages 16 and over)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-06-29T00:00:00-04:00",
+    "start_datetime": "2026-06-29T11:00:00+00:00",
+    "end_datetime": "2026-06-29T12:55:00+00:00",
+    "created_at": "2026-08-24T14:32:27+00:00",
+    "updated_at": "2026-08-24T14:32:27+00:00",
+    "last_day": "2026-08-31T00:00:00-04:00"
+  },
+  {
     "title": "Open swim for everyone",
     "weekday": 1,
     "start_time": [
@@ -6185,6 +6392,29 @@
     "created_at": "2026-06-22T15:12:49+00:00",
     "updated_at": "2026-06-22T15:12:49+00:00",
     "last_day": "2026-08-24T00:00:00-04:00"
+  },
+  {
+    "title": "Open swim for everyone",
+    "weekday": 1,
+    "start_time": [
+      17,
+      0
+    ],
+    "end_time": [
+      19,
+      25
+    ],
+    "period_start": "2026-06-24T00:00:00-04:00",
+    "period_end": "2026-08-31T00:00:00-04:00",
+    "section": "For everyone",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-06-29T00:00:00-04:00",
+    "start_datetime": "2026-06-29T17:00:00+00:00",
+    "end_datetime": "2026-06-29T19:25:00+00:00",
+    "created_at": "2026-08-24T14:32:27+00:00",
+    "updated_at": "2026-08-24T14:32:27+00:00",
+    "last_day": "2026-08-31T00:00:00-04:00"
   },
   {
     "title": "Open swim for adults (ages 16 and over)",
@@ -6210,6 +6440,29 @@
     "last_day": "2026-08-24T00:00:00-04:00"
   },
   {
+    "title": "Open swim for adults (ages 16 and over)",
+    "weekday": 2,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      12,
+      55
+    ],
+    "period_start": "2026-06-24T00:00:00-04:00",
+    "period_end": "2026-08-31T00:00:00-04:00",
+    "section": "For adults (Ages 16 and over)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-06-30T00:00:00-04:00",
+    "start_datetime": "2026-06-30T11:00:00+00:00",
+    "end_datetime": "2026-06-30T12:55:00+00:00",
+    "created_at": "2026-08-24T14:32:27+00:00",
+    "updated_at": "2026-08-24T14:32:27+00:00",
+    "last_day": "2026-08-31T00:00:00-04:00"
+  },
+  {
     "title": "Open swim for everyone",
     "weekday": 2,
     "start_time": [
@@ -6231,5 +6484,212 @@
     "created_at": "2026-06-22T15:12:49+00:00",
     "updated_at": "2026-06-22T15:12:49+00:00",
     "last_day": "2026-08-24T00:00:00-04:00"
+  },
+  {
+    "title": "Open swim for everyone",
+    "weekday": 2,
+    "start_time": [
+      17,
+      0
+    ],
+    "end_time": [
+      19,
+      25
+    ],
+    "period_start": "2026-06-24T00:00:00-04:00",
+    "period_end": "2026-08-31T00:00:00-04:00",
+    "section": "For everyone",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-06-30T00:00:00-04:00",
+    "start_datetime": "2026-06-30T17:00:00+00:00",
+    "end_datetime": "2026-06-30T19:25:00+00:00",
+    "created_at": "2026-08-24T14:32:27+00:00",
+    "updated_at": "2026-08-24T14:32:27+00:00",
+    "last_day": "2026-08-31T00:00:00-04:00"
+  },
+  {
+    "title": "Open swim for adults (ages 16 and over)",
+    "weekday": 3,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      15,
+      25
+    ],
+    "period_start": "2026-08-31T00:00:00-04:00",
+    "period_end": "2026-12-24T00:00:00-05:00",
+    "section": "For adults (Ages 16 and over)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-09-02T00:00:00-04:00",
+    "start_datetime": "2026-09-02T13:00:00+00:00",
+    "end_datetime": "2026-09-02T15:25:00+00:00",
+    "created_at": "2026-08-24T14:32:27+00:00",
+    "updated_at": "2026-08-24T14:32:27+00:00",
+    "last_day": "2026-12-24T00:00:00-05:00"
+  },
+  {
+    "title": "Open swim for everyone",
+    "weekday": 3,
+    "start_time": [
+      17,
+      0
+    ],
+    "end_time": [
+      19,
+      55
+    ],
+    "period_start": "2026-08-31T00:00:00-04:00",
+    "period_end": "2026-12-24T00:00:00-05:00",
+    "section": "For everyone",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-09-02T00:00:00-04:00",
+    "start_datetime": "2026-09-02T17:00:00+00:00",
+    "end_datetime": "2026-09-02T19:55:00+00:00",
+    "created_at": "2026-08-24T14:32:27+00:00",
+    "updated_at": "2026-08-24T14:32:27+00:00",
+    "last_day": "2026-12-24T00:00:00-05:00"
+  },
+  {
+    "title": "Open swim for adults (ages 16 and over)",
+    "weekday": 4,
+    "start_time": [
+      13,
+      0
+    ],
+    "end_time": [
+      15,
+      25
+    ],
+    "period_start": "2026-08-31T00:00:00-04:00",
+    "period_end": "2026-12-24T00:00:00-05:00",
+    "section": "For adults (Ages 16 and over)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-09-03T00:00:00-04:00",
+    "start_datetime": "2026-09-03T13:00:00+00:00",
+    "end_datetime": "2026-09-03T15:25:00+00:00",
+    "created_at": "2026-08-24T14:32:27+00:00",
+    "updated_at": "2026-08-24T14:32:27+00:00",
+    "last_day": "2026-12-24T00:00:00-05:00"
+  },
+  {
+    "title": "Open swim for the transgender community",
+    "weekday": 4,
+    "start_time": [
+      18,
+      0
+    ],
+    "end_time": [
+      19,
+      55
+    ],
+    "period_start": "2026-08-31T00:00:00-04:00",
+    "period_end": "2026-12-24T00:00:00-05:00",
+    "section": "For the transgender community",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-09-03T00:00:00-04:00",
+    "start_datetime": "2026-09-03T18:00:00+00:00",
+    "end_datetime": "2026-09-03T19:55:00+00:00",
+    "created_at": "2026-08-24T14:32:27+00:00",
+    "updated_at": "2026-08-24T14:32:27+00:00",
+    "last_day": "2026-12-24T00:00:00-05:00"
+  },
+  {
+    "title": "Open swim for everyone",
+    "weekday": 5,
+    "start_time": [
+      17,
+      0
+    ],
+    "end_time": [
+      19,
+      55
+    ],
+    "period_start": "2026-08-31T00:00:00-04:00",
+    "period_end": "2026-12-24T00:00:00-05:00",
+    "section": "For everyone",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-09-04T00:00:00-04:00",
+    "start_datetime": "2026-09-04T17:00:00+00:00",
+    "end_datetime": "2026-09-04T19:55:00+00:00",
+    "created_at": "2026-08-24T14:32:27+00:00",
+    "updated_at": "2026-08-24T14:32:27+00:00",
+    "last_day": "2026-12-24T00:00:00-05:00"
+  },
+  {
+    "title": "Open swim for adults (ages 16 and over)",
+    "weekday": 6,
+    "start_time": [
+      9,
+      0
+    ],
+    "end_time": [
+      10,
+      55
+    ],
+    "period_start": "2026-08-31T00:00:00-04:00",
+    "period_end": "2026-12-24T00:00:00-05:00",
+    "section": "For adults (Ages 16 and over)",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-09-05T00:00:00-04:00",
+    "start_datetime": "2026-09-05T09:00:00+00:00",
+    "end_datetime": "2026-09-05T10:55:00+00:00",
+    "created_at": "2026-08-24T14:32:27+00:00",
+    "updated_at": "2026-08-24T14:32:27+00:00",
+    "last_day": "2026-12-24T00:00:00-05:00"
+  },
+  {
+    "title": "Open swim for everyone",
+    "weekday": 6,
+    "start_time": [
+      11,
+      0
+    ],
+    "end_time": [
+      13,
+      55
+    ],
+    "period_start": "2026-08-31T00:00:00-04:00",
+    "period_end": "2026-12-24T00:00:00-05:00",
+    "section": "For everyone",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-09-05T00:00:00-04:00",
+    "start_datetime": "2026-09-05T11:00:00+00:00",
+    "end_datetime": "2026-09-05T13:55:00+00:00",
+    "created_at": "2026-08-24T14:32:27+00:00",
+    "updated_at": "2026-08-24T14:32:27+00:00",
+    "last_day": "2026-12-24T00:00:00-05:00"
+  },
+  {
+    "title": "Open swim for the transgender community",
+    "weekday": 6,
+    "start_time": [
+      15,
+      0
+    ],
+    "end_time": [
+      15,
+      55
+    ],
+    "period_start": "2026-08-31T00:00:00-04:00",
+    "period_end": "2026-12-24T00:00:00-05:00",
+    "section": "For the transgender community",
+    "notice": null,
+    "notice_details": null,
+    "first_day": "2026-09-05T00:00:00-04:00",
+    "start_datetime": "2026-09-05T15:00:00+00:00",
+    "end_datetime": "2026-09-05T15:55:00+00:00",
+    "created_at": "2026-08-24T14:32:27+00:00",
+    "updated_at": "2026-08-24T14:32:27+00:00",
+    "last_day": "2026-12-24T00:00:00-05:00"
   }
 ]
