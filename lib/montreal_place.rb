@@ -118,6 +118,8 @@ class MontrealPlace
     # Find the first date for each day of the week
     events.each do |event|
       cal.event do |e|
+        description_lines = []
+
         e.uid         = event.dynamic_hash
         e.dtstart     = Icalendar::Values::DateTime.new(event.start_datetime, 'tzid' => timezone_id)
         e.dtend       = Icalendar::Values::DateTime.new(event.end_datetime, 'tzid' => timezone_id)
@@ -125,11 +127,13 @@ class MontrealPlace
 
         if event.notice
           e.summary = "#{event.notice} - #{e.summary}"
-          e.description = "#{event.notice} - #{event.notice_details}"
+          description_lines << [event.notice, event.notice_details].compact.join(' - ')
           e.color = "#f9c25c"
         else
           e.color = "#9fc6e7"
         end
+        description_lines << "Source: #{url}"
+        e.description = description_lines.join("\n")
 
         # e.ip_class    = "PRIVATE"
         e.location    = "#{place_name}, #{address}"
@@ -324,4 +328,3 @@ class MontrealPlace
     end
   end
 end
-
