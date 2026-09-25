@@ -42,12 +42,20 @@ jobs:
       - build
 
     permissions:
-      contents: none
+      contents: write
+      pull-requests: write
 
     steps:
-    - name: Automerge if Dependabot
-      uses: ahmadnassri/action-dependabot-auto-merge@v2
+    - name: Fetch Dependabot metadata
+      id: metadata
+      uses: dependabot/fetch-metadata@v2
       with:
-        target: minor
-        command: 'squash and merge'
-        github-token: ${{ secrets.AUTOMERGE_TOKEN }}
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Enable auto-merge for minor and patch updates
+      if: |
+        steps.metadata.outputs.update-type == 'version-update:semver-minor' ||
+        steps.metadata.outputs.update-type == 'version-update:semver-patch'
+      run: gh pr merge --auto --squash "${{ github.event.pull_request.html_url }}"
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
